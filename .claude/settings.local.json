@@ -18,7 +18,16 @@
       "Read(//tmp/**)",
       "Bash(\"C:\\Users\\bimal\\AppData\\Local\\Programs\\Python\\Python311\\python.exe\" navigation_test.py http://localhost:3008)",
       "Bash(\"C:\\Users\\bimal\\AppData\\Local\\Programs\\Python\\Python311\\python.exe\" simple_nav_test.py)",
-      "Bash(\"C:\\Users\\bimal\\AppData\\Local\\Programs\\Python\\Python311\\python.exe\" robust_nav_test.py)"
+      "Bash(\"C:\\Users\\bimal\\AppData\\Local\\Programs\\Python\\Python311\\python.exe\" robust_nav_test.py)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(git remote add:*)",
+      "Bash(gh:*)",
+      "Bash(git remote remove:*)",
+      "Bash(cat:*)",
+      "Bash(\"C:\\Users\\bimal\\AppData\\Local\\Programs\\Python\\Python311\\python.exe\" \"/c/ai/data_engineering_learning/count_lessons_by_module.py\")",
+      "Bash(mkdir:*)",
+      "Bash(\"C:\\Users\\bimal\\AppData\\Local\\Programs\\Python\\Python311\\python.exe\" generate_module_descriptions.py)"
     ],
     "deny": [],
     "ask": []
