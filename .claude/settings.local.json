@@ -9,7 +9,16 @@
       "Bash(dir:*)",
       "Bash(git init:*)",
       "Bash(git add:*)",
-      "Bash(git reset:*)"
+      "Bash(git reset:*)",
+      "Bash(\"C:\\Users\\bimal\\AppData\\Local\\Programs\\Python\\Python311\\python.exe\" \"C:\\ai\\data_engineering_learning\\count_lessons_by_module.py\")",
+      "Bash(\"C:\\Users\\bimal\\AppData\\Local\\Programs\\Python\\Python311\\python.exe\" scripts/with_server.py --help)",
+      "Bash(\"C:\\Users\\bimal\\AppData\\Local\\Programs\\Python\\Python311\\python.exe\" -c \"import playwright; print(''Playwright installed'')\")",
+      "Bash(\"C:\\Users\\bimal\\AppData\\Local\\Programs\\Python\\Python311\\python.exe\" -m playwright install)",
+      "Bash(\"C:\\Users\\bimal\\AppData\\Local\\Programs\\Python\\Python311\\python.exe\" parallel_comprehensive_test.py http://localhost:3006)",
+      "Read(//tmp/**)",
+      "Bash(\"C:\\Users\\bimal\\AppData\\Local\\Programs\\Python\\Python311\\python.exe\" navigation_test.py http://localhost:3008)",
+      "Bash(\"C:\\Users\\bimal\\AppData\\Local\\Programs\\Python\\Python311\\python.exe\" simple_nav_test.py)",
+      "Bash(\"C:\\Users\\bimal\\AppData\\Local\\Programs\\Python\\Python311\\python.exe\" robust_nav_test.py)"
     ],
     "deny": [],
     "ask": []

@@ -1,6 +1,8 @@
 "use client"
 
 import { useState } from "react"
+import Link from "next/link"
+import { usePathname } from "next/navigation"
 import { cn } from "@/lib/utils"
 import { ThemeToggle } from "@/components/ThemeToggle"
 import { 
@@ -11,7 +13,8 @@ import {
   BookOpen, 
   ChevronRight,
   Menu,
-  X
+  X,
+  Library
 } from "lucide-react"
 
 interface NavigationItem {
@@ -58,6 +61,12 @@ const navigationItems: NavigationItem[] = [
     ]
   },
   {
+    id: "lessons",
+    label: "All Lessons (541)",
+    icon: Library,
+    href: "/lessons",
+  },
+  {
     id: "projects",
     label: "Projects",
     icon: FolderOpen,
@@ -96,6 +105,7 @@ const navigationItems: NavigationItem[] = [
 ]
 
 export default function Navigation() {
+  const pathname = usePathname()
   const [isExpanded, setIsExpanded] = useState(false)
   const [isMobileOpen, setIsMobileOpen] = useState(false)
   const [expandedSections, setExpandedSections] = useState<string[]>([])
@@ -111,13 +121,7 @@ export default function Navigation() {
   const NavigationContent = () => (
     <div className="flex flex-col h-full">
       <div className="p-4 border-b">
-        <div className="flex items-center justify-between">
-          <h1 className={cn(
-            "font-bold transition-opacity duration-300",
-            isExpanded || isMobileOpen ? "text-xs opacity-100" : "text-xs opacity-0 lg:opacity-100"
-          )}>
-            <span data-testid="site-logo">Data Engineering Platform</span>
-          </h1>
+        <div className="flex items-center justify-end">
           <div className={cn(
             "transition-opacity duration-300",
             isExpanded || isMobileOpen ? "opacity-100" : "opacity-0 lg:opacity-100"
@@ -130,23 +134,22 @@ export default function Navigation() {
       <nav role="navigation" aria-label="Main navigation" className="flex-1 p-4 space-y-1">
         {navigationItems.map((item) => (
           <div key={item.id} className="menu-section">
-            <button
-              onClick={() => item.children && toggleSection(item.id)}
-              className={cn(
-                "w-full flex items-center gap-3 menu-item",
-                "hover:bg-accent/50 rounded-md px-2 transition-colors duration-300",
-                !item.children && "cursor-pointer"
-              )}
-              aria-expanded={item.children ? expandedSections.includes(item.id) : undefined}
-            >
-              <item.icon className="w-4 h-4 flex-shrink-0" />
-              <span className={cn(
-                "transition-opacity duration-300 truncate",
-                isExpanded || isMobileOpen ? "opacity-100" : "opacity-0 lg:opacity-100"
-              )}>
-                {item.label}
-              </span>
-              {item.children && (
+{item.children ? (
+              <button
+                onClick={() => toggleSection(item.id)}
+                className={cn(
+                  "w-full flex items-center gap-3 menu-item",
+                  "hover:bg-accent/50 rounded-md px-2 transition-colors duration-300"
+                )}
+                aria-expanded={expandedSections.includes(item.id)}
+              >
+                <item.icon className="w-4 h-4 flex-shrink-0" />
+                <span className={cn(
+                  "transition-opacity duration-300 truncate",
+                  isExpanded || isMobileOpen ? "opacity-100" : "opacity-0 lg:opacity-100"
+                )}>
+                  {item.label}
+                </span>
                 <ChevronRight 
                   className={cn(
                     "w-3 h-3 ml-auto transition-transform duration-300",
@@ -154,8 +157,25 @@ export default function Navigation() {
                     isExpanded || isMobileOpen ? "opacity-100" : "opacity-0 lg:opacity-100"
                   )}
                 />
-              )}
-            </button>
+              </button>
+            ) : (
+              <Link 
+                href={item.href}
+                className={cn(
+                  "w-full flex items-center gap-3 menu-item",
+                  "hover:bg-accent/50 rounded-md px-2 transition-colors duration-300",
+                  pathname === item.href && "bg-accent text-accent-foreground"
+                )}
+              >
+                <item.icon className="w-4 h-4 flex-shrink-0" />
+                <span className={cn(
+                  "transition-opacity duration-300 truncate",
+                  isExpanded || isMobileOpen ? "opacity-100" : "opacity-0 lg:opacity-100"
+                )}>
+                  {item.label}
+                </span>
+              </Link>
+            )}
             
             {item.children && expandedSections.includes(item.id) && (
               <div className={cn(
@@ -163,13 +183,17 @@ export default function Navigation() {
                 isExpanded || isMobileOpen ? "block" : "hidden lg:block"
               )}>
                 {item.children.map((child) => (
-                  <button
+                  <Link
                     key={child.id}
-                    className="w-full flex items-center gap-2 menu-item hover:bg-accent/30 rounded-md px-2 transition-colors duration-300"
+                    href={child.href}
+                    className={cn(
+                      "w-full flex items-center gap-2 menu-item hover:bg-accent/30 rounded-md px-2 transition-colors duration-300",
+                      pathname === child.href && "bg-accent/50 text-accent-foreground"
+                    )}
                   >
                     <div className="w-2 h-2 rounded-full bg-muted-foreground/40 flex-shrink-0" />
                     <span className="truncate text-left">{child.label}</span>
-                  </button>
+                  </Link>
                 ))}
               </div>
             )}
@@ -206,8 +230,7 @@ export default function Navigation() {
         "lg:hidden fixed top-0 left-0 h-full w-80 bg-background border-r shadow-lg z-50 transform transition-transform duration-300",
         isMobileOpen ? "translate-x-0" : "-translate-x-full"
       )}>
-        <div className="flex items-center justify-between p-4 border-b">
-          <h1 className="text-xs font-bold">Data Engineering Platform</h1>
+        <div className="flex items-center justify-end p-4 border-b">
           <button
             onClick={() => setIsMobileOpen(false)}
             className="p-1 hover:bg-accent rounded-md"

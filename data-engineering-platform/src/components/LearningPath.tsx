@@ -52,8 +52,8 @@ const modules: Module[] = [
     icon: Database,
     status: "completed",
     progress: 100,
-    estimatedHours: 12,
-    lessons: 8,
+    estimatedHours: 23,
+    lessons: 23,
     labs: 3,
     topics: ["ACID Properties", "Normalization", "Data Types", "Indexes", "OLTP vs OLAP"]
   },
@@ -64,8 +64,8 @@ const modules: Module[] = [
     icon: Code,
     status: "current",
     progress: 30,
-    estimatedHours: 16,
-    lessons: 12,
+    estimatedHours: 53,
+    lessons: 53,
     labs: 5,
     topics: ["SQL Joins", "Window Functions", "CTEs", "Performance", "ELT vs ETL"]
   },
@@ -76,8 +76,8 @@ const modules: Module[] = [
     icon: Cloud,
     status: "locked",
     progress: 0,
-    estimatedHours: 10,
-    lessons: 7,
+    estimatedHours: 19,
+    lessons: 19,
     labs: 3,
     topics: ["DW Architecture", "Loading Patterns", "Data Quality", "Batch Processing"]
   },
@@ -88,8 +88,8 @@ const modules: Module[] = [
     icon: Workflow,
     status: "locked",
     progress: 0,
-    estimatedHours: 14,
-    lessons: 10,
+    estimatedHours: 33,
+    lessons: 33,
     labs: 4,
     topics: ["Star Schema", "SCD Types", "Fact Tables", "Dimension Tables", "ERDs"]
   },
@@ -100,8 +100,8 @@ const modules: Module[] = [
     icon: Cloud,
     status: "locked",
     progress: 0,
-    estimatedHours: 18,
-    lessons: 15,
+    estimatedHours: 55,
+    lessons: 55,
     labs: 6,
     topics: ["Snowflake Architecture", "Virtual Warehouses", "Data Loading", "Performance"]
   },
@@ -112,8 +112,8 @@ const modules: Module[] = [
     icon: Cog,
     status: "locked",
     progress: 0,
-    estimatedHours: 12,
-    lessons: 9,
+    estimatedHours: 28,
+    lessons: 28,
     labs: 4,
     topics: ["Pipeline Design", "Transformations", "Incremental Loading", "Data Lineage"]
   },
@@ -124,8 +124,8 @@ const modules: Module[] = [
     icon: Shield,
     status: "locked",
     progress: 0,
-    estimatedHours: 10,
-    lessons: 8,
+    estimatedHours: 32,
+    lessons: 32,
     labs: 3,
     topics: ["Data Governance", "Quality Checks", "Testing", "Metadata Management"]
   },
@@ -136,8 +136,8 @@ const modules: Module[] = [
     icon: Shield,
     status: "locked", 
     progress: 0,
-    estimatedHours: 8,
-    lessons: 6,
+    estimatedHours: 20,
+    lessons: 20,
     labs: 2,
     topics: ["RBAC", "Access Control", "Security Policies", "Authentication"]
   },
@@ -148,8 +148,8 @@ const modules: Module[] = [
     icon: BarChart3,
     status: "locked", 
     progress: 0,
-    estimatedHours: 12,
-    lessons: 10,
+    estimatedHours: 39,
+    lessons: 39,
     labs: 4,
     topics: ["ThoughtSpot", "Visualization", "Dashboards", "Semantic Layer"]
   },
@@ -160,8 +160,8 @@ const modules: Module[] = [
     icon: Terminal,
     status: "locked", 
     progress: 0,
-    estimatedHours: 8,
-    lessons: 6,
+    estimatedHours: 25,
+    lessons: 25,
     labs: 3,
     topics: ["Shell Commands", "File Operations", "Scripting", "Log Analysis"]
   },
@@ -172,8 +172,8 @@ const modules: Module[] = [
     icon: GitBranch,
     status: "locked", 
     progress: 0,
-    estimatedHours: 6,
-    lessons: 5,
+    estimatedHours: 22,
+    lessons: 22,
     labs: 2,
     topics: ["Git Basics", "Branching", "Pull Requests", "Collaboration"]
   },
@@ -184,8 +184,8 @@ const modules: Module[] = [
     icon: Gauge,
     status: "locked", 
     progress: 0,
-    estimatedHours: 14,
-    lessons: 11,
+    estimatedHours: 41,
+    lessons: 41,
     labs: 5,
     topics: ["Query Optimization", "Performance Analysis", "Cost Management", "Troubleshooting"]
   },
@@ -196,8 +196,8 @@ const modules: Module[] = [
     icon: Settings,
     status: "locked", 
     progress: 0,
-    estimatedHours: 8,
-    lessons: 6,
+    estimatedHours: 15,
+    lessons: 15,
     labs: 3,
     topics: ["Environment Management", "Deployment", "Testing", "Automation"]
   },
@@ -208,8 +208,8 @@ const modules: Module[] = [
     icon: Eye,
     status: "locked", 
     progress: 0,
-    estimatedHours: 8,
-    lessons: 6,
+    estimatedHours: 16,
+    lessons: 16,
     labs: 2,
     topics: ["Pipeline Monitoring", "Quality Monitoring", "Alerting", "Metrics"]
   },
@@ -220,8 +220,8 @@ const modules: Module[] = [
     icon: Workflow,
     status: "locked", 
     progress: 0,
-    estimatedHours: 10,
-    lessons: 7,
+    estimatedHours: 15,
+    lessons: 15,
     labs: 3,
     topics: ["DAG Design", "Airflow", "Scheduling", "Error Handling"]
   },
@@ -232,8 +232,8 @@ const modules: Module[] = [
     icon: Wrench,
     status: "locked", 
     progress: 0,
-    estimatedHours: 12,
-    lessons: 9,
+    estimatedHours: 15,
+    lessons: 15,
     labs: 4,
     topics: ["dbt Models", "Testing", "Documentation", "Incremental Models"]
   },
@@ -244,8 +244,8 @@ const modules: Module[] = [
     icon: Users,
     status: "locked", 
     progress: 0,
-    estimatedHours: 6,
-    lessons: 8,
+    estimatedHours: 30,
+    lessons: 30,
     labs: 2,
     topics: ["Communication", "Documentation", "Teamwork", "Problem-Solving"]
   },
@@ -256,8 +256,8 @@ const modules: Module[] = [
     icon: Briefcase,
     status: "locked", 
     progress: 0,
-    estimatedHours: 8,
-    lessons: 6,
+    estimatedHours: 14,
+    lessons: 14,
     labs: 3,
     topics: ["Business Metrics", "Requirements", "Domain Knowledge", "KPIs"]
   },
@@ -268,8 +268,8 @@ const modules: Module[] = [
     icon: Code,
     status: "locked", 
     progress: 0,
-    estimatedHours: 10,
-    lessons: 8,
+    estimatedHours: 22,
+    lessons: 22,
     labs: 4,
     topics: ["JSON/APIs", "Data Formats", "Python", "File Processing"]
   },
@@ -280,8 +280,8 @@ const modules: Module[] = [
     icon: Sparkles,
     status: "locked", 
     progress: 0,
-    estimatedHours: 12,
-    lessons: 10,
+    estimatedHours: 23,
+    lessons: 23,
     labs: 3,
     topics: ["Data Mesh", "DataOps", "Streaming", "Cloud Platforms", "ML Integration"]
   }
@@ -439,7 +439,8 @@ export default function LearningPath() {
                   </Button>
                 )}
                 <Button variant="ghost" size="sm">
-                  View Details
+                  <BookOpen className="w-3 h-3 mr-1" />
+                  View Lessons ({module.lessons})
                 </Button>
               </div>
             </CardContent>
