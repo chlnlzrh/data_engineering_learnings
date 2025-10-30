@@ -1,0 +1,27 @@
+SQL & ELT Concepts|Change Data Capture (CDC) fundamentals|I-A|SQL-ELT-Concepts--change-data-capture-cdc-fundamentals--2024-10-30.md
+Data Warehousing Principles|Conformed dimensions across data marts|I-A|Data-Warehousing-Principles--conformed-dimensions-across-data-marts--2024-10-30.md
+Data Warehousing Principles|Enterprise data warehouse concepts|I-A|Data-Warehousing-Principles--enterprise-data-warehouse-concepts--2024-10-30.md
+Data Warehousing Principles|Semantic layers and business logic separation|I-A|Data-Warehousing-Principles--semantic-layers-and-business-logic-separation--2024-10-30.md
+Data Warehousing Principles|Incremental load (upsert/merge)|I-A|Data-Warehousing-Principles--incremental-load-upsertmerge--2024-10-30.md
+Data Warehousing Principles|Delta detection methods (timestamp, hash, CDC)|I-A|Data-Warehousing-Principles--delta-detection-methods-timestamp-hash-cdc--2024-10-30.md
+Data Warehousing Principles|Data refresh strategies and scheduling|I-A|Data-Warehousing-Principles--data-refresh-strategies-and-scheduling--2024-10-30.md
+Data Warehousing Principles|Error handling strategies|I-A|Data-Warehousing-Principles--error-handling-strategies--2024-10-30.md
+Data Warehousing Principles|Data quality monitoring and alerting|I-A|Data-Warehousing-Principles--data-quality-monitoring-and-alerting--2024-10-30.md
+Data Modeling|Grain definition|I-A|Data-Modeling--grain-definition--2024-10-30.md
+Data Modeling|Conformed dimensions|I-A|Data-Modeling--conformed-dimensions--2024-10-30.md
+Data Modeling|Role-playing dimensions|I-A|Data-Modeling--role-playing-dimensions--2024-10-30.md
+Data Modeling|Degenerate dimensions|I-A|Data-Modeling--degenerate-dimensions--2024-10-30.md
+Data Modeling|Junk dimensions|I-A|Data-Modeling--junk-dimensions--2024-10-30.md
+Data Modeling|SCD Type 2 (add new row with history)|I-A|Data-Modeling--scd-type-2-add-new-row-with-history--2024-10-30.md
+Data Modeling|Surrogate key management in SCD Type 2|I-A|Data-Modeling--surrogate-key-management-in-scd-type-2--2024-10-30.md
+Data Modeling|Factless fact tables|I-A|Data-Modeling--factless-fact-tables--2024-10-30.md
+Data Modeling|Periodic snapshot fact tables|I-A|Data-Modeling--periodic-snapshot-fact-tables--2024-10-30.md
+Data Modeling|Bridge tables for many-to-many relationships|I-A|Data-Modeling--bridge-tables-for-many-to-many-relationships--2024-10-30.md
+Snowflake-Specific Knowledge|Multi-cluster shared data architecture|I-A|Snowflake-Specific-Knowledge--multi-cluster-shared-data-architecture--2024-10-30.md
+Snowflake-Specific Knowledge|Data storage layer (micro-partitions)|I-A|Snowflake-Specific-Knowledge--data-storage-layer-micro-partitions--2024-10-30.md
+Snowflake-Specific Knowledge|Query processing and optimization layer|I-A|Snowflake-Specific-Knowledge--query-processing-and-optimization-layer--2024-10-30.md
+Snowflake-Specific Knowledge|Secure views|I-A|Snowflake-Specific-Knowledge--secure-views--2024-10-30.md
+Snowflake-Specific Knowledge|Streams for CDC|I-A|Snowflake-Specific-Knowledge--streams-for-cdc--2024-10-30.md
+Snowflake-Specific Knowledge|Tasks for scheduling|I-A|Snowflake-Specific-Knowledge--tasks-for-scheduling--2024-10-30.md
+Snowflake-Specific Knowledge|Stored procedures and UDFs (User-Defined Functions)|I-A|Snowflake-Specific-Knowledge--stored-procedures-and-udfs-user-defined-functions--2024-10-30.md
+Snowflake-Specific Knowledge|Warehouse scaling (scale up vs scale out)|I-A|Snowflake-Specific-Knowledge--warehouse-scaling-scale-up-vs-scale-out--2024-10-30.md

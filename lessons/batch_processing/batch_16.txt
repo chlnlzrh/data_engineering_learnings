@@ -1,0 +1,27 @@
+Data Governance, Quality & Metadata|Data lifecycle management|I-A|Data-Governance-Quality-Metadata--data-lifecycle-management--2024-10-30.md
+Data Governance, Quality & Metadata|Business rule validation|I-A|Data-Governance-Quality-Metadata--business-rule-validation--2024-10-30.md
+Data Governance, Quality & Metadata|Data quality scoring and metrics|I-A|Data-Governance-Quality-Metadata--data-quality-scoring-and-metrics--2024-10-30.md
+Data Governance, Quality & Metadata|Data quality dashboards|I-A|Data-Governance-Quality-Metadata--data-quality-dashboards--2024-10-30.md
+Data Governance, Quality & Metadata|Integration testing for pipelines|I-A|Data-Governance-Quality-Metadata--integration-testing-for-pipelines--2024-10-30.md
+Data Governance, Quality & Metadata|Regression testing|I-A|Data-Governance-Quality-Metadata--regression-testing--2024-10-30.md
+Data Governance, Quality & Metadata|Test data management|I-A|Data-Governance-Quality-Metadata--test-data-management--2024-10-30.md
+Data Governance, Quality & Metadata|Automated testing frameworks (dbt tests, custom SQL tests)|I-A|Data-Governance-Quality-Metadata--automated-testing-frameworks-dbt-tests-custom-sql-tests--2024-10-30.md
+Data Governance, Quality & Metadata|Data masking and anonymization|I-A|Data-Governance-Quality-Metadata--data-masking-and-anonymization--2024-10-30.md
+Data Governance, Quality & Metadata|Compliance requirements (GDPR, CCPA awareness)|I-A|Data-Governance-Quality-Metadata--compliance-requirements-gdpr-ccpa-awareness--2024-10-30.md
+Data Governance, Quality & Metadata|Data catalog concepts|I-A|Data-Governance-Quality-Metadata--data-catalog-concepts--2024-10-30.md
+Snowflake Security & Access Control|Role hierarchy and inheritance|I-A|Snowflake-Security-Access-Control--role-hierarchy-and-inheritance--2024-10-30.md
+Snowflake Security & Access Control|Future grants|I-A|Snowflake-Security-Access-Control--future-grants--2024-10-30.md
+Snowflake Security & Access Control|Column-level security|I-A|Snowflake-Security-Access-Control--column-level-security--2024-10-30.md
+Snowflake Security & Access Control|Row-level security (secure views, row access policies)|I-A|Snowflake-Security-Access-Control--row-level-security-secure-views-row-access-policies--2024-10-30.md
+Snowflake Security & Access Control|Single Sign-On (SSO) integration|I-A|Snowflake-Security-Access-Control--single-sign-on-sso-integration--2024-10-30.md
+Snowflake Security & Access Control|Key pair authentication|I-A|Snowflake-Security-Access-Control--key-pair-authentication--2024-10-30.md
+Reporting & BI Concepts|SpotIQ for automated insights|I-A|Reporting-BI-Concepts--spotiq-for-automated-insights--2024-10-30.md
+Reporting & BI Concepts|Aggregation and formula configuration|I-A|Reporting-BI-Concepts--aggregation-and-formula-configuration--2024-10-30.md
+Reporting & BI Concepts|Search customization (synonyms, indexing)|I-A|Reporting-BI-Concepts--search-customization-synonyms-indexing--2024-10-30.md
+Reporting & BI Concepts|Security at worksheet level|I-A|Reporting-BI-Concepts--security-at-worksheet-level--2024-10-30.md
+Reporting & BI Concepts|Mobile-responsive design|I-A|Reporting-BI-Concepts--mobile-responsive-design--2024-10-30.md
+Reporting & BI Concepts|Looker and LookML|I-A|Reporting-BI-Concepts--looker-and-lookml--2024-10-30.md
+Reporting & BI Concepts|Aggregation rules|I-A|Reporting-BI-Concepts--aggregation-rules--2024-10-30.md
+Reporting & BI Concepts|Centralized business logic|I-A|Reporting-BI-Concepts--centralized-business-logic--2024-10-30.md
+Reporting & BI Concepts|Pre-aggregated tables and views|I-A|Reporting-BI-Concepts--pre-aggregated-tables-and-views--2024-10-30.md
+Reporting & BI Concepts|Incremental refresh strategies|I-A|Reporting-BI-Concepts--incremental-refresh-strategies--2024-10-30.md

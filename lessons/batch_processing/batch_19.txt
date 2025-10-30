@@ -1,0 +1,27 @@
+Soft Skills & Professional Practices|Technical design documents|I-A|Soft-Skills-Professional-Practices--technical-design-documents--2024-10-30.md
+Soft Skills & Professional Practices|Knowledge sharing and mentoring|I-A|Soft-Skills-Professional-Practices--knowledge-sharing-and-mentoring--2024-10-30.md
+Soft Skills & Professional Practices|Estimating effort and timelines|I-A|Soft-Skills-Professional-Practices--estimating-effort-and-timelines--2024-10-30.md
+Soft Skills & Professional Practices|Balancing technical debt vs feature delivery|I-A|Soft-Skills-Professional-Practices--balancing-technical-debt-vs-feature-delivery--2024-10-30.md
+Business & Domain Knowledge|Cohort analysis concepts|I-A|Business-Domain-Knowledge--cohort-analysis-concepts--2024-10-30.md
+Business & Domain Knowledge|Regulatory and compliance requirements|I-A|Business-Domain-Knowledge--regulatory-and-compliance-requirements--2024-10-30.md
+Additional Technical Skills|Flattening nested structures|I-A|Additional-Technical-Skills--flattening-nested-structures--2024-10-30.md
+Additional Technical Skills|Working with arrays in JSON|I-A|Additional-Technical-Skills--working-with-arrays-in-json--2024-10-30.md
+Additional Technical Skills|Rate limiting and pagination|I-A|Additional-Technical-Skills--rate-limiting-and-pagination--2024-10-30.md
+Emerging Topics & Advanced Concepts|DataOps principles and culture|I-A|Emerging-Topics-Advanced-Concepts--dataops-principles-and-culture--2024-10-30.md
+Emerging Topics & Advanced Concepts|Continuous integration for data pipelines|I-A|Emerging-Topics-Advanced-Concepts--continuous-integration-for-data-pipelines--2024-10-30.md
+Emerging Topics & Advanced Concepts|Automated testing and validation|I-A|Emerging-Topics-Advanced-Concepts--automated-testing-and-validation--2024-10-30.md
+Emerging Topics & Advanced Concepts|Monitoring and observability|I-A|Emerging-Topics-Advanced-Concepts--monitoring-and-observability--2024-10-30.md
+Emerging Topics & Advanced Concepts|Incident response for data issues|I-A|Emerging-Topics-Advanced-Concepts--incident-response-for-data-issues--2024-10-30.md
+Emerging Topics & Advanced Concepts|Kafka and event streaming basics|I-A|Emerging-Topics-Advanced-Concepts--kafka-and-event-streaming-basics--2024-10-30.md
+Emerging Topics & Advanced Concepts|Change Data Capture (CDC) mechanisms|I-A|Emerging-Topics-Advanced-Concepts--change-data-capture-cdc-mechanisms--2024-10-30.md
+Emerging Topics & Advanced Concepts|Snowflake Streams for CDC|I-A|Emerging-Topics-Advanced-Concepts--snowflake-streams-for-cdc--2024-10-30.md
+Emerging Topics & Advanced Concepts|Cloud cost management|I-A|Emerging-Topics-Advanced-Concepts--cloud-cost-management--2024-10-30.md
+Emerging Topics & Advanced Concepts|Machine learning pipeline concepts|I-A|Emerging-Topics-Advanced-Concepts--machine-learning-pipeline-concepts--2024-10-30.md
+Emerging Topics & Advanced Concepts|Feature engineering for ML|I-A|Emerging-Topics-Advanced-Concepts--feature-engineering-for-ml--2024-10-30.md
+Data & Database Fundamentals|Transaction isolation levels|A|Data-Database-Fundamentals--transaction-isolation-levels--2024-10-30.md
+SQL & ELT Concepts|Recursive CTEs|A|SQL-ELT-Concepts--recursive-ctes--2024-10-30.md
+Data Warehousing Principles|Late-arriving facts and dimensions|A|Data-Warehousing-Principles--late-arriving-facts-and-dimensions--2024-10-30.md
+Data Modeling|SCD Type 4 (mini-dimension)|A|Data-Modeling--scd-type-4-mini-dimension--2024-10-30.md
+Data Modeling|SCD Type 6 (hybrid approach)|A|Data-Modeling--scd-type-6-hybrid-approach--2024-10-30.md
+Data Modeling|Accumulating snapshot facts|A|Data-Modeling--accumulating-snapshot-facts--2024-10-30.md
+Data Modeling|Mini-dimensions for rapidly changing attributes|A|Data-Modeling--mini-dimensions-for-rapidly-changing-attributes--2024-10-30.md

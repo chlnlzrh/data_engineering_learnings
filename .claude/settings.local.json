@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run dev:*)",
+      "Bash(python:*)",
+      "Bash(\"C:\\Users\\bimal\\AppData\\Local\\Programs\\Python\\Python311\\python.exe\" extract_topics.py)",
+      "Bash(\"C:\\Users\\bimal\\AppData\\Local\\Programs\\Python\\Python311\\python.exe\" extract_topics_v2.py)",
+      "Bash(\"C:\\Users\\bimal\\AppData\\Local\\Programs\\Python\\Python311\\python.exe\" generate_lessons_parallel.py)",
+      "Bash(dir:*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(git reset:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

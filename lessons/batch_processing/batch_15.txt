@@ -1,0 +1,27 @@
+Snowflake-Specific Knowledge|Multi-cluster warehouses|I-A|Snowflake-Specific-Knowledge--multi-cluster-warehouses--2024-10-30.md
+Snowflake-Specific Knowledge|Warehouse modes (Standard vs Economy)|I-A|Snowflake-Specific-Knowledge--warehouse-modes-standard-vs-economy--2024-10-30.md
+Snowflake-Specific Knowledge|Query queuing and concurrency|I-A|Snowflake-Specific-Knowledge--query-queuing-and-concurrency--2024-10-30.md
+Snowflake-Specific Knowledge|Snowpipe for continuous loading|I-A|Snowflake-Specific-Knowledge--snowpipe-for-continuous-loading--2024-10-30.md
+Snowflake-Specific Knowledge|Bulk loading best practices|I-A|Snowflake-Specific-Knowledge--bulk-loading-best-practices--2024-10-30.md
+Snowflake-Specific Knowledge|COPY INTO transformations|I-A|Snowflake-Specific-Knowledge--copy-into-transformations--2024-10-30.md
+Snowflake-Specific Knowledge|Data sharing (secure data sharing, data marketplace)|I-A|Snowflake-Specific-Knowledge--data-sharing-secure-data-sharing-data-marketplace--2024-10-30.md
+Snowflake-Specific Knowledge|Metadata caching|I-A|Snowflake-Specific-Knowledge--metadata-caching--2024-10-30.md
+Snowflake-Specific Knowledge|Clustering keys and automatic clustering|I-A|Snowflake-Specific-Knowledge--clustering-keys-and-automatic-clustering--2024-10-30.md
+Snowflake-Specific Knowledge|Micro-partitions and pruning|I-A|Snowflake-Specific-Knowledge--micro-partitions-and-pruning--2024-10-30.md
+Snowflake-Specific Knowledge|Materialized views for pre-aggregation|I-A|Snowflake-Specific-Knowledge--materialized-views-for-pre-aggregation--2024-10-30.md
+Snowflake-Specific Knowledge|Warehouse sizing for workloads|I-A|Snowflake-Specific-Knowledge--warehouse-sizing-for-workloads--2024-10-30.md
+Snowflake-Specific Knowledge|Query profiling and optimization|I-A|Snowflake-Specific-Knowledge--query-profiling-and-optimization--2024-10-30.md
+Snowflake-Specific Knowledge|Lateral flattening|I-A|Snowflake-Specific-Knowledge--lateral-flattening--2024-10-30.md
+Snowflake-Specific Knowledge|Working with nested structures|I-A|Snowflake-Specific-Knowledge--working-with-nested-structures--2024-10-30.md
+ETL/ELT Design & Best Practices|Configuration-driven pipelines|I-A|ETLELT-Design-Best-Practices--configuration-driven-pipelines--2024-10-30.md
+ETL/ELT Design & Best Practices|Error handling and retry logic|I-A|ETLELT-Design-Best-Practices--error-handling-and-retry-logic--2024-10-30.md
+ETL/ELT Design & Best Practices|Dependency management (DAG concepts)|I-A|ETLELT-Design-Best-Practices--dependency-management-dag-concepts--2024-10-30.md
+ETL/ELT Design & Best Practices|Data pivoting and unpivoting|I-A|ETLELT-Design-Best-Practices--data-pivoting-and-unpivoting--2024-10-30.md
+ETL/ELT Design & Best Practices|Hash-based change detection|I-A|ETLELT-Design-Best-Practices--hash-based-change-detection--2024-10-30.md
+ETL/ELT Design & Best Practices|CDC-based incremental patterns|I-A|ETLELT-Design-Best-Practices--cdc-based-incremental-patterns--2024-10-30.md
+ETL/ELT Design & Best Practices|Merge/upsert logic (MERGE statement)|I-A|ETLELT-Design-Best-Practices--mergeupsert-logic-merge-statement--2024-10-30.md
+ETL/ELT Design & Best Practices|Delete detection strategies|I-A|ETLELT-Design-Best-Practices--delete-detection-strategies--2024-10-30.md
+ETL/ELT Design & Best Practices|Tracking data flow through pipelines|I-A|ETLELT-Design-Best-Practices--tracking-data-flow-through-pipelines--2024-10-30.md
+ETL/ELT Design & Best Practices|Impact analysis|I-A|ETLELT-Design-Best-Practices--impact-analysis--2024-10-30.md
+ETL/ELT Design & Best Practices|Metadata repositories|I-A|ETLELT-Design-Best-Practices--metadata-repositories--2024-10-30.md
+Data Governance, Quality & Metadata|Master data management concepts|I-A|Data-Governance-Quality-Metadata--master-data-management-concepts--2024-10-30.md

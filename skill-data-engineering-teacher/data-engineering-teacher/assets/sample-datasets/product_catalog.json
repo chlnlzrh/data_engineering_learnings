@@ -1,0 +1,82 @@
+[
+  {
+    "product_id": "P101",
+    "product_name": "Wireless Mouse",
+    "category": "Electronics",
+    "subcategory": "Computer Accessories",
+    "brand": "TechBrand",
+    "unit_price": 29.99,
+    "cost": 15.00,
+    "in_stock": true,
+    "stock_quantity": 150,
+    "attributes": {
+      "color": "Black",
+      "wireless": true,
+      "battery_included": true
+    }
+  },
+  {
+    "product_id": "P102",
+    "product_name": "Mechanical Keyboard",
+    "category": "Electronics",
+    "subcategory": "Computer Accessories",
+    "brand": "KeyMaster",
+    "unit_price": 149.99,
+    "cost": 75.00,
+    "in_stock": true,
+    "stock_quantity": 85,
+    "attributes": {
+      "switch_type": "Cherry MX Blue",
+      "backlight": "RGB",
+      "layout": "Full Size"
+    }
+  },
+  {
+    "product_id": "P103",
+    "product_name": "USB-C Cable",
+    "category": "Electronics",
+    "subcategory": "Cables",
+    "brand": "ConnectPro",
+    "unit_price": 19.99,
+    "cost": 8.00,
+    "in_stock": true,
+    "stock_quantity": 300,
+    "attributes": {
+      "length": "6ft",
+      "data_speed": "USB 3.1",
+      "color": "White"
+    }
+  },
+  {
+    "product_id": "P104",
+    "product_name": "Webcam HD",
+    "category": "Electronics",
+    "subcategory": "Video Equipment",
+    "brand": "VisionTech",
+    "unit_price": 89.99,
+    "cost": 45.00,
+    "in_stock": true,
+    "stock_quantity": 60,
+    "attributes": {
+      "resolution": "1080p",
+      "fps": 30,
+      "microphone": true
+    }
+  },
+  {
+    "product_id": "P105",
+    "product_name": "Desk Lamp LED",
+    "category": "Office Supplies",
+    "subcategory": "Lighting",
+    "brand": "BrightSpace",
+    "unit_price": 39.99,
+    "cost": 20.00,
+    "in_stock": true,
+    "stock_quantity": 120,
+    "attributes": {
+      "adjustable": true,
+      "brightness_levels": 3,
+      "color_temp": "Warm White"
+    }
+  }
+]

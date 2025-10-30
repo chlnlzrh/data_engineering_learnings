@@ -1,0 +1,27 @@
+Data Modeling|Heterogeneous products handling|A|Data-Modeling--heterogeneous-products-handling--2024-10-30.md
+Data Modeling|Multi-valued dimensions|A|Data-Modeling--multi-valued-dimensions--2024-10-30.md
+Snowflake-Specific Knowledge|External functions|A|Snowflake-Specific-Knowledge--external-functions--2024-10-30.md
+Snowflake-Specific Knowledge|Search optimization service|A|Snowflake-Specific-Knowledge--search-optimization-service--2024-10-30.md
+Snowflake-Specific Knowledge|Query acceleration service|A|Snowflake-Specific-Knowledge--query-acceleration-service--2024-10-30.md
+Snowflake-Specific Knowledge|Semi-structured data performance considerations|A|Snowflake-Specific-Knowledge--semi-structured-data-performance-considerations--2024-10-30.md
+ETL/ELT Design & Best Practices|Historical data backfilling|A|ETLELT-Design-Best-Practices--historical-data-backfilling--2024-10-30.md
+Snowflake Security & Access Control|Dynamic data masking policies|A|Snowflake-Security-Access-Control--dynamic-data-masking-policies--2024-10-30.md
+Snowflake Security & Access Control|Tag-based masking policies|A|Snowflake-Security-Access-Control--tag-based-masking-policies--2024-10-30.md
+Snowflake Security & Access Control|OAuth integration|A|Snowflake-Security-Access-Control--oauth-integration--2024-10-30.md
+Performance Optimization & Troubleshooting|Clustering key selection and optimization|A|Performance-Optimization-Troubleshooting--clustering-key-selection-and-optimization--2024-10-30.md
+Performance Optimization & Troubleshooting|Micro-partition statistics|A|Performance-Optimization-Troubleshooting--micro-partition-statistics--2024-10-30.md
+Performance Optimization & Troubleshooting|Query acceleration service|A|Performance-Optimization-Troubleshooting--query-acceleration-service--2024-10-30.md
+CI/CD & Deployment Practices|Blue-green deployment concepts|A|CICD-Deployment-Practices--blue-green-deployment-concepts--2024-10-30.md
+Orchestration & Scheduling Tools|Apache NiFi|A|Orchestration-Scheduling-Tools--apache-nifi--2024-10-30.md
+Orchestration & Scheduling Tools|Handling late-arriving data|A|Orchestration-Scheduling-Tools--handling-late-arriving-data--2024-10-30.md
+Additional Technical Skills|Performance considerations for semi-structured data|A|Additional-Technical-Skills--performance-considerations-for-semi-structured-data--2024-10-30.md
+Emerging Topics & Advanced Concepts|Micro-batch processing|A|Emerging-Topics-Advanced-Concepts--micro-batch-processing--2024-10-30.md
+Emerging Topics & Advanced Concepts|Multi-cloud awareness|A|Emerging-Topics-Advanced-Concepts--multi-cloud-awareness--2024-10-30.md
+Emerging Topics & Advanced Concepts|Snowflake integration with ML platforms|A|Emerging-Topics-Advanced-Concepts--snowflake-integration-with-ml-platforms--2024-10-30.md
+Emerging Topics & Advanced Concepts|Model scoring and prediction in SQL|A|Emerging-Topics-Advanced-Concepts--model-scoring-and-prediction-in-sql--2024-10-30.md
+Data Modeling|Data Vault modeling (Hub, Link, Satellite) - awareness level|A-E|Data-Modeling--data-vault-modeling-hub-link-satellite---awareness-level--2024-10-30.md
+Data Transformation with dbt (Optional but Recommended)|Custom materializations|A-E|Data-Transformation-with-dbt-Optional-but-Recommended--custom-materializations--2024-10-30.md
+Emerging Topics & Advanced Concepts|Data mesh principles (awareness level)|A-E|Emerging-Topics-Advanced-Concepts--data-mesh-principles-awareness-level--2024-10-30.md
+Emerging Topics & Advanced Concepts|Domain-oriented decentralized data ownership|A-E|Emerging-Topics-Advanced-Concepts--domain-oriented-decentralized-data-ownership--2024-10-30.md
+Emerging Topics & Advanced Concepts|Data products concept|A-E|Emerging-Topics-Advanced-Concepts--data-products-concept--2024-10-30.md
+Emerging Topics & Advanced Concepts|Self-serve data infrastructure|A-E|Emerging-Topics-Advanced-Concepts--self-serve-data-infrastructure--2024-10-30.md

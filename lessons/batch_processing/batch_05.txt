@@ -1,0 +1,27 @@
+Snowflake-Specific Knowledge|Virtual warehouses and compute clusters|I|Snowflake-Specific-Knowledge--virtual-warehouses-and-compute-clusters--2024-10-30.md
+Snowflake-Specific Knowledge|Cloud services layer|I|Snowflake-Specific-Knowledge--cloud-services-layer--2024-10-30.md
+Snowflake-Specific Knowledge|Account, organization, and hierarchy|I|Snowflake-Specific-Knowledge--account-organization-and-hierarchy--2024-10-30.md
+Snowflake-Specific Knowledge|Stages (internal, external, named)|I|Snowflake-Specific-Knowledge--stages-internal-external-named--2024-10-30.md
+Snowflake-Specific Knowledge|File formats (CSV, JSON, Parquet, Avro, ORC, XML)|I|Snowflake-Specific-Knowledge--file-formats-csv-json-parquet-avro-orc-xml--2024-10-30.md
+Snowflake-Specific Knowledge|Sequences for surrogate keys|I|Snowflake-Specific-Knowledge--sequences-for-surrogate-keys--2024-10-30.md
+Snowflake-Specific Knowledge|Views and materialized views|I|Snowflake-Specific-Knowledge--views-and-materialized-views--2024-10-30.md
+Snowflake-Specific Knowledge|Warehouse sizing (X-Small to 6X-Large)|I|Snowflake-Specific-Knowledge--warehouse-sizing-x-small-to-6x-large--2024-10-30.md
+Snowflake-Specific Knowledge|Auto-suspend and auto-resume|I|Snowflake-Specific-Knowledge--auto-suspend-and-auto-resume--2024-10-30.md
+Snowflake-Specific Knowledge|Resource monitors for cost control|I|Snowflake-Specific-Knowledge--resource-monitors-for-cost-control--2024-10-30.md
+Snowflake-Specific Knowledge|COPY INTO command|I|Snowflake-Specific-Knowledge--copy-into-command--2024-10-30.md
+Snowflake-Specific Knowledge|Loading from internal stages|I|Snowflake-Specific-Knowledge--loading-from-internal-stages--2024-10-30.md
+Snowflake-Specific Knowledge|Loading from external stages (S3, Azure, GCS)|I|Snowflake-Specific-Knowledge--loading-from-external-stages-s3-azure-gcs--2024-10-30.md
+Snowflake-Specific Knowledge|Data validation during load|I|Snowflake-Specific-Knowledge--data-validation-during-load--2024-10-30.md
+Snowflake-Specific Knowledge|Error handling and ON_ERROR options|I|Snowflake-Specific-Knowledge--error-handling-and-on_error-options--2024-10-30.md
+Snowflake-Specific Knowledge|Time Travel (querying historical data)|I|Snowflake-Specific-Knowledge--time-travel-querying-historical-data--2024-10-30.md
+Snowflake-Specific Knowledge|Zero-copy cloning|I|Snowflake-Specific-Knowledge--zero-copy-cloning--2024-10-30.md
+Snowflake-Specific Knowledge|Fail-safe for disaster recovery|I|Snowflake-Specific-Knowledge--fail-safe-for-disaster-recovery--2024-10-30.md
+Snowflake-Specific Knowledge|Table types (permanent, transient, temporary)|I|Snowflake-Specific-Knowledge--table-types-permanent-transient-temporary--2024-10-30.md
+Snowflake-Specific Knowledge|Transient vs temporary tables|I|Snowflake-Specific-Knowledge--transient-vs-temporary-tables--2024-10-30.md
+Snowflake-Specific Knowledge|Result caching|I|Snowflake-Specific-Knowledge--result-caching--2024-10-30.md
+Snowflake-Specific Knowledge|VARIANT data type|I|Snowflake-Specific-Knowledge--variant-data-type--2024-10-30.md
+Snowflake-Specific Knowledge|OBJECT and ARRAY data types|I|Snowflake-Specific-Knowledge--object-and-array-data-types--2024-10-30.md
+Snowflake-Specific Knowledge|Dot notation and bracket notation for JSON|I|Snowflake-Specific-Knowledge--dot-notation-and-bracket-notation-for-json--2024-10-30.md
+Snowflake-Specific Knowledge|Parsing and extracting JSON data|I|Snowflake-Specific-Knowledge--parsing-and-extracting-json-data--2024-10-30.md
+ETL/ELT Design & Best Practices|Modularity and reusability|I|ETLELT-Design-Best-Practices--modularity-and-reusability--2024-10-30.md
+ETL/ELT Design & Best Practices|Separation of concerns (extract, transform, load)|I|ETLELT-Design-Best-Practices--separation-of-concerns-extract-transform-load--2024-10-30.md

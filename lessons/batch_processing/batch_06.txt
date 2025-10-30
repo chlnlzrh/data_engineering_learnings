@@ -1,0 +1,27 @@
+ETL/ELT Design & Best Practices|Parameterization of SQL scripts|I|ETLELT-Design-Best-Practices--parameterization-of-sql-scripts--2024-10-30.md
+ETL/ELT Design & Best Practices|Logging and audit trails|I|ETLELT-Design-Best-Practices--logging-and-audit-trails--2024-10-30.md
+ETL/ELT Design & Best Practices|Pipeline orchestration concepts|I|ETLELT-Design-Best-Practices--pipeline-orchestration-concepts--2024-10-30.md
+ETL/ELT Design & Best Practices|Staging to integration layer transformations|I|ETLELT-Design-Best-Practices--staging-to-integration-layer-transformations--2024-10-30.md
+ETL/ELT Design & Best Practices|Business logic implementation|I|ETLELT-Design-Best-Practices--business-logic-implementation--2024-10-30.md
+ETL/ELT Design & Best Practices|Lookup and reference data handling|I|ETLELT-Design-Best-Practices--lookup-and-reference-data-handling--2024-10-30.md
+ETL/ELT Design & Best Practices|Data cleansing and standardization|I|ETLELT-Design-Best-Practices--data-cleansing-and-standardization--2024-10-30.md
+ETL/ELT Design & Best Practices|Derived calculations and metrics|I|ETLELT-Design-Best-Practices--derived-calculations-and-metrics--2024-10-30.md
+ETL/ELT Design & Best Practices|Aggregation and summarization|I|ETLELT-Design-Best-Practices--aggregation-and-summarization--2024-10-30.md
+ETL/ELT Design & Best Practices|Timestamp-based incremental logic|I|ETLELT-Design-Best-Practices--timestamp-based-incremental-logic--2024-10-30.md
+ETL/ELT Design & Best Practices|High-water mark tracking|I|ETLELT-Design-Best-Practices--high-water-mark-tracking--2024-10-30.md
+ETL/ELT Design & Best Practices|Understanding data lineage|I|ETLELT-Design-Best-Practices--understanding-data-lineage--2024-10-30.md
+ETL/ELT Design & Best Practices|Source-to-target mapping|I|ETLELT-Design-Best-Practices--source-to-target-mapping--2024-10-30.md
+ETL/ELT Design & Best Practices|Technical vs business metadata|I|ETLELT-Design-Best-Practices--technical-vs-business-metadata--2024-10-30.md
+Data Governance, Quality & Metadata|Data ownership and stewardship|I|Data-Governance-Quality-Metadata--data-ownership-and-stewardship--2024-10-30.md
+Data Governance, Quality & Metadata|Data policies and standards|I|Data-Governance-Quality-Metadata--data-policies-and-standards--2024-10-30.md
+Data Governance, Quality & Metadata|Reference data management|I|Data-Governance-Quality-Metadata--reference-data-management--2024-10-30.md
+Data Governance, Quality & Metadata|Data retention policies|I|Data-Governance-Quality-Metadata--data-retention-policies--2024-10-30.md
+Data Governance, Quality & Metadata|Data validation rules and checks|I|Data-Governance-Quality-Metadata--data-validation-rules-and-checks--2024-10-30.md
+Data Governance, Quality & Metadata|Schema validation (column existence, data types)|I|Data-Governance-Quality-Metadata--schema-validation-column-existence-data-types--2024-10-30.md
+Data Governance, Quality & Metadata|Uniqueness checks|I|Data-Governance-Quality-Metadata--uniqueness-checks--2024-10-30.md
+Data Governance, Quality & Metadata|NOT NULL validation|I|Data-Governance-Quality-Metadata--not-null-validation--2024-10-30.md
+Data Governance, Quality & Metadata|Foreign key relationship validation|I|Data-Governance-Quality-Metadata--foreign-key-relationship-validation--2024-10-30.md
+Data Governance, Quality & Metadata|Unit testing for transformations|I|Data-Governance-Quality-Metadata--unit-testing-for-transformations--2024-10-30.md
+Data Governance, Quality & Metadata|Reconciliation testing (source vs target)|I|Data-Governance-Quality-Metadata--reconciliation-testing-source-vs-target--2024-10-30.md
+Data Governance, Quality & Metadata|Data classification (public, internal, confidential, restricted)|I|Data-Governance-Quality-Metadata--data-classification-public-internal-confidential-restricted--2024-10-30.md
+Data Governance, Quality & Metadata|PII (Personally Identifiable Information) identification|I|Data-Governance-Quality-Metadata--pii-personally-identifiable-information-identification--2024-10-30.md

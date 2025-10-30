@@ -1,0 +1,15 @@
+customer_id,customer_name,email,phone,address,city,state,zip_code,signup_date,loyalty_tier,last_purchase_date
+C001,John Smith,john.smith@email.com,555-0101,123 Main St,Springfield,IL,62701,2023-06-15,Gold,2024-01-18
+C002,Sarah Johnson,sarah.j@email.com,555-0102,456 Oak Ave,Chicago,IL,60601,2023-08-22,Silver,2024-01-16
+C003,Michael Brown,mbrown@email.com,555-0103,789 Elm St,Peoria,IL,61602,2023-09-10,Bronze,2024-01-17
+C004,Emily Davis,emily.davis@email.com,555-0104,321 Pine Rd,Rockford,IL,61101,2023-07-05,Silver,2024-01-19
+C005,David Wilson,dwilson@email.com,555-0105,654 Maple Dr,Naperville,IL,60540,2023-05-30,Platinum,2024-01-20
+C006,Jennifer Martinez,jmartinez@email.com,555-0106,987 Cedar Ln,Aurora,IL,60502,2023-10-12,Bronze,2024-01-17
+C007,Robert Anderson,randerson@email.com,555-0107,147 Birch St,Joliet,IL,60431,2023-04-18,Gold,2024-01-18
+C008,Lisa Taylor,ltaylor@email.com,555-0108,258 Walnut Ave,Elgin,IL,60120,2023-11-25,Bronze,2024-01-18
+C009,Christopher Thomas,cthomas@email.com,555-0109,369 Spruce Ct,Waukegan,IL,60085,2023-08-08,Silver,2024-01-19
+C010,Amanda Jackson,ajackson@email.com,555-0110,741 Ash Blvd,Cicero,IL,60804,2023-06-30,Gold,2024-01-19
+C011,Matthew White,mwhite@email.com,555-0111,852 Cherry Way,Schaumburg,IL,60173,2023-09-15,Bronze,2024-01-20
+C012,Jessica Harris,jharris@email.com,555-0112,963 Poplar Pl,Evanston,IL,60201,2023-07-22,Silver,2024-01-20
+C013,Daniel Martin,dmartin@email.com,555-0113,159 Willow Dr,Decatur,IL,62521,2023-10-05,Platinum,2024-01-21
+C014,Ashley Thompson,athompson@email.com,555-0114,267 Dogwood St,Champaign,IL,61820,2023-05-12,Bronze,2024-01-21

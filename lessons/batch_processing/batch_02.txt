@@ -1,0 +1,27 @@
+Version Control & Team Collaboration|Repository concepts (local vs remote)|F|Version-Control-Team-Collaboration--repository-concepts-local-vs-remote--2024-10-30.md
+Version Control & Team Collaboration|Git initialization and cloning (git init, git clone)|F|Version-Control-Team-Collaboration--git-initialization-and-cloning-git-init-git-clone--2024-10-30.md
+Version Control & Team Collaboration|Basic workflow (git add, git commit, git push, git pull)|F|Version-Control-Team-Collaboration--basic-workflow-git-add-git-commit-git-push-git-pull--2024-10-30.md
+Version Control & Team Collaboration|Checking status and history (git status, git log, git diff)|F|Version-Control-Team-Collaboration--checking-status-and-history-git-status-git-log-git-diff--2024-10-30.md
+Additional Technical Skills|CSV format and delimiters|F|Additional-Technical-Skills--csv-format-and-delimiters--2024-10-30.md
+Data & Database Fundamentals|Normalization (1NF, 2NF, 3NF, BCNF)|F-I|Data-Database-Fundamentals--normalization-1nf-2nf-3nf-bcnf--2024-10-30.md
+Data & Database Fundamentals|Data type conversions and casting|F-I|Data-Database-Fundamentals--data-type-conversions-and-casting--2024-10-30.md
+SQL & ELT Concepts|CASE statements for conditional logic|F-I|SQL-ELT-Concepts--case-statements-for-conditional-logic--2024-10-30.md
+SQL & ELT Concepts|NULL handling (IS NULL, COALESCE, NULLIF, NVL, IFNULL)|F-I|SQL-ELT-Concepts--null-handling-is-null-coalesce-nullif-nvl-ifnull--2024-10-30.md
+SQL & ELT Concepts|FULL (OUTER) JOIN|F-I|SQL-ELT-Concepts--full-outer-join--2024-10-30.md
+SQL & ELT Concepts|Set operations (UNION, UNION ALL, INTERSECT, EXCEPT)|F-I|SQL-ELT-Concepts--set-operations-union-union-all-intersect-except--2024-10-30.md
+SQL & ELT Concepts|IN and NOT IN operators|F-I|SQL-ELT-Concepts--in-and-not-in-operators--2024-10-30.md
+SQL & ELT Concepts|String functions (CONCAT, SUBSTRING, TRIM, SPLIT, REGEXP)|F-I|SQL-ELT-Concepts--string-functions-concat-substring-trim-split-regexp--2024-10-30.md
+SQL & ELT Concepts|Avoiding SELECT *|F-I|SQL-ELT-Concepts--avoiding-select--2024-10-30.md
+SQL & ELT Concepts|ETL vs ELT paradigm differences|F-I|SQL-ELT-Concepts--etl-vs-elt-paradigm-differences--2024-10-30.md
+Data Warehousing Principles|Full load (truncate and load)|F-I|Data-Warehousing-Principles--full-load-truncate-and-load--2024-10-30.md
+Data Modeling|Creating and reading ERDs|F-I|Data-Modeling--creating-and-reading-erds--2024-10-30.md
+Snowflake-Specific Knowledge|Snowflake editions and features|F-I|Snowflake-Specific-Knowledge--snowflake-editions-and-features--2024-10-30.md
+Snowflake Security & Access Control|User management in Snowflake|F-I|Snowflake-Security-Access-Control--user-management-in-snowflake--2024-10-30.md
+Unix/Linux & File Handling|File permissions (chmod, chown)|F-I|UnixLinux-File-Handling--file-permissions-chmod-chown--2024-10-30.md
+Unix/Linux & File Handling|Text editing (vi/vim basics or nano)|F-I|UnixLinux-File-Handling--text-editing-vivim-basics-or-nano--2024-10-30.md
+Unix/Linux & File Handling|File searching (find, grep)|F-I|UnixLinux-File-Handling--file-searching-find-grep--2024-10-30.md
+Version Control & Team Collaboration|.gitignore patterns|F-I|Version-Control-Team-Collaboration--gitignore-patterns--2024-10-30.md
+Version Control & Team Collaboration|Branch naming conventions|F-I|Version-Control-Team-Collaboration--branch-naming-conventions--2024-10-30.md
+Business & Domain Knowledge|Revenue, profit, margin|F-I|Business-Domain-Knowledge--revenue-profit-margin--2024-10-30.md
+Additional Technical Skills|JSON structure and syntax|F-I|Additional-Technical-Skills--json-structure-and-syntax--2024-10-30.md
+Additional Technical Skills|HTTP methods (GET, POST, PUT, DELETE)|F-I|Additional-Technical-Skills--http-methods-get-post-put-delete--2024-10-30.md

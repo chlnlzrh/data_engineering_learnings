@@ -1,0 +1,27 @@
+Data & Database Fundamentals|ACID properties (Atomicity, Consistency, Isolation, Durability)|F|Data-Database-Fundamentals--acid-properties-atomicity-consistency-isolation-durability--2024-10-30.md
+Data & Database Fundamentals|Primary keys, foreign keys, composite keys|F|Data-Database-Fundamentals--primary-keys-foreign-keys-composite-keys--2024-10-30.md
+Data & Database Fundamentals|Referential integrity and constraints|F|Data-Database-Fundamentals--referential-integrity-and-constraints--2024-10-30.md
+Data & Database Fundamentals|OLTP vs OLAP systems|F|Data-Database-Fundamentals--oltp-vs-olap-systems--2024-10-30.md
+Data & Database Fundamentals|Numeric data types (INTEGER, DECIMAL, FLOAT, NUMBER)|F|Data-Database-Fundamentals--numeric-data-types-integer-decimal-float-number--2024-10-30.md
+Data & Database Fundamentals|String data types (VARCHAR, CHAR, TEXT)|F|Data-Database-Fundamentals--string-data-types-varchar-char-text--2024-10-30.md
+Data & Database Fundamentals|Date and timestamp data types|F|Data-Database-Fundamentals--date-and-timestamp-data-types--2024-10-30.md
+Data & Database Fundamentals|Boolean and binary data types|F|Data-Database-Fundamentals--boolean-and-binary-data-types--2024-10-30.md
+Data & Database Fundamentals|NULL handling and nullable columns|F|Data-Database-Fundamentals--null-handling-and-nullable-columns--2024-10-30.md
+Data & Database Fundamentals|Schema definition and DDL concepts|F|Data-Database-Fundamentals--schema-definition-and-ddl-concepts--2024-10-30.md
+Data & Database Fundamentals|Sequences for auto-increment|F|Data-Database-Fundamentals--sequences-for-auto-increment--2024-10-30.md
+SQL & ELT Concepts|SELECT statements and filtering (WHERE clause)|F|SQL-ELT-Concepts--select-statements-and-filtering-where-clause--2024-10-30.md
+SQL & ELT Concepts|Sorting and limiting results (ORDER BY, LIMIT)|F|SQL-ELT-Concepts--sorting-and-limiting-results-order-by-limit--2024-10-30.md
+SQL & ELT Concepts|Aggregate functions (SUM, COUNT, AVG, MIN, MAX)|F|SQL-ELT-Concepts--aggregate-functions-sum-count-avg-min-max--2024-10-30.md
+SQL & ELT Concepts|GROUP BY and HAVING clauses|F|SQL-ELT-Concepts--group-by-and-having-clauses--2024-10-30.md
+SQL & ELT Concepts|DISTINCT for unique values|F|SQL-ELT-Concepts--distinct-for-unique-values--2024-10-30.md
+SQL & ELT Concepts|INNER JOIN|F|SQL-ELT-Concepts--inner-join--2024-10-30.md
+SQL & ELT Concepts|LEFT (OUTER) JOIN|F|SQL-ELT-Concepts--left-outer-join--2024-10-30.md
+SQL & ELT Concepts|RIGHT (OUTER) JOIN|F|SQL-ELT-Concepts--right-outer-join--2024-10-30.md
+SQL & ELT Concepts|Extract, Load, Transform sequence in ELT|F|SQL-ELT-Concepts--extract-load-transform-sequence-in-elt--2024-10-30.md
+Data Modeling|ERD notation and symbols|F|Data-Modeling--erd-notation-and-symbols--2024-10-30.md
+Data Modeling|Cardinality (one-to-one, one-to-many, many-to-many)|F|Data-Modeling--cardinality-one-to-one-one-to-many-many-to-many--2024-10-30.md
+Data Modeling|Optionality (mandatory vs optional relationships)|F|Data-Modeling--optionality-mandatory-vs-optional-relationships--2024-10-30.md
+Snowflake-Specific Knowledge|Databases, schemas, and tables|F|Snowflake-Specific-Knowledge--databases-schemas-and-tables--2024-10-30.md
+Unix/Linux & File Handling|File system navigation (cd, ls, pwd)|F|UnixLinux-File-Handling--file-system-navigation-cd-ls-pwd--2024-10-30.md
+Unix/Linux & File Handling|File operations (cp, mv, rm, mkdir, rmdir)|F|UnixLinux-File-Handling--file-operations-cp-mv-rm-mkdir-rmdir--2024-10-30.md
+Unix/Linux & File Handling|Viewing file contents (cat, less, more, head, tail)|F|UnixLinux-File-Handling--viewing-file-contents-cat-less-more-head-tail--2024-10-30.md

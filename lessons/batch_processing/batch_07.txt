@@ -1,0 +1,27 @@
+Data Governance, Quality & Metadata|Encryption at rest and in transit|I|Data-Governance-Quality-Metadata--encryption-at-rest-and-in-transit--2024-10-30.md
+Data Governance, Quality & Metadata|Data access audit logging|I|Data-Governance-Quality-Metadata--data-access-audit-logging--2024-10-30.md
+Data Governance, Quality & Metadata|Business glossary and data dictionary|I|Data-Governance-Quality-Metadata--business-glossary-and-data-dictionary--2024-10-30.md
+Data Governance, Quality & Metadata|Technical metadata (schemas, data types, relationships)|I|Data-Governance-Quality-Metadata--technical-metadata-schemas-data-types-relationships--2024-10-30.md
+Data Governance, Quality & Metadata|Operational metadata (load times, row counts, quality metrics)|I|Data-Governance-Quality-Metadata--operational-metadata-load-times-row-counts-quality-metrics--2024-10-30.md
+Data Governance, Quality & Metadata|Column-level documentation|I|Data-Governance-Quality-Metadata--column-level-documentation--2024-10-30.md
+Data Governance, Quality & Metadata|Table-level documentation|I|Data-Governance-Quality-Metadata--table-level-documentation--2024-10-30.md
+Snowflake Security & Access Control|Role-Based Access Control (RBAC)|I|Snowflake-Security-Access-Control--role-based-access-control-rbac--2024-10-30.md
+Snowflake Security & Access Control|System-defined roles (ACCOUNTADMIN, SECURITYADMIN, SYSADMIN, PUBLIC)|I|Snowflake-Security-Access-Control--system-defined-roles-accountadmin-securityadmin-sysadmin-public--2024-10-30.md
+Snowflake Security & Access Control|Custom role creation|I|Snowflake-Security-Access-Control--custom-role-creation--2024-10-30.md
+Snowflake Security & Access Control|Granting and revoking privileges|I|Snowflake-Security-Access-Control--granting-and-revoking-privileges--2024-10-30.md
+Snowflake Security & Access Control|Principle of least privilege|I|Snowflake-Security-Access-Control--principle-of-least-privilege--2024-10-30.md
+Snowflake Security & Access Control|Object-level permissions (databases, schemas, tables, views)|I|Snowflake-Security-Access-Control--object-level-permissions-databases-schemas-tables-views--2024-10-30.md
+Snowflake Security & Access Control|Warehouse access control|I|Snowflake-Security-Access-Control--warehouse-access-control--2024-10-30.md
+Snowflake Security & Access Control|Network policies and IP whitelisting|I|Snowflake-Security-Access-Control--network-policies-and-ip-whitelisting--2024-10-30.md
+Snowflake Security & Access Control|Multi-factor authentication (MFA)|I|Snowflake-Security-Access-Control--multi-factor-authentication-mfa--2024-10-30.md
+Snowflake Security & Access Control|Service accounts vs user accounts|I|Snowflake-Security-Access-Control--service-accounts-vs-user-accounts--2024-10-30.md
+Reporting & BI Concepts|Search-driven analytics concepts|I|Reporting-BI-Concepts--search-driven-analytics-concepts--2024-10-30.md
+Reporting & BI Concepts|Natural language search|I|Reporting-BI-Concepts--natural-language-search--2024-10-30.md
+Reporting & BI Concepts|Data connections to Snowflake|I|Reporting-BI-Concepts--data-connections-to-snowflake--2024-10-30.md
+Reporting & BI Concepts|Live query vs in-memory analytics|I|Reporting-BI-Concepts--live-query-vs-in-memory-analytics--2024-10-30.md
+Reporting & BI Concepts|Worksheets and views|I|Reporting-BI-Concepts--worksheets-and-views--2024-10-30.md
+Reporting & BI Concepts|Answer creation and saving|I|Reporting-BI-Concepts--answer-creation-and-saving--2024-10-30.md
+Reporting & BI Concepts|Pinboards (dashboards) creation|I|Reporting-BI-Concepts--pinboards-dashboards-creation--2024-10-30.md
+Reporting & BI Concepts|Logical table and column configuration|I|Reporting-BI-Concepts--logical-table-and-column-configuration--2024-10-30.md
+Reporting & BI Concepts|Relationships and joins in ThoughtSpot|I|Reporting-BI-Concepts--relationships-and-joins-in-thoughtspot--2024-10-30.md
+Reporting & BI Concepts|Calendar tables and date dimensions|I|Reporting-BI-Concepts--calendar-tables-and-date-dimensions--2024-10-30.md

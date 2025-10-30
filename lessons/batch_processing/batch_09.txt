@@ -1,0 +1,27 @@
+Unix/Linux & File Handling|Log rotation concepts|I|UnixLinux-File-Handling--log-rotation-concepts--2024-10-30.md
+Unix/Linux & File Handling|Grep patterns for log analysis|I|UnixLinux-File-Handling--grep-patterns-for-log-analysis--2024-10-30.md
+Unix/Linux & File Handling|System resource monitoring (top, df, du)|I|UnixLinux-File-Handling--system-resource-monitoring-top-df-du--2024-10-30.md
+Version Control & Team Collaboration|Creating and switching branches (git branch, git checkout, git switch)|I|Version-Control-Team-Collaboration--creating-and-switching-branches-git-branch-git-checkout-git-switch--2024-10-30.md
+Version Control & Team Collaboration|Feature branch workflow|I|Version-Control-Team-Collaboration--feature-branch-workflow--2024-10-30.md
+Version Control & Team Collaboration|Merging branches (git merge)|I|Version-Control-Team-Collaboration--merging-branches-git-merge--2024-10-30.md
+Version Control & Team Collaboration|Resolving merge conflicts|I|Version-Control-Team-Collaboration--resolving-merge-conflicts--2024-10-30.md
+Version Control & Team Collaboration|Pull requests / merge requests|I|Version-Control-Team-Collaboration--pull-requests-merge-requests--2024-10-30.md
+Version Control & Team Collaboration|Code review process and etiquette|I|Version-Control-Team-Collaboration--code-review-process-and-etiquette--2024-10-30.md
+Version Control & Team Collaboration|Forking and contributing|I|Version-Control-Team-Collaboration--forking-and-contributing--2024-10-30.md
+Version Control & Team Collaboration|Remote repository management (git remote)|I|Version-Control-Team-Collaboration--remote-repository-management-git-remote--2024-10-30.md
+Version Control & Team Collaboration|Fetching vs pulling (git fetch, git pull)|I|Version-Control-Team-Collaboration--fetching-vs-pulling-git-fetch-git-pull--2024-10-30.md
+Version Control & Team Collaboration|Stashing changes (git stash)|I|Version-Control-Team-Collaboration--stashing-changes-git-stash--2024-10-30.md
+Version Control & Team Collaboration|Commit message conventions|I|Version-Control-Team-Collaboration--commit-message-conventions--2024-10-30.md
+Version Control & Team Collaboration|Atomic commits|I|Version-Control-Team-Collaboration--atomic-commits--2024-10-30.md
+Version Control & Team Collaboration|When to commit and push|I|Version-Control-Team-Collaboration--when-to-commit-and-push--2024-10-30.md
+Version Control & Team Collaboration|Avoiding sensitive data in repositories|I|Version-Control-Team-Collaboration--avoiding-sensitive-data-in-repositories--2024-10-30.md
+Version Control & Team Collaboration|Using branches for environment separation (dev, staging, prod)|I|Version-Control-Team-Collaboration--using-branches-for-environment-separation-dev-staging-prod--2024-10-30.md
+Performance Optimization & Troubleshooting|Query history analysis|I|Performance-Optimization-Troubleshooting--query-history-analysis--2024-10-30.md
+Performance Optimization & Troubleshooting|Filter pushdown and early filtering|I|Performance-Optimization-Troubleshooting--filter-pushdown-and-early-filtering--2024-10-30.md
+Performance Optimization & Troubleshooting|Avoiding Cartesian products|I|Performance-Optimization-Troubleshooting--avoiding-cartesian-products--2024-10-30.md
+Performance Optimization & Troubleshooting|Using appropriate join types|I|Performance-Optimization-Troubleshooting--using-appropriate-join-types--2024-10-30.md
+Performance Optimization & Troubleshooting|Avoiding row-by-row processing|I|Performance-Optimization-Troubleshooting--avoiding-row-by-row-processing--2024-10-30.md
+Performance Optimization & Troubleshooting|Set-based operations|I|Performance-Optimization-Troubleshooting--set-based-operations--2024-10-30.md
+Performance Optimization & Troubleshooting|Reading error messages and stack traces|I|Performance-Optimization-Troubleshooting--reading-error-messages-and-stack-traces--2024-10-30.md
+Performance Optimization & Troubleshooting|Debugging SQL queries step-by-step|I|Performance-Optimization-Troubleshooting--debugging-sql-queries-step-by-step--2024-10-30.md
+Performance Optimization & Troubleshooting|Isolating problematic sections|I|Performance-Optimization-Troubleshooting--isolating-problematic-sections--2024-10-30.md
