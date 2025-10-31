@@ -1,5 +1,6 @@
 import { NextResponse } from 'next/server'
 import { MODULE_MAPPING, parseAllLessons } from '@/lib/lesson-parser'
+import { getModuleDescription } from '@/lib/module-description-parser'
 import { join } from 'path'
 
 /**
@@ -56,19 +57,22 @@ export async function GET(
     // Filter lessons for this module (fast operation after parallel parsing)
     const lessons = allLessons.filter(lesson => lesson.moduleId === moduleId)
     
+    // Get module description from markdown files
+    const moduleDescription = getModuleDescription(moduleId)
+    
     // Process module metadata in parallel with lesson extraction
     const [moduleData] = await Promise.all([
       Promise.resolve({
         id: moduleInfo.id,
-        title: moduleInfo.name,
-        description: getModuleDescription(moduleInfo.id),
+        title: moduleDescription?.metadata.title || moduleInfo.name,
+        description: moduleDescription?.metadata.description || getModuleDescriptionFallback(moduleInfo.id),
         icon: getModuleIcon(moduleInfo.id),
-        estimatedHours: calculateEstimatedHours(lessons),
-        lessons: lessons.length,
-        labs: Math.ceil(lessons.length / 10),
-        topics: extractTopicsFromLessons(lessons),
-        prerequisites: getPrerequisites(moduleInfo.id),
-        learningObjectives: getLearningObjectives(moduleInfo.id),
+        estimatedHours: moduleDescription?.metadata.duration || calculateEstimatedHours(lessons),
+        lessons: moduleDescription?.metadata.lessons || lessons.length,
+        labs: moduleDescription?.metadata.labs || Math.ceil(lessons.length / 10),
+        topics: moduleDescription ? extractTopicsFromDescription(moduleDescription) : extractTopicsFromLessons(lessons),
+        prerequisites: moduleDescription?.prerequisites.length ? moduleDescription.prerequisites : getPrerequisites(moduleInfo.id),
+        learningObjectives: moduleDescription?.learningObjectives.length ? moduleDescription.learningObjectives : getLearningObjectives(moduleInfo.id),
       })
     ])
     
@@ -92,7 +96,7 @@ export async function GET(
   }
 }
 
-function getModuleDescription(moduleId: string): string {
+function getModuleDescriptionFallback(moduleId: string): string {
   const descriptions: Record<string, string> = {
     'module-1': 'Master the foundational concepts of relational databases, data types, schema design, and ACID properties essential for data engineering.',
     'module-2': 'Dive deep into SQL fundamentals, advanced queries, window functions, and understand the ELT paradigm for modern data processing.',
@@ -154,6 +158,17 @@ function extractTopicsFromLessons(lessons: any[]): string[] {
     lesson.topics?.forEach((topic: string) => topics.add(topic))
   })
   return Array.from(topics).slice(0, 15)
+}
+
+function extractTopicsFromDescription(moduleDescription: any): string[] {
+  const topics: string[] = []
+  // Extract topics from all categories
+  Object.values(moduleDescription.topicCategories).forEach((categoryTopics: any) => {
+    if (Array.isArray(categoryTopics)) {
+      topics.push(...categoryTopics)
+    }
+  })
+  return topics.slice(0, 15)
 }
 
 function getPrerequisites(moduleId: string): string[] {

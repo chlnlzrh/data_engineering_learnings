@@ -6,6 +6,7 @@ import Link from "next/link"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { Badge } from "@/components/ui/badge"
+import EnhancedModuleLandingPage from "@/components/EnhancedModuleLandingPage"
 import { 
   ArrowLeft, 
   Clock, 
@@ -74,6 +75,7 @@ export default function ModulePage() {
   const moduleId = params.module as string
   
   const [module, setModule] = useState<ModuleData | null>(null)
+  const [lessons, setLessons] = useState<any[]>([])
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
   
@@ -88,6 +90,7 @@ export default function ModulePage() {
         
         if (data.success && data.module) {
           setModule(data.module)
+          setLessons(data.lessons || [])
         } else {
           setError(data.error || 'Module not found')
         }
@@ -245,31 +248,17 @@ export default function ModulePage() {
         </Button>
       </div>
 
-      {/* Module Progress Card */}
-      <Card className="bg-primary/5 border-primary/20">
-        <CardHeader>
-          <CardTitle className="text-lg">Module Progress</CardTitle>
-          <CardDescription>
-            Track your learning journey
-          </CardDescription>
-        </CardHeader>
-        <CardContent>
-          <div className="grid grid-cols-3 gap-4 text-center">
-            <div>
-              <div className="text-2xl font-bold text-primary">0</div>
-              <div className="text-sm text-muted-foreground">Lessons Completed</div>
-            </div>
-            <div>
-              <div className="text-2xl font-bold text-primary">0</div>
-              <div className="text-sm text-muted-foreground">Labs Completed</div>
-            </div>
-            <div>
-              <div className="text-2xl font-bold text-primary">0%</div>
-              <div className="text-sm text-muted-foreground">Overall Progress</div>
-            </div>
-          </div>
-        </CardContent>
-      </Card>
+      {/* Enhanced Module Landing Page */}
+      <EnhancedModuleLandingPage 
+        moduleId={moduleId}
+        lessons={lessons}
+        labs={[{}, {}, {}]} // Mock 3 labs for now
+        progress={{
+          lessonsCompleted: 0,
+          labsCompleted: 0,
+          overallProgress: 0
+        }}
+      />
     </div>
   )
 }
