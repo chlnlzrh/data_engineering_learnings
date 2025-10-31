@@ -238,7 +238,23 @@ export default function ModulePage() {
 
       {/* Action Buttons */}
       <div className="flex gap-4">
-        <Button size="lg" className="flex-1">
+        <Button 
+          size="lg" 
+          className="flex-1"
+          onClick={() => {
+            // Navigate to first lesson if available
+            if (lessons.length > 0) {
+              const firstLesson = lessons[0]
+              const slug = firstLesson.title
+                .toLowerCase()
+                .replace(/[^a-z0-9\s-]/g, '')
+                .replace(/\s+/g, '-')
+                .replace(/-+/g, '-')
+                .trim()
+              router.push(`/lessons/${slug}`)
+            }
+          }}
+        >
           <PlayCircle className="w-5 h-5 mr-2" />
           Start Module
         </Button>

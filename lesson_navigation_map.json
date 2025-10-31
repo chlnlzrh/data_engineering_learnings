@@ -1,0 +1,2842 @@
+{
+  "module-19": {
+    "module_id": "module-19",
+    "module_name": "Module 19: Additional Technical Skills",
+    "lesson_count": 22,
+    "lessons": [
+      {
+        "slug": "api-authentication-api-keys-oauth",
+        "title": "API authentication (API keys, OAuth)",
+        "url": "/lessons/api-authentication-api-keys-oauth"
+      },
+      {
+        "slug": "api-concepts-endpoints-methods-authentication",
+        "title": "API concepts (endpoints, methods, authentication)",
+        "url": "/lessons/api-concepts-endpoints-methods-authentication"
+      },
+      {
+        "slug": "avro-format",
+        "title": "Avro format",
+        "url": "/lessons/avro-format"
+      },
+      {
+        "slug": "basic-python-syntax",
+        "title": "Basic Python syntax",
+        "url": "/lessons/basic-python-syntax"
+      },
+      {
+        "slug": "csv-format-and-delimiters",
+        "title": "CSV format and delimiters",
+        "url": "/lessons/csv-format-and-delimiters"
+      },
+      {
+        "slug": "data-structures-lists-dictionaries-sets",
+        "title": "Data structures (lists, dictionaries, sets)",
+        "url": "/lessons/data-structures-lists-dictionaries-sets"
+      },
+      {
+        "slug": "error-handling-in-python",
+        "title": "Error handling in Python",
+        "url": "/lessons/error-handling-in-python"
+      },
+      {
+        "slug": "file-io-operations",
+        "title": "File I/O operations",
+        "url": "/lessons/file-io-operations"
+      },
+      {
+        "slug": "flattening-nested-structures",
+        "title": "Flattening nested structures",
+        "url": "/lessons/flattening-nested-structures"
+      },
+      {
+        "slug": "http-methods-get-post-put-delete",
+        "title": "HTTP methods (GET, POST, PUT, DELETE)",
+        "url": "/lessons/http-methods-get-post-put-delete"
+      },
+      {
+        "slug": "json-and-jsonl-newline-delimited-json",
+        "title": "JSON and JSONL (newline-delimited JSON)",
+        "url": "/lessons/json-and-jsonl-newline-delimited-json"
+      },
+      {
+        "slug": "json-structure-and-syntax",
+        "title": "JSON structure and syntax",
+        "url": "/lessons/json-structure-and-syntax"
+      },
+      {
+        "slug": "orc-format",
+        "title": "ORC format",
+        "url": "/lessons/orc-format"
+      },
+      {
+        "slug": "pandas-for-data-manipulation",
+        "title": "Pandas for data manipulation",
+        "url": "/lessons/pandas-for-data-manipulation"
+      },
+      {
+        "slug": "parquet-columnar-format",
+        "title": "Parquet columnar format",
+        "url": "/lessons/parquet-columnar-format"
+      },
+      {
+        "slug": "parsing-json-in-sql",
+        "title": "Parsing JSON in SQL",
+        "url": "/lessons/parsing-json-in-sql"
+      },
+      {
+        "slug": "performance-considerations-for-semi-structured-data",
+        "title": "Performance considerations for semi-structured data",
+        "url": "/lessons/performance-considerations-for-semi-structured-data"
+      },
+      {
+        "slug": "rate-limiting-and-pagination",
+        "title": "Rate limiting and pagination",
+        "url": "/lessons/rate-limiting-and-pagination"
+      },
+      {
+        "slug": "reading-api-documentation",
+        "title": "Reading API documentation",
+        "url": "/lessons/reading-api-documentation"
+      },
+      {
+        "slug": "requests-library-for-api-calls",
+        "title": "Requests library for API calls",
+        "url": "/lessons/requests-library-for-api-calls"
+      },
+      {
+        "slug": "working-with-arrays-in-json",
+        "title": "Working with arrays in JSON",
+        "url": "/lessons/working-with-arrays-in-json"
+      },
+      {
+        "slug": "xml-basics",
+        "title": "XML basics",
+        "url": "/lessons/xml-basics"
+      }
+    ]
+  },
+  "module-18": {
+    "module_id": "module-18",
+    "module_name": "Module 18: Business & Domain Knowledge",
+    "lesson_count": 14,
+    "lessons": [
+      {
+        "slug": "business-process-understanding",
+        "title": "Business process understanding",
+        "url": "/lessons/business-process-understanding"
+      },
+      {
+        "slug": "business-requirements-gathering",
+        "title": "Business requirements gathering",
+        "url": "/lessons/business-requirements-gathering"
+      },
+      {
+        "slug": "cohort-analysis-concepts",
+        "title": "Cohort analysis concepts",
+        "url": "/lessons/cohort-analysis-concepts"
+      },
+      {
+        "slug": "customer-metrics-cac-ltv-churn-retention",
+        "title": "Customer metrics (CAC, LTV, churn, retention)",
+        "url": "/lessons/customer-metrics-cac-ltv-churn-retention"
+      },
+      {
+        "slug": "domain-specific-terminology",
+        "title": "Domain-specific terminology",
+        "url": "/lessons/domain-specific-terminology"
+      },
+      {
+        "slug": "growth-metrics-mom-yoy-cagr",
+        "title": "Growth metrics (MoM, YoY, CAGR)",
+        "url": "/lessons/growth-metrics-mom-yoy-cagr"
+      },
+      {
+        "slug": "identifying-key-stakeholders",
+        "title": "Identifying key stakeholders",
+        "url": "/lessons/identifying-key-stakeholders"
+      },
+      {
+        "slug": "industry-standard-kpis",
+        "title": "Industry-standard KPIs",
+        "url": "/lessons/industry-standard-kpis"
+      },
+      {
+        "slug": "operational-metrics-efficiency-productivity",
+        "title": "Operational metrics (efficiency, productivity)",
+        "url": "/lessons/operational-metrics-efficiency-productivity"
+      },
+      {
+        "slug": "regulatory-and-compliance-requirements",
+        "title": "Regulatory and compliance requirements",
+        "url": "/lessons/regulatory-and-compliance-requirements"
+      },
+      {
+        "slug": "reporting-calendars-fiscal-vs-calendar-year",
+        "title": "Reporting calendars (fiscal vs calendar year)",
+        "url": "/lessons/reporting-calendars-fiscal-vs-calendar-year"
+      },
+      {
+        "slug": "revenue-profit-margin",
+        "title": "Revenue, profit, margin",
+        "url": "/lessons/revenue-profit-margin"
+      },
+      {
+        "slug": "translating-business-questions-to-sql",
+        "title": "Translating business questions to SQL",
+        "url": "/lessons/translating-business-questions-to-sql"
+      },
+      {
+        "slug": "understanding-data-consumers-and-use-cases",
+        "title": "Understanding data consumers and use cases",
+        "url": "/lessons/understanding-data-consumers-and-use-cases"
+      }
+    ]
+  },
+  "module-13": {
+    "module_id": "module-13",
+    "module_name": "Module 13: CI/CD & Deployment Practices",
+    "lesson_count": 15,
+    "lessons": [
+      {
+        "slug": "automated-deployment-pipelines",
+        "title": "Automated deployment pipelines",
+        "url": "/lessons/automated-deployment-pipelines"
+      },
+      {
+        "slug": "automated-sql-testing",
+        "title": "Automated SQL testing",
+        "url": "/lessons/automated-sql-testing"
+      },
+      {
+        "slug": "blue-green-deployment-concepts",
+        "title": "Blue-green deployment concepts",
+        "url": "/lessons/blue-green-deployment-concepts"
+      },
+      {
+        "slug": "database-migration-tools-flyway-liquibase-awareness",
+        "title": "Database migration tools (Flyway, Liquibase awareness)",
+        "url": "/lessons/database-migration-tools-flyway-liquibase-awareness"
+      },
+      {
+        "slug": "development-staging-and-production-environments",
+        "title": "Development, staging, and production environments",
+        "url": "/lessons/development-staging-and-production-environments"
+      },
+      {
+        "slug": "environment-specific-configurations",
+        "title": "Environment-specific configurations",
+        "url": "/lessons/environment-specific-configurations"
+      },
+      {
+        "slug": "integration-testing-in-pipelines",
+        "title": "Integration testing in pipelines",
+        "url": "/lessons/integration-testing-in-pipelines"
+      },
+      {
+        "slug": "pre-commit-hooks",
+        "title": "Pre-commit hooks",
+        "url": "/lessons/pre-commit-hooks"
+      },
+      {
+        "slug": "promoting-code-across-environments",
+        "title": "Promoting code across environments",
+        "url": "/lessons/promoting-code-across-environments"
+      },
+      {
+        "slug": "rollback-strategies",
+        "title": "Rollback strategies",
+        "url": "/lessons/rollback-strategies"
+      },
+      {
+        "slug": "schema-change-management",
+        "title": "Schema change management",
+        "url": "/lessons/schema-change-management"
+      },
+      {
+        "slug": "schema-separation-strategies",
+        "title": "Schema separation strategies",
+        "url": "/lessons/schema-separation-strategies"
+      },
+      {
+        "slug": "sql-linting-and-formatting",
+        "title": "SQL linting and formatting",
+        "url": "/lessons/sql-linting-and-formatting"
+      },
+      {
+        "slug": "sql-script-versioning",
+        "title": "SQL script versioning",
+        "url": "/lessons/sql-script-versioning"
+      },
+      {
+        "slug": "test-data-management",
+        "title": "Test data management",
+        "url": "/lessons/test-data-management"
+      }
+    ]
+  },
+  "module-1": {
+    "module_id": "module-1",
+    "module_name": "Module 1: Data & Database Fundamentals",
+    "lesson_count": 23,
+    "lessons": [
+      {
+        "slug": "acid-properties-atomicity-consistency-isolation-durability",
+        "title": "ACID properties (Atomicity, Consistency, Isolation, Durability)",
+        "url": "/lessons/acid-properties-atomicity-consistency-isolation-durability"
+      },
+      {
+        "slug": "boolean-and-binary-data-types",
+        "title": "Boolean and binary data types",
+        "url": "/lessons/boolean-and-binary-data-types"
+      },
+      {
+        "slug": "clustered-vs-non-clustered-indexes",
+        "title": "Clustered vs non-clustered indexes",
+        "url": "/lessons/clustered-vs-non-clustered-indexes"
+      },
+      {
+        "slug": "data-type-conversions-and-casting",
+        "title": "Data type conversions and casting",
+        "url": "/lessons/data-type-conversions-and-casting"
+      },
+      {
+        "slug": "date-and-timestamp-data-types",
+        "title": "Date and timestamp data types",
+        "url": "/lessons/date-and-timestamp-data-types"
+      },
+      {
+        "slug": "index-types-and-purposes-b-tree-bitmap",
+        "title": "Index types and purposes (B-tree, bitmap)",
+        "url": "/lessons/index-types-and-purposes-b-tree-bitmap"
+      },
+      {
+        "slug": "normalization-1nf-2nf-3nf-bcnf",
+        "title": "Normalization (1NF, 2NF, 3NF, BCNF)",
+        "url": "/lessons/normalization-1nf-2nf-3nf-bcnf"
+      },
+      {
+        "slug": "null-handling-and-nullable-columns",
+        "title": "NULL handling and nullable columns",
+        "url": "/lessons/null-handling-and-nullable-columns"
+      },
+      {
+        "slug": "numeric-data-types-integer-decimal-float-number",
+        "title": "Numeric data types (INTEGER, DECIMAL, FLOAT, NUMBER)",
+        "url": "/lessons/numeric-data-types-integer-decimal-float-number"
+      },
+      {
+        "slug": "oltp-vs-olap-systems",
+        "title": "OLTP vs OLAP systems",
+        "url": "/lessons/oltp-vs-olap-systems"
+      },
+      {
+        "slug": "primary-keys-foreign-keys-composite-keys",
+        "title": "Primary keys, foreign keys, composite keys",
+        "url": "/lessons/primary-keys-foreign-keys-composite-keys"
+      },
+      {
+        "slug": "referential-integrity-and-constraints",
+        "title": "Referential integrity and constraints",
+        "url": "/lessons/referential-integrity-and-constraints"
+      },
+      {
+        "slug": "row-oriented-vs-column-oriented-storage",
+        "title": "Row-oriented vs column-oriented storage",
+        "url": "/lessons/row-oriented-vs-column-oriented-storage"
+      },
+      {
+        "slug": "schema-definition-and-ddl-concepts",
+        "title": "Schema definition and DDL concepts",
+        "url": "/lessons/schema-definition-and-ddl-concepts"
+      },
+      {
+        "slug": "semi-structured-data-types-json-array-variant",
+        "title": "Semi-structured data types (JSON, ARRAY, VARIANT)",
+        "url": "/lessons/semi-structured-data-types-json-array-variant"
+      },
+      {
+        "slug": "sequences-for-auto-increment",
+        "title": "Sequences for auto-increment",
+        "url": "/lessons/sequences-for-auto-increment"
+      },
+      {
+        "slug": "stored-procedures-and-functions-awareness-level",
+        "title": "Stored procedures and functions (awareness level)",
+        "url": "/lessons/stored-procedures-and-functions-awareness-level"
+      },
+      {
+        "slug": "string-data-types-varchar-char-text",
+        "title": "String data types (VARCHAR, CHAR, TEXT)",
+        "url": "/lessons/string-data-types-varchar-char-text"
+      },
+      {
+        "slug": "surrogate-keys-vs-natural-keys",
+        "title": "Surrogate keys vs natural keys",
+        "url": "/lessons/surrogate-keys-vs-natural-keys"
+      },
+      {
+        "slug": "temporary-tables-vs-transient-tables",
+        "title": "Temporary tables vs transient tables",
+        "url": "/lessons/temporary-tables-vs-transient-tables"
+      },
+      {
+        "slug": "transaction-isolation-levels",
+        "title": "Transaction isolation levels",
+        "url": "/lessons/transaction-isolation-levels"
+      },
+      {
+        "slug": "views-vs-materialized-views",
+        "title": "Views vs materialized views",
+        "url": "/lessons/views-vs-materialized-views"
+      },
+      {
+        "slug": "when-to-create-indexes",
+        "title": "When to create indexes",
+        "url": "/lessons/when-to-create-indexes"
+      }
+    ]
+  },
+  "module-7": {
+    "module_id": "module-7",
+    "module_name": "Module 7: Data Governance, Quality & Metadata",
+    "lesson_count": 32,
+    "lessons": [
+      {
+        "slug": "automated-testing-frameworks-dbt-tests-custom-sql-tests",
+        "title": "Automated testing frameworks (dbt tests, custom SQL tests)",
+        "url": "/lessons/automated-testing-frameworks-dbt-tests-custom-sql-tests"
+      },
+      {
+        "slug": "business-glossary-and-data-dictionary",
+        "title": "Business glossary and data dictionary",
+        "url": "/lessons/business-glossary-and-data-dictionary"
+      },
+      {
+        "slug": "business-rule-validation",
+        "title": "Business rule validation",
+        "url": "/lessons/business-rule-validation"
+      },
+      {
+        "slug": "column-level-documentation",
+        "title": "Column-level documentation",
+        "url": "/lessons/column-level-documentation"
+      },
+      {
+        "slug": "compliance-requirements-gdpr-ccpa-awareness",
+        "title": "Compliance requirements (GDPR, CCPA awareness)",
+        "url": "/lessons/compliance-requirements-gdpr-ccpa-awareness"
+      },
+      {
+        "slug": "data-access-audit-logging",
+        "title": "Data access audit logging",
+        "url": "/lessons/data-access-audit-logging"
+      },
+      {
+        "slug": "data-catalog-concepts",
+        "title": "Data catalog concepts",
+        "url": "/lessons/data-catalog-concepts"
+      },
+      {
+        "slug": "data-classification-public-internal-confidential-restricted",
+        "title": "Data classification (public, internal, confidential, restricted)",
+        "url": "/lessons/data-classification-public-internal-confidential-restricted"
+      },
+      {
+        "slug": "data-lifecycle-management",
+        "title": "Data lifecycle management",
+        "url": "/lessons/data-lifecycle-management"
+      },
+      {
+        "slug": "data-masking-and-anonymization",
+        "title": "Data masking and anonymization",
+        "url": "/lessons/data-masking-and-anonymization"
+      },
+      {
+        "slug": "data-ownership-and-stewardship",
+        "title": "Data ownership and stewardship",
+        "url": "/lessons/data-ownership-and-stewardship"
+      },
+      {
+        "slug": "data-policies-and-standards",
+        "title": "Data policies and standards",
+        "url": "/lessons/data-policies-and-standards"
+      },
+      {
+        "slug": "data-quality-dashboards",
+        "title": "Data quality dashboards",
+        "url": "/lessons/data-quality-dashboards"
+      },
+      {
+        "slug": "data-quality-scoring-and-metrics",
+        "title": "Data quality scoring and metrics",
+        "url": "/lessons/data-quality-scoring-and-metrics"
+      },
+      {
+        "slug": "data-retention-policies",
+        "title": "Data retention policies",
+        "url": "/lessons/data-retention-policies"
+      },
+      {
+        "slug": "data-validation-rules-and-checks",
+        "title": "Data validation rules and checks",
+        "url": "/lessons/data-validation-rules-and-checks"
+      },
+      {
+        "slug": "encryption-at-rest-and-in-transit",
+        "title": "Encryption at rest and in transit",
+        "url": "/lessons/encryption-at-rest-and-in-transit"
+      },
+      {
+        "slug": "foreign-key-relationship-validation",
+        "title": "Foreign key relationship validation",
+        "url": "/lessons/foreign-key-relationship-validation"
+      },
+      {
+        "slug": "integration-testing-for-pipelines",
+        "title": "Integration testing for pipelines",
+        "url": "/lessons/integration-testing-for-pipelines"
+      },
+      {
+        "slug": "master-data-management-concepts",
+        "title": "Master data management concepts",
+        "url": "/lessons/master-data-management-concepts"
+      },
+      {
+        "slug": "not-null-validation",
+        "title": "NOT NULL validation",
+        "url": "/lessons/not-null-validation"
+      },
+      {
+        "slug": "operational-metadata-load-times-row-counts-quality-metrics",
+        "title": "Operational metadata (load times, row counts, quality metrics)",
+        "url": "/lessons/operational-metadata-load-times-row-counts-quality-metrics"
+      },
+      {
+        "slug": "pii-personally-identifiable-information-identification",
+        "title": "PII (Personally Identifiable Information) identification",
+        "url": "/lessons/pii-personally-identifiable-information-identification"
+      },
+      {
+        "slug": "reconciliation-testing-source-vs-target",
+        "title": "Reconciliation testing (source vs target)",
+        "url": "/lessons/reconciliation-testing-source-vs-target"
+      },
+      {
+        "slug": "reference-data-management",
+        "title": "Reference data management",
+        "url": "/lessons/reference-data-management"
+      },
+      {
+        "slug": "regression-testing",
+        "title": "Regression testing",
+        "url": "/lessons/regression-testing"
+      },
+      {
+        "slug": "schema-validation-column-existence-data-types",
+        "title": "Schema validation (column existence, data types)",
+        "url": "/lessons/schema-validation-column-existence-data-types"
+      },
+      {
+        "slug": "table-level-documentation",
+        "title": "Table-level documentation",
+        "url": "/lessons/table-level-documentation"
+      },
+      {
+        "slug": "technical-metadata-schemas-data-types-relationships",
+        "title": "Technical metadata (schemas, data types, relationships)",
+        "url": "/lessons/technical-metadata-schemas-data-types-relationships"
+      },
+      {
+        "slug": "test-data-management",
+        "title": "Test data management",
+        "url": "/lessons/test-data-management"
+      },
+      {
+        "slug": "uniqueness-checks",
+        "title": "Uniqueness checks",
+        "url": "/lessons/uniqueness-checks"
+      },
+      {
+        "slug": "unit-testing-for-transformations",
+        "title": "Unit testing for transformations",
+        "url": "/lessons/unit-testing-for-transformations"
+      }
+    ]
+  },
+  "module-4": {
+    "module_id": "module-4",
+    "module_name": "Module 4: Data Modeling",
+    "lesson_count": 33,
+    "lessons": [
+      {
+        "slug": "accumulating-snapshot-facts",
+        "title": "Accumulating snapshot facts",
+        "url": "/lessons/accumulating-snapshot-facts"
+      },
+      {
+        "slug": "additive-semi-additive-and-non-additive-measures",
+        "title": "Additive, semi-additive, and non-additive measures",
+        "url": "/lessons/additive-semi-additive-and-non-additive-measures"
+      },
+      {
+        "slug": "bridge-tables-for-many-to-many-relationships",
+        "title": "Bridge tables for many-to-many relationships",
+        "url": "/lessons/bridge-tables-for-many-to-many-relationships"
+      },
+      {
+        "slug": "cardinality-one-to-one-one-to-many-many-to-many",
+        "title": "Cardinality (one-to-one, one-to-many, many-to-many)",
+        "url": "/lessons/cardinality-one-to-one-one-to-many-many-to-many"
+      },
+      {
+        "slug": "conformed-dimensions",
+        "title": "Conformed dimensions",
+        "url": "/lessons/conformed-dimensions"
+      },
+      {
+        "slug": "creating-and-reading-erds",
+        "title": "Creating and reading ERDs",
+        "url": "/lessons/creating-and-reading-erds"
+      },
+      {
+        "slug": "current-record-indicators",
+        "title": "Current record indicators",
+        "url": "/lessons/current-record-indicators"
+      },
+      {
+        "slug": "data-vault-modeling-hub-link-satellite---awareness-level",
+        "title": "Data Vault modeling (Hub, Link, Satellite) - awareness level",
+        "url": "/lessons/data-vault-modeling-hub-link-satellite---awareness-level"
+      },
+      {
+        "slug": "degenerate-dimensions",
+        "title": "Degenerate dimensions",
+        "url": "/lessons/degenerate-dimensions"
+      },
+      {
+        "slug": "dimension-tables-and-attributes",
+        "title": "Dimension tables and attributes",
+        "url": "/lessons/dimension-tables-and-attributes"
+      },
+      {
+        "slug": "effective-date-management-valid_from-valid_to",
+        "title": "Effective date management (valid_from, valid_to)",
+        "url": "/lessons/effective-date-management-valid_from-valid_to"
+      },
+      {
+        "slug": "erd-notation-and-symbols",
+        "title": "ERD notation and symbols",
+        "url": "/lessons/erd-notation-and-symbols"
+      },
+      {
+        "slug": "fact-tables-and-measures",
+        "title": "Fact tables and measures",
+        "url": "/lessons/fact-tables-and-measures"
+      },
+      {
+        "slug": "factless-fact-tables",
+        "title": "Factless fact tables",
+        "url": "/lessons/factless-fact-tables"
+      },
+      {
+        "slug": "forward-and-reverse-engineering-from-erds",
+        "title": "Forward and reverse engineering from ERDs",
+        "url": "/lessons/forward-and-reverse-engineering-from-erds"
+      },
+      {
+        "slug": "grain-definition",
+        "title": "Grain definition",
+        "url": "/lessons/grain-definition"
+      },
+      {
+        "slug": "heterogeneous-products-handling",
+        "title": "Heterogeneous products handling",
+        "url": "/lessons/heterogeneous-products-handling"
+      },
+      {
+        "slug": "junk-dimensions",
+        "title": "Junk dimensions",
+        "url": "/lessons/junk-dimensions"
+      },
+      {
+        "slug": "mini-dimensions-for-rapidly-changing-attributes",
+        "title": "Mini-dimensions for rapidly changing attributes",
+        "url": "/lessons/mini-dimensions-for-rapidly-changing-attributes"
+      },
+      {
+        "slug": "multi-valued-dimensions",
+        "title": "Multi-valued dimensions",
+        "url": "/lessons/multi-valued-dimensions"
+      },
+      {
+        "slug": "optionality-mandatory-vs-optional-relationships",
+        "title": "Optionality (mandatory vs optional relationships)",
+        "url": "/lessons/optionality-mandatory-vs-optional-relationships"
+      },
+      {
+        "slug": "periodic-snapshot-fact-tables",
+        "title": "Periodic snapshot fact tables",
+        "url": "/lessons/periodic-snapshot-fact-tables"
+      },
+      {
+        "slug": "role-playing-dimensions",
+        "title": "Role-playing dimensions",
+        "url": "/lessons/role-playing-dimensions"
+      },
+      {
+        "slug": "scd-type-0-retain-original",
+        "title": "SCD Type 0 (retain original)",
+        "url": "/lessons/scd-type-0-retain-original"
+      },
+      {
+        "slug": "scd-type-1-overwrite",
+        "title": "SCD Type 1 (overwrite)",
+        "url": "/lessons/scd-type-1-overwrite"
+      },
+      {
+        "slug": "scd-type-2-add-new-row-with-history",
+        "title": "SCD Type 2 (add new row with history)",
+        "url": "/lessons/scd-type-2-add-new-row-with-history"
+      },
+      {
+        "slug": "scd-type-3-add-new-column",
+        "title": "SCD Type 3 (add new column)",
+        "url": "/lessons/scd-type-3-add-new-column"
+      },
+      {
+        "slug": "scd-type-4-mini-dimension",
+        "title": "SCD Type 4 (mini-dimension)",
+        "url": "/lessons/scd-type-4-mini-dimension"
+      },
+      {
+        "slug": "scd-type-6-hybrid-approach",
+        "title": "SCD Type 6 (hybrid approach)",
+        "url": "/lessons/scd-type-6-hybrid-approach"
+      },
+      {
+        "slug": "snowflake-schema-design-vs-star-schema",
+        "title": "Snowflake schema design (vs star schema)",
+        "url": "/lessons/snowflake-schema-design-vs-star-schema"
+      },
+      {
+        "slug": "star-schema-design",
+        "title": "Star schema design",
+        "url": "/lessons/star-schema-design"
+      },
+      {
+        "slug": "surrogate-key-management-in-scd-type-2",
+        "title": "Surrogate key management in SCD Type 2",
+        "url": "/lessons/surrogate-key-management-in-scd-type-2"
+      },
+      {
+        "slug": "transaction-fact-tables",
+        "title": "Transaction fact tables",
+        "url": "/lessons/transaction-fact-tables"
+      }
+    ]
+  },
+  "module-16": {
+    "module_id": "module-16",
+    "module_name": "Module 16: Data Transformation with dbt",
+    "lesson_count": 15,
+    "lessons": [
+      {
+        "slug": "auto-generated-documentation",
+        "title": "Auto-generated documentation",
+        "url": "/lessons/auto-generated-documentation"
+      },
+      {
+        "slug": "custom-data-tests",
+        "title": "Custom data tests",
+        "url": "/lessons/custom-data-tests"
+      },
+      {
+        "slug": "custom-materializations",
+        "title": "Custom materializations",
+        "url": "/lessons/custom-materializations"
+      },
+      {
+        "slug": "incremental-models",
+        "title": "Incremental models",
+        "url": "/lessons/incremental-models"
+      },
+      {
+        "slug": "jinja-templating-in-sql",
+        "title": "Jinja templating in SQL",
+        "url": "/lessons/jinja-templating-in-sql"
+      },
+      {
+        "slug": "lineage-graphs",
+        "title": "Lineage graphs",
+        "url": "/lessons/lineage-graphs"
+      },
+      {
+        "slug": "macros-for-reusable-logic",
+        "title": "Macros for reusable logic",
+        "url": "/lessons/macros-for-reusable-logic"
+      },
+      {
+        "slug": "materializations-view-table-incremental-ephemeral",
+        "title": "Materializations (view, table, incremental, ephemeral)",
+        "url": "/lessons/materializations-view-table-incremental-ephemeral"
+      },
+      {
+        "slug": "models-as-select-statements",
+        "title": "Models as SELECT statements",
+        "url": "/lessons/models-as-select-statements"
+      },
+      {
+        "slug": "packages-dbt_utils",
+        "title": "Packages (dbt_utils)",
+        "url": "/lessons/packages-dbt_utils"
+      },
+      {
+        "slug": "project-structure-models-macros-tests-seeds",
+        "title": "Project structure (models, macros, tests, seeds)",
+        "url": "/lessons/project-structure-models-macros-tests-seeds"
+      },
+      {
+        "slug": "refs-and-sources-for-lineage",
+        "title": "refs() and sources() for lineage",
+        "url": "/lessons/refs-and-sources-for-lineage"
+      },
+      {
+        "slug": "schema-tests-unique-not_null-relationships-accepted_values",
+        "title": "Schema tests (unique, not_null, relationships, accepted_values)",
+        "url": "/lessons/schema-tests-unique-not_null-relationships-accepted_values"
+      },
+      {
+        "slug": "schemayml-configuration",
+        "title": "schema.yml configuration",
+        "url": "/lessons/schemayml-configuration"
+      },
+      {
+        "slug": "snapshots-for-scd-type-2",
+        "title": "Snapshots for SCD Type 2",
+        "url": "/lessons/snapshots-for-scd-type-2"
+      }
+    ]
+  },
+  "module-3": {
+    "module_id": "module-3",
+    "module_name": "Module 3: Data Warehousing Principles",
+    "lesson_count": 19,
+    "lessons": [
+      {
+        "slug": "batch-processing-vs-streaming",
+        "title": "Batch processing vs streaming",
+        "url": "/lessons/batch-processing-vs-streaming"
+      },
+      {
+        "slug": "conformed-dimensions-across-data-marts",
+        "title": "Conformed dimensions across data marts",
+        "url": "/lessons/conformed-dimensions-across-data-marts"
+      },
+      {
+        "slug": "data-profiling-techniques",
+        "title": "Data profiling techniques",
+        "url": "/lessons/data-profiling-techniques"
+      },
+      {
+        "slug": "data-quality-dimensions-accuracy-completeness-consistency-timeliness-validity-uniqueness",
+        "title": "Data quality dimensions (accuracy, completeness, consistency, timeliness, validity, uniqueness)",
+        "url": "/lessons/data-quality-dimensions-accuracy-completeness-consistency-timeliness-validity-uniqueness"
+      },
+      {
+        "slug": "data-quality-monitoring-and-alerting",
+        "title": "Data quality monitoring and alerting",
+        "url": "/lessons/data-quality-monitoring-and-alerting"
+      },
+      {
+        "slug": "data-refresh-strategies-and-scheduling",
+        "title": "Data refresh strategies and scheduling",
+        "url": "/lessons/data-refresh-strategies-and-scheduling"
+      },
+      {
+        "slug": "data-validation-rules",
+        "title": "Data validation rules",
+        "url": "/lessons/data-validation-rules"
+      },
+      {
+        "slug": "data-warehouse-vs-data-lake-vs-lakehouse",
+        "title": "Data warehouse vs data lake vs lakehouse",
+        "url": "/lessons/data-warehouse-vs-data-lake-vs-lakehouse"
+      },
+      {
+        "slug": "delta-detection-methods-timestamp-hash-cdc",
+        "title": "Delta detection methods (timestamp, hash, CDC)",
+        "url": "/lessons/delta-detection-methods-timestamp-hash-cdc"
+      },
+      {
+        "slug": "dimensional-vs-normalized-approaches",
+        "title": "Dimensional vs normalized approaches",
+        "url": "/lessons/dimensional-vs-normalized-approaches"
+      },
+      {
+        "slug": "enterprise-data-warehouse-concepts",
+        "title": "Enterprise data warehouse concepts",
+        "url": "/lessons/enterprise-data-warehouse-concepts"
+      },
+      {
+        "slug": "error-handling-strategies",
+        "title": "Error handling strategies",
+        "url": "/lessons/error-handling-strategies"
+      },
+      {
+        "slug": "full-load-truncate-and-load",
+        "title": "Full load (truncate and load)",
+        "url": "/lessons/full-load-truncate-and-load"
+      },
+      {
+        "slug": "incremental-load-append-only",
+        "title": "Incremental load (append-only)",
+        "url": "/lessons/incremental-load-append-only"
+      },
+      {
+        "slug": "incremental-load-upsertmerge",
+        "title": "Incremental load (upsert/merge)",
+        "url": "/lessons/incremental-load-upsertmerge"
+      },
+      {
+        "slug": "late-arriving-facts-and-dimensions",
+        "title": "Late-arriving facts and dimensions",
+        "url": "/lessons/late-arriving-facts-and-dimensions"
+      },
+      {
+        "slug": "multi-tier-architecture-staging-integration-presentation",
+        "title": "Multi-tier architecture (staging, integration, presentation)",
+        "url": "/lessons/multi-tier-architecture-staging-integration-presentation"
+      },
+      {
+        "slug": "reconciliation-methods-row-count-sum-checks",
+        "title": "Reconciliation methods (row count, sum checks)",
+        "url": "/lessons/reconciliation-methods-row-count-sum-checks"
+      },
+      {
+        "slug": "semantic-layers-and-business-logic-separation",
+        "title": "Semantic layers and business logic separation",
+        "url": "/lessons/semantic-layers-and-business-logic-separation"
+      }
+    ]
+  },
+  "module-20": {
+    "module_id": "module-20",
+    "module_name": "Module 20: Emerging Topics & Advanced Concepts",
+    "lesson_count": 23,
+    "lessons": [
+      {
+        "slug": "automated-testing-and-validation",
+        "title": "Automated testing and validation",
+        "url": "/lessons/automated-testing-and-validation"
+      },
+      {
+        "slug": "aws-azure-or-gcp-fundamentals",
+        "title": "AWS, Azure, or GCP fundamentals",
+        "url": "/lessons/aws-azure-or-gcp-fundamentals"
+      },
+      {
+        "slug": "batch-vs-streaming-concepts",
+        "title": "Batch vs streaming concepts",
+        "url": "/lessons/batch-vs-streaming-concepts"
+      },
+      {
+        "slug": "change-data-capture-cdc-mechanisms",
+        "title": "Change Data Capture (CDC) mechanisms",
+        "url": "/lessons/change-data-capture-cdc-mechanisms"
+      },
+      {
+        "slug": "cloud-cost-management",
+        "title": "Cloud cost management",
+        "url": "/lessons/cloud-cost-management"
+      },
+      {
+        "slug": "cloud-storage-services-s3-azure-blob-gcs",
+        "title": "Cloud storage services (S3, Azure Blob, GCS)",
+        "url": "/lessons/cloud-storage-services-s3-azure-blob-gcs"
+      },
+      {
+        "slug": "continuous-integration-for-data-pipelines",
+        "title": "Continuous integration for data pipelines",
+        "url": "/lessons/continuous-integration-for-data-pipelines"
+      },
+      {
+        "slug": "data-mesh-principles-awareness-level",
+        "title": "Data mesh principles (awareness level)",
+        "url": "/lessons/data-mesh-principles-awareness-level"
+      },
+      {
+        "slug": "data-products-concept",
+        "title": "Data products concept",
+        "url": "/lessons/data-products-concept"
+      },
+      {
+        "slug": "dataops-principles-and-culture",
+        "title": "DataOps principles and culture",
+        "url": "/lessons/dataops-principles-and-culture"
+      },
+      {
+        "slug": "domain-oriented-decentralized-data-ownership",
+        "title": "Domain-oriented decentralized data ownership",
+        "url": "/lessons/domain-oriented-decentralized-data-ownership"
+      },
+      {
+        "slug": "feature-engineering-for-ml",
+        "title": "Feature engineering for ML",
+        "url": "/lessons/feature-engineering-for-ml"
+      },
+      {
+        "slug": "iam-and-access-management",
+        "title": "IAM and access management",
+        "url": "/lessons/iam-and-access-management"
+      },
+      {
+        "slug": "incident-response-for-data-issues",
+        "title": "Incident response for data issues",
+        "url": "/lessons/incident-response-for-data-issues"
+      },
+      {
+        "slug": "kafka-and-event-streaming-basics",
+        "title": "Kafka and event streaming basics",
+        "url": "/lessons/kafka-and-event-streaming-basics"
+      },
+      {
+        "slug": "machine-learning-pipeline-concepts",
+        "title": "Machine learning pipeline concepts",
+        "url": "/lessons/machine-learning-pipeline-concepts"
+      },
+      {
+        "slug": "micro-batch-processing",
+        "title": "Micro-batch processing",
+        "url": "/lessons/micro-batch-processing"
+      },
+      {
+        "slug": "model-scoring-and-prediction-in-sql",
+        "title": "Model scoring and prediction in SQL",
+        "url": "/lessons/model-scoring-and-prediction-in-sql"
+      },
+      {
+        "slug": "monitoring-and-observability",
+        "title": "Monitoring and observability",
+        "url": "/lessons/monitoring-and-observability"
+      },
+      {
+        "slug": "multi-cloud-awareness",
+        "title": "Multi-cloud awareness",
+        "url": "/lessons/multi-cloud-awareness"
+      },
+      {
+        "slug": "self-serve-data-infrastructure",
+        "title": "Self-serve data infrastructure",
+        "url": "/lessons/self-serve-data-infrastructure"
+      },
+      {
+        "slug": "snowflake-integration-with-ml-platforms",
+        "title": "Snowflake integration with ML platforms",
+        "url": "/lessons/snowflake-integration-with-ml-platforms"
+      },
+      {
+        "slug": "snowflake-streams-for-cdc",
+        "title": "Snowflake Streams for CDC",
+        "url": "/lessons/snowflake-streams-for-cdc"
+      }
+    ]
+  },
+  "module-6": {
+    "module_id": "module-6",
+    "module_name": "Module 6: ETL/ELT Design & Best Practices",
+    "lesson_count": 28,
+    "lessons": [
+      {
+        "slug": "aggregation-and-summarization",
+        "title": "Aggregation and summarization",
+        "url": "/lessons/aggregation-and-summarization"
+      },
+      {
+        "slug": "business-logic-implementation",
+        "title": "Business logic implementation",
+        "url": "/lessons/business-logic-implementation"
+      },
+      {
+        "slug": "cdc-based-incremental-patterns",
+        "title": "CDC-based incremental patterns",
+        "url": "/lessons/cdc-based-incremental-patterns"
+      },
+      {
+        "slug": "configuration-driven-pipelines",
+        "title": "Configuration-driven pipelines",
+        "url": "/lessons/configuration-driven-pipelines"
+      },
+      {
+        "slug": "data-cleansing-and-standardization",
+        "title": "Data cleansing and standardization",
+        "url": "/lessons/data-cleansing-and-standardization"
+      },
+      {
+        "slug": "data-pivoting-and-unpivoting",
+        "title": "Data pivoting and unpivoting",
+        "url": "/lessons/data-pivoting-and-unpivoting"
+      },
+      {
+        "slug": "delete-detection-strategies",
+        "title": "Delete detection strategies",
+        "url": "/lessons/delete-detection-strategies"
+      },
+      {
+        "slug": "dependency-management-dag-concepts",
+        "title": "Dependency management (DAG concepts)",
+        "url": "/lessons/dependency-management-dag-concepts"
+      },
+      {
+        "slug": "derived-calculations-and-metrics",
+        "title": "Derived calculations and metrics",
+        "url": "/lessons/derived-calculations-and-metrics"
+      },
+      {
+        "slug": "error-handling-and-retry-logic",
+        "title": "Error handling and retry logic",
+        "url": "/lessons/error-handling-and-retry-logic"
+      },
+      {
+        "slug": "hash-based-change-detection",
+        "title": "Hash-based change detection",
+        "url": "/lessons/hash-based-change-detection"
+      },
+      {
+        "slug": "high-water-mark-tracking",
+        "title": "High-water mark tracking",
+        "url": "/lessons/high-water-mark-tracking"
+      },
+      {
+        "slug": "historical-data-backfilling",
+        "title": "Historical data backfilling",
+        "url": "/lessons/historical-data-backfilling"
+      },
+      {
+        "slug": "impact-analysis",
+        "title": "Impact analysis",
+        "url": "/lessons/impact-analysis"
+      },
+      {
+        "slug": "logging-and-audit-trails",
+        "title": "Logging and audit trails",
+        "url": "/lessons/logging-and-audit-trails"
+      },
+      {
+        "slug": "lookup-and-reference-data-handling",
+        "title": "Lookup and reference data handling",
+        "url": "/lessons/lookup-and-reference-data-handling"
+      },
+      {
+        "slug": "mergeupsert-logic-merge-statement",
+        "title": "Merge/upsert logic (MERGE statement)",
+        "url": "/lessons/mergeupsert-logic-merge-statement"
+      },
+      {
+        "slug": "metadata-repositories",
+        "title": "Metadata repositories",
+        "url": "/lessons/metadata-repositories"
+      },
+      {
+        "slug": "modularity-and-reusability",
+        "title": "Modularity and reusability",
+        "url": "/lessons/modularity-and-reusability"
+      },
+      {
+        "slug": "parameterization-of-sql-scripts",
+        "title": "Parameterization of SQL scripts",
+        "url": "/lessons/parameterization-of-sql-scripts"
+      },
+      {
+        "slug": "pipeline-orchestration-concepts",
+        "title": "Pipeline orchestration concepts",
+        "url": "/lessons/pipeline-orchestration-concepts"
+      },
+      {
+        "slug": "separation-of-concerns-extract-transform-load",
+        "title": "Separation of concerns (extract, transform, load)",
+        "url": "/lessons/separation-of-concerns-extract-transform-load"
+      },
+      {
+        "slug": "source-to-target-mapping",
+        "title": "Source-to-target mapping",
+        "url": "/lessons/source-to-target-mapping"
+      },
+      {
+        "slug": "staging-to-integration-layer-transformations",
+        "title": "Staging to integration layer transformations",
+        "url": "/lessons/staging-to-integration-layer-transformations"
+      },
+      {
+        "slug": "technical-vs-business-metadata",
+        "title": "Technical vs business metadata",
+        "url": "/lessons/technical-vs-business-metadata"
+      },
+      {
+        "slug": "timestamp-based-incremental-logic",
+        "title": "Timestamp-based incremental logic",
+        "url": "/lessons/timestamp-based-incremental-logic"
+      },
+      {
+        "slug": "tracking-data-flow-through-pipelines",
+        "title": "Tracking data flow through pipelines",
+        "url": "/lessons/tracking-data-flow-through-pipelines"
+      },
+      {
+        "slug": "understanding-data-lineage",
+        "title": "Understanding data lineage",
+        "url": "/lessons/understanding-data-lineage"
+      }
+    ]
+  },
+  "module-14": {
+    "module_id": "module-14",
+    "module_name": "Module 14: Monitoring & Observability",
+    "lesson_count": 16,
+    "lessons": [
+      {
+        "slug": "account-usage-views",
+        "title": "Account usage views",
+        "url": "/lessons/account-usage-views"
+      },
+      {
+        "slug": "alert-configuration-for-quality-issues",
+        "title": "Alert configuration for quality issues",
+        "url": "/lessons/alert-configuration-for-quality-issues"
+      },
+      {
+        "slug": "automated-quality-checks",
+        "title": "Automated quality checks",
+        "url": "/lessons/automated-quality-checks"
+      },
+      {
+        "slug": "credit-consumption-tracking",
+        "title": "Credit consumption tracking",
+        "url": "/lessons/credit-consumption-tracking"
+      },
+      {
+        "slug": "data-freshness-monitoring",
+        "title": "Data freshness monitoring",
+        "url": "/lessons/data-freshness-monitoring"
+      },
+      {
+        "slug": "data-volume-anomaly-detection",
+        "title": "Data volume anomaly detection",
+        "url": "/lessons/data-volume-anomaly-detection"
+      },
+      {
+        "slug": "execution-duration-tracking",
+        "title": "Execution duration tracking",
+        "url": "/lessons/execution-duration-tracking"
+      },
+      {
+        "slug": "failure-detection-and-alerting",
+        "title": "Failure detection and alerting",
+        "url": "/lessons/failure-detection-and-alerting"
+      },
+      {
+        "slug": "login-history-and-security-monitoring",
+        "title": "Login history and security monitoring",
+        "url": "/lessons/login-history-and-security-monitoring"
+      },
+      {
+        "slug": "pipeline-execution-status-tracking",
+        "title": "Pipeline execution status tracking",
+        "url": "/lessons/pipeline-execution-status-tracking"
+      },
+      {
+        "slug": "quality-metric-dashboards",
+        "title": "Quality metric dashboards",
+        "url": "/lessons/quality-metric-dashboards"
+      },
+      {
+        "slug": "query-history-analysis",
+        "title": "Query history analysis",
+        "url": "/lessons/query-history-analysis"
+      },
+      {
+        "slug": "storage-usage-monitoring",
+        "title": "Storage usage monitoring",
+        "url": "/lessons/storage-usage-monitoring"
+      },
+      {
+        "slug": "test-result-tracking-over-time",
+        "title": "Test result tracking over time",
+        "url": "/lessons/test-result-tracking-over-time"
+      },
+      {
+        "slug": "trend-analysis-for-quality-metrics",
+        "title": "Trend analysis for quality metrics",
+        "url": "/lessons/trend-analysis-for-quality-metrics"
+      },
+      {
+        "slug": "warehouse-performance-monitoring",
+        "title": "Warehouse performance monitoring",
+        "url": "/lessons/warehouse-performance-monitoring"
+      }
+    ]
+  },
+  "module-15": {
+    "module_id": "module-15",
+    "module_name": "Module 15: Orchestration & Scheduling Tools",
+    "lesson_count": 15,
+    "lessons": [
+      {
+        "slug": "apache-airflow-dags-operators-sensors",
+        "title": "Apache Airflow (DAGs, operators, sensors)",
+        "url": "/lessons/apache-airflow-dags-operators-sensors"
+      },
+      {
+        "slug": "apache-nifi",
+        "title": "Apache NiFi",
+        "url": "/lessons/apache-nifi"
+      },
+      {
+        "slug": "aws-step-functions-azure-data-factory",
+        "title": "AWS Step Functions / Azure Data Factory",
+        "url": "/lessons/aws-step-functions-azure-data-factory"
+      },
+      {
+        "slug": "backfilling-historical-data",
+        "title": "Backfilling historical data",
+        "url": "/lessons/backfilling-historical-data"
+      },
+      {
+        "slug": "cron-expressions",
+        "title": "Cron expressions",
+        "url": "/lessons/cron-expressions"
+      },
+      {
+        "slug": "dag-directed-acyclic-graph-design",
+        "title": "DAG (Directed Acyclic Graph) design",
+        "url": "/lessons/dag-directed-acyclic-graph-design"
+      },
+      {
+        "slug": "dbt-for-sql-based-transformations",
+        "title": "dbt for SQL-based transformations",
+        "url": "/lessons/dbt-for-sql-based-transformations"
+      },
+      {
+        "slug": "error-handling-and-retry-mechanisms",
+        "title": "Error handling and retry mechanisms",
+        "url": "/lessons/error-handling-and-retry-mechanisms"
+      },
+      {
+        "slug": "execution-windows-and-maintenance-windows",
+        "title": "Execution windows and maintenance windows",
+        "url": "/lessons/execution-windows-and-maintenance-windows"
+      },
+      {
+        "slug": "handling-late-arriving-data",
+        "title": "Handling late-arriving data",
+        "url": "/lessons/handling-late-arriving-data"
+      },
+      {
+        "slug": "parallel-vs-sequential-execution",
+        "title": "Parallel vs sequential execution",
+        "url": "/lessons/parallel-vs-sequential-execution"
+      },
+      {
+        "slug": "sla-monitoring-and-alerting",
+        "title": "SLA monitoring and alerting",
+        "url": "/lessons/sla-monitoring-and-alerting"
+      },
+      {
+        "slug": "snowflake-tasks-and-streams",
+        "title": "Snowflake Tasks and Streams",
+        "url": "/lessons/snowflake-tasks-and-streams"
+      },
+      {
+        "slug": "task-dependencies-and-precedence",
+        "title": "Task dependencies and precedence",
+        "url": "/lessons/task-dependencies-and-precedence"
+      },
+      {
+        "slug": "time-zone-considerations",
+        "title": "Time zone considerations",
+        "url": "/lessons/time-zone-considerations"
+      }
+    ]
+  },
+  "module-12": {
+    "module_id": "module-12",
+    "module_name": "Module 12: Performance Optimization & Troubleshooting",
+    "lesson_count": 41,
+    "lessons": [
+      {
+        "slug": "aggregate-function-optimization",
+        "title": "Aggregate function optimization",
+        "url": "/lessons/aggregate-function-optimization"
+      },
+      {
+        "slug": "analyzing-bytes-scanned-and-pruning-efficiency",
+        "title": "Analyzing bytes scanned and pruning efficiency",
+        "url": "/lessons/analyzing-bytes-scanned-and-pruning-efficiency"
+      },
+      {
+        "slug": "avoiding-cartesian-products",
+        "title": "Avoiding Cartesian products",
+        "url": "/lessons/avoiding-cartesian-products"
+      },
+      {
+        "slug": "avoiding-row-by-row-processing",
+        "title": "Avoiding row-by-row processing",
+        "url": "/lessons/avoiding-row-by-row-processing"
+      },
+      {
+        "slug": "batch-sizing-optimization",
+        "title": "Batch sizing optimization",
+        "url": "/lessons/batch-sizing-optimization"
+      },
+      {
+        "slug": "clustering-key-selection-and-optimization",
+        "title": "Clustering key selection and optimization",
+        "url": "/lessons/clustering-key-selection-and-optimization"
+      },
+      {
+        "slug": "credit-consumption-tracking",
+        "title": "Credit consumption tracking",
+        "url": "/lessons/credit-consumption-tracking"
+      },
+      {
+        "slug": "cte-vs-subquery-performance",
+        "title": "CTE vs subquery performance",
+        "url": "/lessons/cte-vs-subquery-performance"
+      },
+      {
+        "slug": "data-reconciliation-methods",
+        "title": "Data reconciliation methods",
+        "url": "/lessons/data-reconciliation-methods"
+      },
+      {
+        "slug": "debugging-sql-queries-step-by-step",
+        "title": "Debugging SQL queries step-by-step",
+        "url": "/lessons/debugging-sql-queries-step-by-step"
+      },
+      {
+        "slug": "distinct-optimization",
+        "title": "DISTINCT optimization",
+        "url": "/lessons/distinct-optimization"
+      },
+      {
+        "slug": "filter-pushdown-and-early-filtering",
+        "title": "Filter pushdown and early filtering",
+        "url": "/lessons/filter-pushdown-and-early-filtering"
+      },
+      {
+        "slug": "identifying-performance-bottlenecks",
+        "title": "Identifying performance bottlenecks",
+        "url": "/lessons/identifying-performance-bottlenecks"
+      },
+      {
+        "slug": "incremental-vs-full-refresh-decisions",
+        "title": "Incremental vs full refresh decisions",
+        "url": "/lessons/incremental-vs-full-refresh-decisions"
+      },
+      {
+        "slug": "isolating-problematic-sections",
+        "title": "Isolating problematic sections",
+        "url": "/lessons/isolating-problematic-sections"
+      },
+      {
+        "slug": "join-order-optimization",
+        "title": "Join order optimization",
+        "url": "/lessons/join-order-optimization"
+      },
+      {
+        "slug": "materialized-view-usage",
+        "title": "Materialized view usage",
+        "url": "/lessons/materialized-view-usage"
+      },
+      {
+        "slug": "micro-partition-statistics",
+        "title": "Micro-partition statistics",
+        "url": "/lessons/micro-partition-statistics"
+      },
+      {
+        "slug": "minimizing-subquery-usage",
+        "title": "Minimizing subquery usage",
+        "url": "/lessons/minimizing-subquery-usage"
+      },
+      {
+        "slug": "parallel-processing-and-concurrency",
+        "title": "Parallel processing and concurrency",
+        "url": "/lessons/parallel-processing-and-concurrency"
+      },
+      {
+        "slug": "partition-pruning-strategies",
+        "title": "Partition pruning strategies",
+        "url": "/lessons/partition-pruning-strategies"
+      },
+      {
+        "slug": "query-acceleration-service",
+        "title": "Query acceleration service",
+        "url": "/lessons/query-acceleration-service"
+      },
+      {
+        "slug": "query-cost-monitoring",
+        "title": "Query cost monitoring",
+        "url": "/lessons/query-cost-monitoring"
+      },
+      {
+        "slug": "query-history-analysis",
+        "title": "Query history analysis",
+        "url": "/lessons/query-history-analysis"
+      },
+      {
+        "slug": "query-profiling-in-snowflake",
+        "title": "Query profiling in Snowflake",
+        "url": "/lessons/query-profiling-in-snowflake"
+      },
+      {
+        "slug": "reading-error-messages-and-stack-traces",
+        "title": "Reading error messages and stack traces",
+        "url": "/lessons/reading-error-messages-and-stack-traces"
+      },
+      {
+        "slug": "reducing-data-scanning-through-filters",
+        "title": "Reducing data scanning through filters",
+        "url": "/lessons/reducing-data-scanning-through-filters"
+      },
+      {
+        "slug": "resource-monitors-and-alerts",
+        "title": "Resource monitors and alerts",
+        "url": "/lessons/resource-monitors-and-alerts"
+      },
+      {
+        "slug": "result-set-caching-strategies",
+        "title": "Result set caching strategies",
+        "url": "/lessons/result-set-caching-strategies"
+      },
+      {
+        "slug": "root-cause-analysis-for-data-issues",
+        "title": "Root cause analysis for data issues",
+        "url": "/lessons/root-cause-analysis-for-data-issues"
+      },
+      {
+        "slug": "set-based-operations",
+        "title": "Set-based operations",
+        "url": "/lessons/set-based-operations"
+      },
+      {
+        "slug": "snowflake-query-profiler-interpretation",
+        "title": "Snowflake query profiler interpretation",
+        "url": "/lessons/snowflake-query-profiler-interpretation"
+      },
+      {
+        "slug": "staging-vs-direct-transformations",
+        "title": "Staging vs direct transformations",
+        "url": "/lessons/staging-vs-direct-transformations"
+      },
+      {
+        "slug": "storage-cost-management",
+        "title": "Storage cost management",
+        "url": "/lessons/storage-cost-management"
+      },
+      {
+        "slug": "table-type-selection-permanent-vs-transient",
+        "title": "Table type selection (permanent vs transient)",
+        "url": "/lessons/table-type-selection-permanent-vs-transient"
+      },
+      {
+        "slug": "testing-with-sample-data",
+        "title": "Testing with sample data",
+        "url": "/lessons/testing-with-sample-data"
+      },
+      {
+        "slug": "time-travel-retention-policies",
+        "title": "Time Travel retention policies",
+        "url": "/lessons/time-travel-retention-policies"
+      },
+      {
+        "slug": "understanding-query-execution-plans",
+        "title": "Understanding query execution plans",
+        "url": "/lessons/understanding-query-execution-plans"
+      },
+      {
+        "slug": "using-appropriate-join-types",
+        "title": "Using appropriate join types",
+        "url": "/lessons/using-appropriate-join-types"
+      },
+      {
+        "slug": "warehouse-sizing-and-auto-suspend-tuning",
+        "title": "Warehouse sizing and auto-suspend tuning",
+        "url": "/lessons/warehouse-sizing-and-auto-suspend-tuning"
+      },
+      {
+        "slug": "warehouse-utilization-metrics",
+        "title": "Warehouse utilization metrics",
+        "url": "/lessons/warehouse-utilization-metrics"
+      }
+    ]
+  },
+  "module-9": {
+    "module_id": "module-9",
+    "module_name": "Module 9: Reporting & BI Concepts",
+    "lesson_count": 39,
+    "lessons": [
+      {
+        "slug": "accessibility-considerations-color-blind-friendly-palettes",
+        "title": "Accessibility considerations (color-blind friendly palettes)",
+        "url": "/lessons/accessibility-considerations-color-blind-friendly-palettes"
+      },
+      {
+        "slug": "aggregation-and-formula-configuration",
+        "title": "Aggregation and formula configuration",
+        "url": "/lessons/aggregation-and-formula-configuration"
+      },
+      {
+        "slug": "aggregation-rules",
+        "title": "Aggregation rules",
+        "url": "/lessons/aggregation-rules"
+      },
+      {
+        "slug": "answer-creation-and-saving",
+        "title": "Answer creation and saving",
+        "url": "/lessons/answer-creation-and-saving"
+      },
+      {
+        "slug": "business-friendly-naming-conventions",
+        "title": "Business-friendly naming conventions",
+        "url": "/lessons/business-friendly-naming-conventions"
+      },
+      {
+        "slug": "caching-mechanisms",
+        "title": "Caching mechanisms",
+        "url": "/lessons/caching-mechanisms"
+      },
+      {
+        "slug": "calculated-fields-and-measures",
+        "title": "Calculated fields and measures",
+        "url": "/lessons/calculated-fields-and-measures"
+      },
+      {
+        "slug": "calendar-tables-and-date-dimensions",
+        "title": "Calendar tables and date dimensions",
+        "url": "/lessons/calendar-tables-and-date-dimensions"
+      },
+      {
+        "slug": "centralized-business-logic",
+        "title": "Centralized business logic",
+        "url": "/lessons/centralized-business-logic"
+      },
+      {
+        "slug": "chart-types-and-when-to-use-them-bar-line-pie-scatter-heatmap-etc",
+        "title": "Chart types and when to use them (bar, line, pie, scatter, heatmap, etc.)",
+        "url": "/lessons/chart-types-and-when-to-use-them-bar-line-pie-scatter-heatmap-etc"
+      },
+      {
+        "slug": "column-properties-and-formatting",
+        "title": "Column properties and formatting",
+        "url": "/lessons/column-properties-and-formatting"
+      },
+      {
+        "slug": "dashboard-layout-and-design-principles",
+        "title": "Dashboard layout and design principles",
+        "url": "/lessons/dashboard-layout-and-design-principles"
+      },
+      {
+        "slug": "dashboard-performance-best-practices",
+        "title": "Dashboard performance best practices",
+        "url": "/lessons/dashboard-performance-best-practices"
+      },
+      {
+        "slug": "data-connections-to-snowflake",
+        "title": "Data connections to Snowflake",
+        "url": "/lessons/data-connections-to-snowflake"
+      },
+      {
+        "slug": "dimension-hierarchies",
+        "title": "Dimension hierarchies",
+        "url": "/lessons/dimension-hierarchies"
+      },
+      {
+        "slug": "filters-and-parameters",
+        "title": "Filters and parameters",
+        "url": "/lessons/filters-and-parameters"
+      },
+      {
+        "slug": "incremental-refresh-strategies",
+        "title": "Incremental refresh strategies",
+        "url": "/lessons/incremental-refresh-strategies"
+      },
+      {
+        "slug": "interactive-dashboards-drill-down-cross-filtering",
+        "title": "Interactive dashboards (drill-down, cross-filtering)",
+        "url": "/lessons/interactive-dashboards-drill-down-cross-filtering"
+      },
+      {
+        "slug": "key-performance-indicators-kpis-and-scorecards",
+        "title": "Key Performance Indicators (KPIs) and scorecards",
+        "url": "/lessons/key-performance-indicators-kpis-and-scorecards"
+      },
+      {
+        "slug": "live-query-vs-in-memory-analytics",
+        "title": "Live query vs in-memory analytics",
+        "url": "/lessons/live-query-vs-in-memory-analytics"
+      },
+      {
+        "slug": "logical-table-and-column-configuration",
+        "title": "Logical table and column configuration",
+        "url": "/lessons/logical-table-and-column-configuration"
+      },
+      {
+        "slug": "looker-and-lookml",
+        "title": "Looker and LookML",
+        "url": "/lessons/looker-and-lookml"
+      },
+      {
+        "slug": "materialized-views-for-reporting",
+        "title": "Materialized views for reporting",
+        "url": "/lessons/materialized-views-for-reporting"
+      },
+      {
+        "slug": "metric-definitions-and-calculations",
+        "title": "Metric definitions and calculations",
+        "url": "/lessons/metric-definitions-and-calculations"
+      },
+      {
+        "slug": "mobile-responsive-design",
+        "title": "Mobile-responsive design",
+        "url": "/lessons/mobile-responsive-design"
+      },
+      {
+        "slug": "mode-analytics-sql-based-reporting",
+        "title": "Mode Analytics SQL-based reporting",
+        "url": "/lessons/mode-analytics-sql-based-reporting"
+      },
+      {
+        "slug": "natural-language-search",
+        "title": "Natural language search",
+        "url": "/lessons/natural-language-search"
+      },
+      {
+        "slug": "pinboards-dashboards-creation",
+        "title": "Pinboards (dashboards) creation",
+        "url": "/lessons/pinboards-dashboards-creation"
+      },
+      {
+        "slug": "power-bi-architecture-and-data-model",
+        "title": "Power BI architecture and data model",
+        "url": "/lessons/power-bi-architecture-and-data-model"
+      },
+      {
+        "slug": "pre-aggregated-tables-and-views",
+        "title": "Pre-aggregated tables and views",
+        "url": "/lessons/pre-aggregated-tables-and-views"
+      },
+      {
+        "slug": "qlik-sense-associative-model",
+        "title": "Qlik Sense associative model",
+        "url": "/lessons/qlik-sense-associative-model"
+      },
+      {
+        "slug": "query-optimization-for-bi-tools",
+        "title": "Query optimization for BI tools",
+        "url": "/lessons/query-optimization-for-bi-tools"
+      },
+      {
+        "slug": "relationships-and-joins-in-thoughtspot",
+        "title": "Relationships and joins in ThoughtSpot",
+        "url": "/lessons/relationships-and-joins-in-thoughtspot"
+      },
+      {
+        "slug": "search-customization-synonyms-indexing",
+        "title": "Search customization (synonyms, indexing)",
+        "url": "/lessons/search-customization-synonyms-indexing"
+      },
+      {
+        "slug": "search-driven-analytics-concepts",
+        "title": "Search-driven analytics concepts",
+        "url": "/lessons/search-driven-analytics-concepts"
+      },
+      {
+        "slug": "security-at-worksheet-level",
+        "title": "Security at worksheet level",
+        "url": "/lessons/security-at-worksheet-level"
+      },
+      {
+        "slug": "spotiq-for-automated-insights",
+        "title": "SpotIQ for automated insights",
+        "url": "/lessons/spotiq-for-automated-insights"
+      },
+      {
+        "slug": "tableau-workbooks-and-data-sources",
+        "title": "Tableau workbooks and data sources",
+        "url": "/lessons/tableau-workbooks-and-data-sources"
+      },
+      {
+        "slug": "worksheets-and-views",
+        "title": "Worksheets and views",
+        "url": "/lessons/worksheets-and-views"
+      }
+    ]
+  },
+  "module-8": {
+    "module_id": "module-8",
+    "module_name": "Module 8: Snowflake Security & Access Control",
+    "lesson_count": 20,
+    "lessons": [
+      {
+        "slug": "column-level-security",
+        "title": "Column-level security",
+        "url": "/lessons/column-level-security"
+      },
+      {
+        "slug": "custom-role-creation",
+        "title": "Custom role creation",
+        "url": "/lessons/custom-role-creation"
+      },
+      {
+        "slug": "dynamic-data-masking-policies",
+        "title": "Dynamic data masking policies",
+        "url": "/lessons/dynamic-data-masking-policies"
+      },
+      {
+        "slug": "future-grants",
+        "title": "Future grants",
+        "url": "/lessons/future-grants"
+      },
+      {
+        "slug": "granting-and-revoking-privileges",
+        "title": "Granting and revoking privileges",
+        "url": "/lessons/granting-and-revoking-privileges"
+      },
+      {
+        "slug": "key-pair-authentication",
+        "title": "Key pair authentication",
+        "url": "/lessons/key-pair-authentication"
+      },
+      {
+        "slug": "multi-factor-authentication-mfa",
+        "title": "Multi-factor authentication (MFA)",
+        "url": "/lessons/multi-factor-authentication-mfa"
+      },
+      {
+        "slug": "network-policies-and-ip-whitelisting",
+        "title": "Network policies and IP whitelisting",
+        "url": "/lessons/network-policies-and-ip-whitelisting"
+      },
+      {
+        "slug": "oauth-integration",
+        "title": "OAuth integration",
+        "url": "/lessons/oauth-integration"
+      },
+      {
+        "slug": "object-level-permissions-databases-schemas-tables-views",
+        "title": "Object-level permissions (databases, schemas, tables, views)",
+        "url": "/lessons/object-level-permissions-databases-schemas-tables-views"
+      },
+      {
+        "slug": "principle-of-least-privilege",
+        "title": "Principle of least privilege",
+        "url": "/lessons/principle-of-least-privilege"
+      },
+      {
+        "slug": "role-based-access-control-rbac",
+        "title": "Role-Based Access Control (RBAC)",
+        "url": "/lessons/role-based-access-control-rbac"
+      },
+      {
+        "slug": "role-hierarchy-and-inheritance",
+        "title": "Role hierarchy and inheritance",
+        "url": "/lessons/role-hierarchy-and-inheritance"
+      },
+      {
+        "slug": "row-level-security-secure-views-row-access-policies",
+        "title": "Row-level security (secure views, row access policies)",
+        "url": "/lessons/row-level-security-secure-views-row-access-policies"
+      },
+      {
+        "slug": "service-accounts-vs-user-accounts",
+        "title": "Service accounts vs user accounts",
+        "url": "/lessons/service-accounts-vs-user-accounts"
+      },
+      {
+        "slug": "single-sign-on-sso-integration",
+        "title": "Single Sign-On (SSO) integration",
+        "url": "/lessons/single-sign-on-sso-integration"
+      },
+      {
+        "slug": "system-defined-roles-accountadmin-securityadmin-sysadmin-public",
+        "title": "System-defined roles (ACCOUNTADMIN, SECURITYADMIN, SYSADMIN, PUBLIC)",
+        "url": "/lessons/system-defined-roles-accountadmin-securityadmin-sysadmin-public"
+      },
+      {
+        "slug": "tag-based-masking-policies",
+        "title": "Tag-based masking policies",
+        "url": "/lessons/tag-based-masking-policies"
+      },
+      {
+        "slug": "user-management-in-snowflake",
+        "title": "User management in Snowflake",
+        "url": "/lessons/user-management-in-snowflake"
+      },
+      {
+        "slug": "warehouse-access-control",
+        "title": "Warehouse access control",
+        "url": "/lessons/warehouse-access-control"
+      }
+    ]
+  },
+  "module-5": {
+    "module_id": "module-5",
+    "module_name": "Module 5: Snowflake-Specific Knowledge",
+    "lesson_count": 55,
+    "lessons": [
+      {
+        "slug": "account-organization-and-hierarchy",
+        "title": "Account, organization, and hierarchy",
+        "url": "/lessons/account-organization-and-hierarchy"
+      },
+      {
+        "slug": "auto-suspend-and-auto-resume",
+        "title": "Auto-suspend and auto-resume",
+        "url": "/lessons/auto-suspend-and-auto-resume"
+      },
+      {
+        "slug": "bulk-loading-best-practices",
+        "title": "Bulk loading best practices",
+        "url": "/lessons/bulk-loading-best-practices"
+      },
+      {
+        "slug": "cloud-services-layer",
+        "title": "Cloud services layer",
+        "url": "/lessons/cloud-services-layer"
+      },
+      {
+        "slug": "clustering-keys-and-automatic-clustering",
+        "title": "Clustering keys and automatic clustering",
+        "url": "/lessons/clustering-keys-and-automatic-clustering"
+      },
+      {
+        "slug": "copy-into-command",
+        "title": "COPY INTO command",
+        "url": "/lessons/copy-into-command"
+      },
+      {
+        "slug": "copy-into-transformations",
+        "title": "COPY INTO transformations",
+        "url": "/lessons/copy-into-transformations"
+      },
+      {
+        "slug": "data-sharing-secure-data-sharing-data-marketplace",
+        "title": "Data sharing (secure data sharing, data marketplace)",
+        "url": "/lessons/data-sharing-secure-data-sharing-data-marketplace"
+      },
+      {
+        "slug": "data-storage-layer-micro-partitions",
+        "title": "Data storage layer (micro-partitions)",
+        "url": "/lessons/data-storage-layer-micro-partitions"
+      },
+      {
+        "slug": "data-validation-during-load",
+        "title": "Data validation during load",
+        "url": "/lessons/data-validation-during-load"
+      },
+      {
+        "slug": "databases-schemas-and-tables",
+        "title": "Databases, schemas, and tables",
+        "url": "/lessons/databases-schemas-and-tables"
+      },
+      {
+        "slug": "dot-notation-and-bracket-notation-for-json",
+        "title": "Dot notation and bracket notation for JSON",
+        "url": "/lessons/dot-notation-and-bracket-notation-for-json"
+      },
+      {
+        "slug": "error-handling-and-on_error-options",
+        "title": "Error handling and ON_ERROR options",
+        "url": "/lessons/error-handling-and-on_error-options"
+      },
+      {
+        "slug": "external-functions",
+        "title": "External functions",
+        "url": "/lessons/external-functions"
+      },
+      {
+        "slug": "fail-safe-for-disaster-recovery",
+        "title": "Fail-safe for disaster recovery",
+        "url": "/lessons/fail-safe-for-disaster-recovery"
+      },
+      {
+        "slug": "file-formats-csv-json-parquet-avro-orc-xml",
+        "title": "File formats (CSV, JSON, Parquet, Avro, ORC, XML)",
+        "url": "/lessons/file-formats-csv-json-parquet-avro-orc-xml"
+      },
+      {
+        "slug": "lateral-flattening",
+        "title": "Lateral flattening",
+        "url": "/lessons/lateral-flattening"
+      },
+      {
+        "slug": "loading-from-external-stages-s3-azure-gcs",
+        "title": "Loading from external stages (S3, Azure, GCS)",
+        "url": "/lessons/loading-from-external-stages-s3-azure-gcs"
+      },
+      {
+        "slug": "loading-from-internal-stages",
+        "title": "Loading from internal stages",
+        "url": "/lessons/loading-from-internal-stages"
+      },
+      {
+        "slug": "materialized-views-for-pre-aggregation",
+        "title": "Materialized views for pre-aggregation",
+        "url": "/lessons/materialized-views-for-pre-aggregation"
+      },
+      {
+        "slug": "metadata-caching",
+        "title": "Metadata caching",
+        "url": "/lessons/metadata-caching"
+      },
+      {
+        "slug": "micro-partitions-and-pruning",
+        "title": "Micro-partitions and pruning",
+        "url": "/lessons/micro-partitions-and-pruning"
+      },
+      {
+        "slug": "multi-cluster-shared-data-architecture",
+        "title": "Multi-cluster shared data architecture",
+        "url": "/lessons/multi-cluster-shared-data-architecture"
+      },
+      {
+        "slug": "multi-cluster-warehouses",
+        "title": "Multi-cluster warehouses",
+        "url": "/lessons/multi-cluster-warehouses"
+      },
+      {
+        "slug": "object-and-array-data-types",
+        "title": "OBJECT and ARRAY data types",
+        "url": "/lessons/object-and-array-data-types"
+      },
+      {
+        "slug": "parsing-and-extracting-json-data",
+        "title": "Parsing and extracting JSON data",
+        "url": "/lessons/parsing-and-extracting-json-data"
+      },
+      {
+        "slug": "query-acceleration-service",
+        "title": "Query acceleration service",
+        "url": "/lessons/query-acceleration-service"
+      },
+      {
+        "slug": "query-processing-and-optimization-layer",
+        "title": "Query processing and optimization layer",
+        "url": "/lessons/query-processing-and-optimization-layer"
+      },
+      {
+        "slug": "query-profiling-and-optimization",
+        "title": "Query profiling and optimization",
+        "url": "/lessons/query-profiling-and-optimization"
+      },
+      {
+        "slug": "query-queuing-and-concurrency",
+        "title": "Query queuing and concurrency",
+        "url": "/lessons/query-queuing-and-concurrency"
+      },
+      {
+        "slug": "resource-monitors-for-cost-control",
+        "title": "Resource monitors for cost control",
+        "url": "/lessons/resource-monitors-for-cost-control"
+      },
+      {
+        "slug": "result-caching",
+        "title": "Result caching",
+        "url": "/lessons/result-caching"
+      },
+      {
+        "slug": "search-optimization-service",
+        "title": "Search optimization service",
+        "url": "/lessons/search-optimization-service"
+      },
+      {
+        "slug": "secure-views",
+        "title": "Secure views",
+        "url": "/lessons/secure-views"
+      },
+      {
+        "slug": "semi-structured-data-performance-considerations",
+        "title": "Semi-structured data performance considerations",
+        "url": "/lessons/semi-structured-data-performance-considerations"
+      },
+      {
+        "slug": "separation-of-storage-and-compute",
+        "title": "Separation of storage and compute",
+        "url": "/lessons/separation-of-storage-and-compute"
+      },
+      {
+        "slug": "sequences-for-surrogate-keys",
+        "title": "Sequences for surrogate keys",
+        "url": "/lessons/sequences-for-surrogate-keys"
+      },
+      {
+        "slug": "snowflake-editions-and-features",
+        "title": "Snowflake editions and features",
+        "url": "/lessons/snowflake-editions-and-features"
+      },
+      {
+        "slug": "snowpipe-for-continuous-loading",
+        "title": "Snowpipe for continuous loading",
+        "url": "/lessons/snowpipe-for-continuous-loading"
+      },
+      {
+        "slug": "stages-internal-external-named",
+        "title": "Stages (internal, external, named)",
+        "url": "/lessons/stages-internal-external-named"
+      },
+      {
+        "slug": "stored-procedures-and-udfs-user-defined-functions",
+        "title": "Stored procedures and UDFs (User-Defined Functions)",
+        "url": "/lessons/stored-procedures-and-udfs-user-defined-functions"
+      },
+      {
+        "slug": "streams-for-cdc",
+        "title": "Streams for CDC",
+        "url": "/lessons/streams-for-cdc"
+      },
+      {
+        "slug": "table-types-permanent-transient-temporary",
+        "title": "Table types (permanent, transient, temporary)",
+        "url": "/lessons/table-types-permanent-transient-temporary"
+      },
+      {
+        "slug": "tasks-for-scheduling",
+        "title": "Tasks for scheduling",
+        "url": "/lessons/tasks-for-scheduling"
+      },
+      {
+        "slug": "time-travel-querying-historical-data",
+        "title": "Time Travel (querying historical data)",
+        "url": "/lessons/time-travel-querying-historical-data"
+      },
+      {
+        "slug": "transient-vs-temporary-tables",
+        "title": "Transient vs temporary tables",
+        "url": "/lessons/transient-vs-temporary-tables"
+      },
+      {
+        "slug": "variant-data-type",
+        "title": "VARIANT data type",
+        "url": "/lessons/variant-data-type"
+      },
+      {
+        "slug": "views-and-materialized-views",
+        "title": "Views and materialized views",
+        "url": "/lessons/views-and-materialized-views"
+      },
+      {
+        "slug": "virtual-warehouses-and-compute-clusters",
+        "title": "Virtual warehouses and compute clusters",
+        "url": "/lessons/virtual-warehouses-and-compute-clusters"
+      },
+      {
+        "slug": "warehouse-modes-standard-vs-economy",
+        "title": "Warehouse modes (Standard vs Economy)",
+        "url": "/lessons/warehouse-modes-standard-vs-economy"
+      },
+      {
+        "slug": "warehouse-scaling-scale-up-vs-scale-out",
+        "title": "Warehouse scaling (scale up vs scale out)",
+        "url": "/lessons/warehouse-scaling-scale-up-vs-scale-out"
+      },
+      {
+        "slug": "warehouse-sizing-for-workloads",
+        "title": "Warehouse sizing for workloads",
+        "url": "/lessons/warehouse-sizing-for-workloads"
+      },
+      {
+        "slug": "warehouse-sizing-x-small-to-6x-large",
+        "title": "Warehouse sizing (X-Small to 6X-Large)",
+        "url": "/lessons/warehouse-sizing-x-small-to-6x-large"
+      },
+      {
+        "slug": "working-with-nested-structures",
+        "title": "Working with nested structures",
+        "url": "/lessons/working-with-nested-structures"
+      },
+      {
+        "slug": "zero-copy-cloning",
+        "title": "Zero-copy cloning",
+        "url": "/lessons/zero-copy-cloning"
+      }
+    ]
+  },
+  "module-17": {
+    "module_id": "module-17",
+    "module_name": "Module 17: Soft Skills & Professional Practices",
+    "lesson_count": 30,
+    "lessons": [
+      {
+        "slug": "active-listening-and-asking-clarifying-questions",
+        "title": "Active listening and asking clarifying questions",
+        "url": "/lessons/active-listening-and-asking-clarifying-questions"
+      },
+      {
+        "slug": "agilescrum-ceremonies-standups-retrospectives",
+        "title": "Agile/Scrum ceremonies (standups, retrospectives)",
+        "url": "/lessons/agilescrum-ceremonies-standups-retrospectives"
+      },
+      {
+        "slug": "asking-for-help-effectively",
+        "title": "Asking for help effectively",
+        "url": "/lessons/asking-for-help-effectively"
+      },
+      {
+        "slug": "balancing-technical-debt-vs-feature-delivery",
+        "title": "Balancing technical debt vs feature delivery",
+        "url": "/lessons/balancing-technical-debt-vs-feature-delivery"
+      },
+      {
+        "slug": "breaking-down-complex-problems",
+        "title": "Breaking down complex problems",
+        "url": "/lessons/breaking-down-complex-problems"
+      },
+      {
+        "slug": "building-a-professional-network",
+        "title": "Building a professional network",
+        "url": "/lessons/building-a-professional-network"
+      },
+      {
+        "slug": "career-goal-setting",
+        "title": "Career goal setting",
+        "url": "/lessons/career-goal-setting"
+      },
+      {
+        "slug": "code-review-participation-giving-and-receiving-feedback",
+        "title": "Code review participation (giving and receiving feedback)",
+        "url": "/lessons/code-review-participation-giving-and-receiving-feedback"
+      },
+      {
+        "slug": "cross-functional-collaboration-with-business-users",
+        "title": "Cross-functional collaboration with business users",
+        "url": "/lessons/cross-functional-collaboration-with-business-users"
+      },
+      {
+        "slug": "data-dictionary-creation",
+        "title": "Data dictionary creation",
+        "url": "/lessons/data-dictionary-creation"
+      },
+      {
+        "slug": "debugging-methodology",
+        "title": "Debugging methodology",
+        "url": "/lessons/debugging-methodology"
+      },
+      {
+        "slug": "effective-email-and-chat-communication",
+        "title": "Effective email and chat communication",
+        "url": "/lessons/effective-email-and-chat-communication"
+      },
+      {
+        "slug": "estimating-effort-and-timelines",
+        "title": "Estimating effort and timelines",
+        "url": "/lessons/estimating-effort-and-timelines"
+      },
+      {
+        "slug": "inline-sql-code-comments",
+        "title": "Inline SQL code comments",
+        "url": "/lessons/inline-sql-code-comments"
+      },
+      {
+        "slug": "knowledge-sharing-and-mentoring",
+        "title": "Knowledge sharing and mentoring",
+        "url": "/lessons/knowledge-sharing-and-mentoring"
+      },
+      {
+        "slug": "learning-from-mistakes",
+        "title": "Learning from mistakes",
+        "url": "/lessons/learning-from-mistakes"
+      },
+      {
+        "slug": "learning-new-technologies-independently",
+        "title": "Learning new technologies independently",
+        "url": "/lessons/learning-new-technologies-independently"
+      },
+      {
+        "slug": "managing-multiple-tasks-and-priorities",
+        "title": "Managing multiple tasks and priorities",
+        "url": "/lessons/managing-multiple-tasks-and-priorities"
+      },
+      {
+        "slug": "meeting-deadlines",
+        "title": "Meeting deadlines",
+        "url": "/lessons/meeting-deadlines"
+      },
+      {
+        "slug": "pair-programming",
+        "title": "Pair programming",
+        "url": "/lessons/pair-programming"
+      },
+      {
+        "slug": "presenting-technical-solutions",
+        "title": "Presenting technical solutions",
+        "url": "/lessons/presenting-technical-solutions"
+      },
+      {
+        "slug": "process-documentation",
+        "title": "Process documentation",
+        "url": "/lessons/process-documentation"
+      },
+      {
+        "slug": "readme-files-for-repositories",
+        "title": "README files for repositories",
+        "url": "/lessons/readme-files-for-repositories"
+      },
+      {
+        "slug": "root-cause-analysis-5-whys-technique",
+        "title": "Root cause analysis (5 Whys technique)",
+        "url": "/lessons/root-cause-analysis-5-whys-technique"
+      },
+      {
+        "slug": "runbooks-for-operational-procedures",
+        "title": "Runbooks for operational procedures",
+        "url": "/lessons/runbooks-for-operational-procedures"
+      },
+      {
+        "slug": "seeking-and-incorporating-feedback",
+        "title": "Seeking and incorporating feedback",
+        "url": "/lessons/seeking-and-incorporating-feedback"
+      },
+      {
+        "slug": "staying-current-with-industry-trends",
+        "title": "Staying current with industry trends",
+        "url": "/lessons/staying-current-with-industry-trends"
+      },
+      {
+        "slug": "technical-design-documents",
+        "title": "Technical design documents",
+        "url": "/lessons/technical-design-documents"
+      },
+      {
+        "slug": "translating-technical-concepts-for-non-technical-stakeholders",
+        "title": "Translating technical concepts for non-technical stakeholders",
+        "url": "/lessons/translating-technical-concepts-for-non-technical-stakeholders"
+      },
+      {
+        "slug": "writing-clear-documentation",
+        "title": "Writing clear documentation",
+        "url": "/lessons/writing-clear-documentation"
+      }
+    ]
+  },
+  "module-2": {
+    "module_id": "module-2",
+    "module_name": "Module 2: SQL & ELT Concepts",
+    "lesson_count": 53,
+    "lessons": [
+      {
+        "slug": "advantages-of-elt-in-cloud-data-warehouses",
+        "title": "Advantages of ELT in cloud data warehouses",
+        "url": "/lessons/advantages-of-elt-in-cloud-data-warehouses"
+      },
+      {
+        "slug": "aggregate-functions-sum-count-avg-min-max",
+        "title": "Aggregate functions (SUM, COUNT, AVG, MIN, MAX)",
+        "url": "/lessons/aggregate-functions-sum-count-avg-min-max"
+      },
+      {
+        "slug": "any-and-all-operators",
+        "title": "ANY and ALL operators",
+        "url": "/lessons/any-and-all-operators"
+      },
+      {
+        "slug": "array-functions-array_agg-flatten",
+        "title": "Array functions (ARRAY_AGG, FLATTEN)",
+        "url": "/lessons/array-functions-array_agg-flatten"
+      },
+      {
+        "slug": "avoiding-select",
+        "title": "Avoiding SELECT *",
+        "url": "/lessons/avoiding-select"
+      },
+      {
+        "slug": "case-statements-for-conditional-logic",
+        "title": "CASE statements for conditional logic",
+        "url": "/lessons/case-statements-for-conditional-logic"
+      },
+      {
+        "slug": "change-data-capture-cdc-fundamentals",
+        "title": "Change Data Capture (CDC) fundamentals",
+        "url": "/lessons/change-data-capture-cdc-fundamentals"
+      },
+      {
+        "slug": "common-table-expressions-ctes",
+        "title": "Common Table Expressions (CTEs)",
+        "url": "/lessons/common-table-expressions-ctes"
+      },
+      {
+        "slug": "cross-join",
+        "title": "CROSS JOIN",
+        "url": "/lessons/cross-join"
+      },
+      {
+        "slug": "cumulative-aggregations",
+        "title": "Cumulative aggregations",
+        "url": "/lessons/cumulative-aggregations"
+      },
+      {
+        "slug": "datetime-functions-dateadd-datediff-date_trunc-extract",
+        "title": "Date/time functions (DATEADD, DATEDIFF, DATE_TRUNC, EXTRACT)",
+        "url": "/lessons/datetime-functions-dateadd-datediff-date_trunc-extract"
+      },
+      {
+        "slug": "derived-tables-and-inline-views",
+        "title": "Derived tables and inline views",
+        "url": "/lessons/derived-tables-and-inline-views"
+      },
+      {
+        "slug": "distinct-for-unique-values",
+        "title": "DISTINCT for unique values",
+        "url": "/lessons/distinct-for-unique-values"
+      },
+      {
+        "slug": "etl-vs-elt-paradigm-differences",
+        "title": "ETL vs ELT paradigm differences",
+        "url": "/lessons/etl-vs-elt-paradigm-differences"
+      },
+      {
+        "slug": "exists-and-not-exists",
+        "title": "EXISTS and NOT EXISTS",
+        "url": "/lessons/exists-and-not-exists"
+      },
+      {
+        "slug": "extract-load-transform-sequence-in-elt",
+        "title": "Extract, Load, Transform sequence in ELT",
+        "url": "/lessons/extract-load-transform-sequence-in-elt"
+      },
+      {
+        "slug": "filter-selectivity-and-predicate-pushdown",
+        "title": "Filter selectivity and predicate pushdown",
+        "url": "/lessons/filter-selectivity-and-predicate-pushdown"
+      },
+      {
+        "slug": "first_value-and-last_value",
+        "title": "FIRST_VALUE and LAST_VALUE",
+        "url": "/lessons/first_value-and-last_value"
+      },
+      {
+        "slug": "full-outer-join",
+        "title": "FULL (OUTER) JOIN",
+        "url": "/lessons/full-outer-join"
+      },
+      {
+        "slug": "full-refresh-vs-incremental-load-strategies",
+        "title": "Full refresh vs incremental load strategies",
+        "url": "/lessons/full-refresh-vs-incremental-load-strategies"
+      },
+      {
+        "slug": "group-by-and-having-clauses",
+        "title": "GROUP BY and HAVING clauses",
+        "url": "/lessons/group-by-and-having-clauses"
+      },
+      {
+        "slug": "idempotency-in-data-pipelines",
+        "title": "Idempotency in data pipelines",
+        "url": "/lessons/idempotency-in-data-pipelines"
+      },
+      {
+        "slug": "in-and-not-in-operators",
+        "title": "IN and NOT IN operators",
+        "url": "/lessons/in-and-not-in-operators"
+      },
+      {
+        "slug": "inner-join",
+        "title": "INNER JOIN",
+        "url": "/lessons/inner-join"
+      },
+      {
+        "slug": "join-conditions-and-performance-implications",
+        "title": "Join conditions and performance implications",
+        "url": "/lessons/join-conditions-and-performance-implications"
+      },
+      {
+        "slug": "json-parsing-and-extraction-parse_json-json_extract_path_text",
+        "title": "JSON parsing and extraction (PARSE_JSON, JSON_EXTRACT_PATH_TEXT)",
+        "url": "/lessons/json-parsing-and-extraction-parse_json-json_extract_path_text"
+      },
+      {
+        "slug": "lag-and-lead-functions",
+        "title": "LAG and LEAD functions",
+        "url": "/lessons/lag-and-lead-functions"
+      },
+      {
+        "slug": "left-outer-join",
+        "title": "LEFT (OUTER) JOIN",
+        "url": "/lessons/left-outer-join"
+      },
+      {
+        "slug": "median-function",
+        "title": "MEDIAN function",
+        "url": "/lessons/median-function"
+      },
+      {
+        "slug": "multiple-table-joins",
+        "title": "Multiple table joins",
+        "url": "/lessons/multiple-table-joins"
+      },
+      {
+        "slug": "null-handling-is-null-coalesce-nullif-nvl-ifnull",
+        "title": "NULL handling (IS NULL, COALESCE, NULLIF, NVL, IFNULL)",
+        "url": "/lessons/null-handling-is-null-coalesce-nullif-nvl-ifnull"
+      },
+      {
+        "slug": "order-by-within-window-functions",
+        "title": "ORDER BY within window functions",
+        "url": "/lessons/order-by-within-window-functions"
+      },
+      {
+        "slug": "partition-by-clause",
+        "title": "PARTITION BY clause",
+        "url": "/lessons/partition-by-clause"
+      },
+      {
+        "slug": "percentile_cont-and-percentile_disc",
+        "title": "PERCENTILE_CONT and PERCENTILE_DISC",
+        "url": "/lessons/percentile_cont-and-percentile_disc"
+      },
+      {
+        "slug": "query-optimization-fundamentals",
+        "title": "Query optimization fundamentals",
+        "url": "/lessons/query-optimization-fundamentals"
+      },
+      {
+        "slug": "reading-execution-plans",
+        "title": "Reading execution plans",
+        "url": "/lessons/reading-execution-plans"
+      },
+      {
+        "slug": "recursive-ctes",
+        "title": "Recursive CTEs",
+        "url": "/lessons/recursive-ctes"
+      },
+      {
+        "slug": "regular-expressions-in-sql",
+        "title": "Regular expressions in SQL",
+        "url": "/lessons/regular-expressions-in-sql"
+      },
+      {
+        "slug": "right-outer-join",
+        "title": "RIGHT (OUTER) JOIN",
+        "url": "/lessons/right-outer-join"
+      },
+      {
+        "slug": "row_number-rank-dense_rank-ntile",
+        "title": "ROW_NUMBER, RANK, DENSE_RANK, NTILE",
+        "url": "/lessons/row_number-rank-dense_rank-ntile"
+      },
+      {
+        "slug": "running-totals-and-moving-averages",
+        "title": "Running totals and moving averages",
+        "url": "/lessons/running-totals-and-moving-averages"
+      },
+      {
+        "slug": "select-statements-and-filtering-where-clause",
+        "title": "SELECT statements and filtering (WHERE clause)",
+        "url": "/lessons/select-statements-and-filtering-where-clause"
+      },
+      {
+        "slug": "self-joins",
+        "title": "Self-joins",
+        "url": "/lessons/self-joins"
+      },
+      {
+        "slug": "set-operations-union-union-all-intersect-except",
+        "title": "Set operations (UNION, UNION ALL, INTERSECT, EXCEPT)",
+        "url": "/lessons/set-operations-union-union-all-intersect-except"
+      },
+      {
+        "slug": "sorting-and-limiting-results-order-by-limit",
+        "title": "Sorting and limiting results (ORDER BY, LIMIT)",
+        "url": "/lessons/sorting-and-limiting-results-order-by-limit"
+      },
+      {
+        "slug": "staging-layer-concepts",
+        "title": "Staging layer concepts",
+        "url": "/lessons/staging-layer-concepts"
+      },
+      {
+        "slug": "statistical-functions-stddev-variance-corr",
+        "title": "Statistical functions (STDDEV, VARIANCE, CORR)",
+        "url": "/lessons/statistical-functions-stddev-variance-corr"
+      },
+      {
+        "slug": "string-functions-concat-substring-trim-split-regexp",
+        "title": "String functions (CONCAT, SUBSTRING, TRIM, SPLIT, REGEXP)",
+        "url": "/lessons/string-functions-concat-substring-trim-split-regexp"
+      },
+      {
+        "slug": "subqueries-correlated-and-non-correlated",
+        "title": "Subqueries (correlated and non-correlated)",
+        "url": "/lessons/subqueries-correlated-and-non-correlated"
+      },
+      {
+        "slug": "transformation-layer-design",
+        "title": "Transformation layer design",
+        "url": "/lessons/transformation-layer-design"
+      },
+      {
+        "slug": "understanding-data-scanning-metrics",
+        "title": "Understanding data scanning metrics",
+        "url": "/lessons/understanding-data-scanning-metrics"
+      },
+      {
+        "slug": "understanding-query-cost-metrics",
+        "title": "Understanding query cost metrics",
+        "url": "/lessons/understanding-query-cost-metrics"
+      },
+      {
+        "slug": "window-frames-rows-between-range-between",
+        "title": "Window frames (ROWS BETWEEN, RANGE BETWEEN)",
+        "url": "/lessons/window-frames-rows-between-range-between"
+      }
+    ]
+  },
+  "module-10": {
+    "module_id": "module-10",
+    "module_name": "Module 10: Unix/Linux & File Handling",
+    "lesson_count": 25,
+    "lessons": [
+      {
+        "slug": "bash-scripting-basics",
+        "title": "Bash scripting basics",
+        "url": "/lessons/bash-scripting-basics"
+      },
+      {
+        "slug": "conditionals-if-else",
+        "title": "Conditionals (if-else)",
+        "url": "/lessons/conditionals-if-else"
+      },
+      {
+        "slug": "csv-file-handling",
+        "title": "CSV file handling",
+        "url": "/lessons/csv-file-handling"
+      },
+      {
+        "slug": "debugging-shell-scripts",
+        "title": "Debugging shell scripts",
+        "url": "/lessons/debugging-shell-scripts"
+      },
+      {
+        "slug": "environment-variables-and-path",
+        "title": "Environment variables and PATH",
+        "url": "/lessons/environment-variables-and-path"
+      },
+      {
+        "slug": "exit-codes-and-error-handling",
+        "title": "Exit codes and error handling",
+        "url": "/lessons/exit-codes-and-error-handling"
+      },
+      {
+        "slug": "file-compression-gzip-tar",
+        "title": "File compression (gzip, tar)",
+        "url": "/lessons/file-compression-gzip-tar"
+      },
+      {
+        "slug": "file-operations-cp-mv-rm-mkdir-rmdir",
+        "title": "File operations (cp, mv, rm, mkdir, rmdir)",
+        "url": "/lessons/file-operations-cp-mv-rm-mkdir-rmdir"
+      },
+      {
+        "slug": "file-permissions-chmod-chown",
+        "title": "File permissions (chmod, chown)",
+        "url": "/lessons/file-permissions-chmod-chown"
+      },
+      {
+        "slug": "file-searching-find-grep",
+        "title": "File searching (find, grep)",
+        "url": "/lessons/file-searching-find-grep"
+      },
+      {
+        "slug": "file-system-navigation-cd-ls-pwd",
+        "title": "File system navigation (cd, ls, pwd)",
+        "url": "/lessons/file-system-navigation-cd-ls-pwd"
+      },
+      {
+        "slug": "file-transfer-scp-sftp",
+        "title": "File transfer (scp, sftp)",
+        "url": "/lessons/file-transfer-scp-sftp"
+      },
+      {
+        "slug": "file-watching-and-monitoring",
+        "title": "File watching and monitoring",
+        "url": "/lessons/file-watching-and-monitoring"
+      },
+      {
+        "slug": "functions-in-shell-scripts",
+        "title": "Functions in shell scripts",
+        "url": "/lessons/functions-in-shell-scripts"
+      },
+      {
+        "slug": "grep-patterns-for-log-analysis",
+        "title": "Grep patterns for log analysis",
+        "url": "/lessons/grep-patterns-for-log-analysis"
+      },
+      {
+        "slug": "large-file-processing-techniques",
+        "title": "Large file processing techniques",
+        "url": "/lessons/large-file-processing-techniques"
+      },
+      {
+        "slug": "log-rotation-concepts",
+        "title": "Log rotation concepts",
+        "url": "/lessons/log-rotation-concepts"
+      },
+      {
+        "slug": "loops-for-while",
+        "title": "Loops (for, while)",
+        "url": "/lessons/loops-for-while"
+      },
+      {
+        "slug": "reading-and-analyzing-log-files",
+        "title": "Reading and analyzing log files",
+        "url": "/lessons/reading-and-analyzing-log-files"
+      },
+      {
+        "slug": "script-scheduling-and-automation",
+        "title": "Script scheduling and automation",
+        "url": "/lessons/script-scheduling-and-automation"
+      },
+      {
+        "slug": "system-resource-monitoring-top-df-du",
+        "title": "System resource monitoring (top, df, du)",
+        "url": "/lessons/system-resource-monitoring-top-df-du"
+      },
+      {
+        "slug": "text-editing-vivim-basics-or-nano",
+        "title": "Text editing (vi/vim basics or nano)",
+        "url": "/lessons/text-editing-vivim-basics-or-nano"
+      },
+      {
+        "slug": "text-processing-awk-sed",
+        "title": "Text processing (awk, sed)",
+        "url": "/lessons/text-processing-awk-sed"
+      },
+      {
+        "slug": "variables-and-parameter-passing",
+        "title": "Variables and parameter passing",
+        "url": "/lessons/variables-and-parameter-passing"
+      },
+      {
+        "slug": "viewing-file-contents-cat-less-more-head-tail",
+        "title": "Viewing file contents (cat, less, more, head, tail)",
+        "url": "/lessons/viewing-file-contents-cat-less-more-head-tail"
+      }
+    ]
+  },
+  "module-11": {
+    "module_id": "module-11",
+    "module_name": "Module 11: Version Control & Team Collaboration",
+    "lesson_count": 22,
+    "lessons": [
+      {
+        "slug": "atomic-commits",
+        "title": "Atomic commits",
+        "url": "/lessons/atomic-commits"
+      },
+      {
+        "slug": "avoiding-sensitive-data-in-repositories",
+        "title": "Avoiding sensitive data in repositories",
+        "url": "/lessons/avoiding-sensitive-data-in-repositories"
+      },
+      {
+        "slug": "basic-workflow-git-add-git-commit-git-push-git-pull",
+        "title": "Basic workflow (git add, git commit, git push, git pull)",
+        "url": "/lessons/basic-workflow-git-add-git-commit-git-push-git-pull"
+      },
+      {
+        "slug": "branch-naming-conventions",
+        "title": "Branch naming conventions",
+        "url": "/lessons/branch-naming-conventions"
+      },
+      {
+        "slug": "checking-status-and-history-git-status-git-log-git-diff",
+        "title": "Checking status and history (git status, git log, git diff)",
+        "url": "/lessons/checking-status-and-history-git-status-git-log-git-diff"
+      },
+      {
+        "slug": "code-review-process-and-etiquette",
+        "title": "Code review process and etiquette",
+        "url": "/lessons/code-review-process-and-etiquette"
+      },
+      {
+        "slug": "commit-message-conventions",
+        "title": "Commit message conventions",
+        "url": "/lessons/commit-message-conventions"
+      },
+      {
+        "slug": "creating-and-switching-branches-git-branch-git-checkout-git-switch",
+        "title": "Creating and switching branches (git branch, git checkout, git switch)",
+        "url": "/lessons/creating-and-switching-branches-git-branch-git-checkout-git-switch"
+      },
+      {
+        "slug": "feature-branch-workflow",
+        "title": "Feature branch workflow",
+        "url": "/lessons/feature-branch-workflow"
+      },
+      {
+        "slug": "fetching-vs-pulling-git-fetch-git-pull",
+        "title": "Fetching vs pulling (git fetch, git pull)",
+        "url": "/lessons/fetching-vs-pulling-git-fetch-git-pull"
+      },
+      {
+        "slug": "forking-and-contributing",
+        "title": "Forking and contributing",
+        "url": "/lessons/forking-and-contributing"
+      },
+      {
+        "slug": "git-initialization-and-cloning-git-init-git-clone",
+        "title": "Git initialization and cloning (git init, git clone)",
+        "url": "/lessons/git-initialization-and-cloning-git-init-git-clone"
+      },
+      {
+        "slug": "gitignore-patterns",
+        "title": ".gitignore patterns",
+        "url": "/lessons/gitignore-patterns"
+      },
+      {
+        "slug": "merging-branches-git-merge",
+        "title": "Merging branches (git merge)",
+        "url": "/lessons/merging-branches-git-merge"
+      },
+      {
+        "slug": "pull-requests-merge-requests",
+        "title": "Pull requests / merge requests",
+        "url": "/lessons/pull-requests-merge-requests"
+      },
+      {
+        "slug": "rebasing-git-rebase",
+        "title": "Rebasing (git rebase)",
+        "url": "/lessons/rebasing-git-rebase"
+      },
+      {
+        "slug": "remote-repository-management-git-remote",
+        "title": "Remote repository management (git remote)",
+        "url": "/lessons/remote-repository-management-git-remote"
+      },
+      {
+        "slug": "repository-concepts-local-vs-remote",
+        "title": "Repository concepts (local vs remote)",
+        "url": "/lessons/repository-concepts-local-vs-remote"
+      },
+      {
+        "slug": "resolving-merge-conflicts",
+        "title": "Resolving merge conflicts",
+        "url": "/lessons/resolving-merge-conflicts"
+      },
+      {
+        "slug": "stashing-changes-git-stash",
+        "title": "Stashing changes (git stash)",
+        "url": "/lessons/stashing-changes-git-stash"
+      },
+      {
+        "slug": "using-branches-for-environment-separation-dev-staging-prod",
+        "title": "Using branches for environment separation (dev, staging, prod)",
+        "url": "/lessons/using-branches-for-environment-separation-dev-staging-prod"
+      },
+      {
+        "slug": "when-to-commit-and-push",
+        "title": "When to commit and push",
+        "url": "/lessons/when-to-commit-and-push"
+      }
+    ]
+  }
+}
