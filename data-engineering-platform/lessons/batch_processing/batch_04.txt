@@ -1,0 +1,27 @@
+SQL & ELT Concepts|Understanding query cost metrics|I|SQL-ELT-Concepts--understanding-query-cost-metrics--2024-10-30.md
+SQL & ELT Concepts|Understanding data scanning metrics|I|SQL-ELT-Concepts--understanding-data-scanning-metrics--2024-10-30.md
+SQL & ELT Concepts|Advantages of ELT in cloud data warehouses|I|SQL-ELT-Concepts--advantages-of-elt-in-cloud-data-warehouses--2024-10-30.md
+SQL & ELT Concepts|Staging layer concepts|I|SQL-ELT-Concepts--staging-layer-concepts--2024-10-30.md
+SQL & ELT Concepts|Full refresh vs incremental load strategies|I|SQL-ELT-Concepts--full-refresh-vs-incremental-load-strategies--2024-10-30.md
+Data Warehousing Principles|Data warehouse vs data lake vs lakehouse|I|Data-Warehousing-Principles--data-warehouse-vs-data-lake-vs-lakehouse--2024-10-30.md
+Data Warehousing Principles|Multi-tier architecture (staging, integration, presentation)|I|Data-Warehousing-Principles--multi-tier-architecture-staging-integration-presentation--2024-10-30.md
+Data Warehousing Principles|Dimensional vs normalized approaches|I|Data-Warehousing-Principles--dimensional-vs-normalized-approaches--2024-10-30.md
+Data Warehousing Principles|Incremental load (append-only)|I|Data-Warehousing-Principles--incremental-load-append-only--2024-10-30.md
+Data Warehousing Principles|Batch processing vs streaming|I|Data-Warehousing-Principles--batch-processing-vs-streaming--2024-10-30.md
+Data Warehousing Principles|Data quality dimensions (accuracy, completeness, consistency, timeliness, validity, uniqueness)|I|Data-Warehousing-Principles--data-quality-dimensions-accuracy-completeness-consistency-timeliness-validity-uniqueness--2024-10-30.md
+Data Warehousing Principles|Data profiling techniques|I|Data-Warehousing-Principles--data-profiling-techniques--2024-10-30.md
+Data Warehousing Principles|Data validation rules|I|Data-Warehousing-Principles--data-validation-rules--2024-10-30.md
+Data Warehousing Principles|Reconciliation methods (row count, sum checks)|I|Data-Warehousing-Principles--reconciliation-methods-row-count-sum-checks--2024-10-30.md
+Data Modeling|Star schema design|I|Data-Modeling--star-schema-design--2024-10-30.md
+Data Modeling|Snowflake schema design (vs star schema)|I|Data-Modeling--snowflake-schema-design-vs-star-schema--2024-10-30.md
+Data Modeling|Fact tables and measures|I|Data-Modeling--fact-tables-and-measures--2024-10-30.md
+Data Modeling|Dimension tables and attributes|I|Data-Modeling--dimension-tables-and-attributes--2024-10-30.md
+Data Modeling|Additive, semi-additive, and non-additive measures|I|Data-Modeling--additive-semi-additive-and-non-additive-measures--2024-10-30.md
+Data Modeling|SCD Type 0 (retain original)|I|Data-Modeling--scd-type-0-retain-original--2024-10-30.md
+Data Modeling|SCD Type 1 (overwrite)|I|Data-Modeling--scd-type-1-overwrite--2024-10-30.md
+Data Modeling|SCD Type 3 (add new column)|I|Data-Modeling--scd-type-3-add-new-column--2024-10-30.md
+Data Modeling|Effective date management (valid_from, valid_to)|I|Data-Modeling--effective-date-management-valid_from-valid_to--2024-10-30.md
+Data Modeling|Current record indicators|I|Data-Modeling--current-record-indicators--2024-10-30.md
+Data Modeling|Transaction fact tables|I|Data-Modeling--transaction-fact-tables--2024-10-30.md
+Data Modeling|Forward and reverse engineering from ERDs|I|Data-Modeling--forward-and-reverse-engineering-from-erds--2024-10-30.md
+Snowflake-Specific Knowledge|Separation of storage and compute|I|Snowflake-Specific-Knowledge--separation-of-storage-and-compute--2024-10-30.md

@@ -1,0 +1,27 @@
+Performance Optimization & Troubleshooting|Root cause analysis for data issues|I-A|Performance-Optimization-Troubleshooting--root-cause-analysis-for-data-issues--2024-10-30.md
+Performance Optimization & Troubleshooting|Snowflake query profiler interpretation|I-A|Performance-Optimization-Troubleshooting--snowflake-query-profiler-interpretation--2024-10-30.md
+Performance Optimization & Troubleshooting|Warehouse sizing and auto-suspend tuning|I-A|Performance-Optimization-Troubleshooting--warehouse-sizing-and-auto-suspend-tuning--2024-10-30.md
+Performance Optimization & Troubleshooting|Storage cost management|I-A|Performance-Optimization-Troubleshooting--storage-cost-management--2024-10-30.md
+Performance Optimization & Troubleshooting|Query cost monitoring|I-A|Performance-Optimization-Troubleshooting--query-cost-monitoring--2024-10-30.md
+Performance Optimization & Troubleshooting|Time Travel retention policies|I-A|Performance-Optimization-Troubleshooting--time-travel-retention-policies--2024-10-30.md
+CI/CD & Deployment Practices|Schema separation strategies|I-A|CICD-Deployment-Practices--schema-separation-strategies--2024-10-30.md
+CI/CD & Deployment Practices|Database migration tools (Flyway, Liquibase awareness)|I-A|CICD-Deployment-Practices--database-migration-tools-flyway-liquibase-awareness--2024-10-30.md
+CI/CD & Deployment Practices|Automated deployment pipelines|I-A|CICD-Deployment-Practices--automated-deployment-pipelines--2024-10-30.md
+CI/CD & Deployment Practices|Rollback strategies|I-A|CICD-Deployment-Practices--rollback-strategies--2024-10-30.md
+CI/CD & Deployment Practices|Schema change management|I-A|CICD-Deployment-Practices--schema-change-management--2024-10-30.md
+CI/CD & Deployment Practices|Automated SQL testing|I-A|CICD-Deployment-Practices--automated-sql-testing--2024-10-30.md
+CI/CD & Deployment Practices|Integration testing in pipelines|I-A|CICD-Deployment-Practices--integration-testing-in-pipelines--2024-10-30.md
+CI/CD & Deployment Practices|Test data management|I-A|CICD-Deployment-Practices--test-data-management--2024-10-30.md
+Monitoring & Observability|Data volume anomaly detection|I-A|Monitoring-Observability--data-volume-anomaly-detection--2024-10-30.md
+Monitoring & Observability|Trend analysis for quality metrics|I-A|Monitoring-Observability--trend-analysis-for-quality-metrics--2024-10-30.md
+Orchestration & Scheduling Tools|DAG (Directed Acyclic Graph) design|I-A|Orchestration-Scheduling-Tools--dag-directed-acyclic-graph-design--2024-10-30.md
+Orchestration & Scheduling Tools|Error handling and retry mechanisms|I-A|Orchestration-Scheduling-Tools--error-handling-and-retry-mechanisms--2024-10-30.md
+Orchestration & Scheduling Tools|SLA monitoring and alerting|I-A|Orchestration-Scheduling-Tools--sla-monitoring-and-alerting--2024-10-30.md
+Orchestration & Scheduling Tools|Apache Airflow (DAGs, operators, sensors)|I-A|Orchestration-Scheduling-Tools--apache-airflow-dags-operators-sensors--2024-10-30.md
+Orchestration & Scheduling Tools|Snowflake Tasks and Streams|I-A|Orchestration-Scheduling-Tools--snowflake-tasks-and-streams--2024-10-30.md
+Orchestration & Scheduling Tools|AWS Step Functions / Azure Data Factory|I-A|Orchestration-Scheduling-Tools--aws-step-functions-azure-data-factory--2024-10-30.md
+Orchestration & Scheduling Tools|Backfilling historical data|I-A|Orchestration-Scheduling-Tools--backfilling-historical-data--2024-10-30.md
+Data Transformation with dbt (Optional but Recommended)|Jinja templating in SQL|I-A|Data-Transformation-with-dbt-Optional-but-Recommended--jinja-templating-in-sql--2024-10-30.md
+Data Transformation with dbt (Optional but Recommended)|Incremental models|I-A|Data-Transformation-with-dbt-Optional-but-Recommended--incremental-models--2024-10-30.md
+Data Transformation with dbt (Optional but Recommended)|Snapshots for SCD Type 2|I-A|Data-Transformation-with-dbt-Optional-but-Recommended--snapshots-for-scd-type-2--2024-10-30.md
+Data Transformation with dbt (Optional but Recommended)|Macros for reusable logic|I-A|Data-Transformation-with-dbt-Optional-but-Recommended--macros-for-reusable-logic--2024-10-30.md

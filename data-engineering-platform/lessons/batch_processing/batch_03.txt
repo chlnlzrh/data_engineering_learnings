@@ -1,0 +1,27 @@
+Additional Technical Skills|Basic Python syntax|F-I|Additional-Technical-Skills--basic-python-syntax--2024-10-30.md
+Additional Technical Skills|Data structures (lists, dictionaries, sets)|F-I|Additional-Technical-Skills--data-structures-lists-dictionaries-sets--2024-10-30.md
+Data & Database Fundamentals|Surrogate keys vs natural keys|I|Data-Database-Fundamentals--surrogate-keys-vs-natural-keys--2024-10-30.md
+Data & Database Fundamentals|Row-oriented vs column-oriented storage|I|Data-Database-Fundamentals--row-oriented-vs-column-oriented-storage--2024-10-30.md
+Data & Database Fundamentals|Semi-structured data types (JSON, ARRAY, VARIANT)|I|Data-Database-Fundamentals--semi-structured-data-types-json-array-variant--2024-10-30.md
+Data & Database Fundamentals|Index types and purposes (B-tree, bitmap)|I|Data-Database-Fundamentals--index-types-and-purposes-b-tree-bitmap--2024-10-30.md
+Data & Database Fundamentals|Clustered vs non-clustered indexes|I|Data-Database-Fundamentals--clustered-vs-non-clustered-indexes--2024-10-30.md
+Data & Database Fundamentals|Views vs materialized views|I|Data-Database-Fundamentals--views-vs-materialized-views--2024-10-30.md
+Data & Database Fundamentals|Temporary tables vs transient tables|I|Data-Database-Fundamentals--temporary-tables-vs-transient-tables--2024-10-30.md
+Data & Database Fundamentals|Stored procedures and functions (awareness level)|I|Data-Database-Fundamentals--stored-procedures-and-functions-awareness-level--2024-10-30.md
+SQL & ELT Concepts|CROSS JOIN|I|SQL-ELT-Concepts--cross-join--2024-10-30.md
+SQL & ELT Concepts|Self-joins|I|SQL-ELT-Concepts--self-joins--2024-10-30.md
+SQL & ELT Concepts|Multiple table joins|I|SQL-ELT-Concepts--multiple-table-joins--2024-10-30.md
+SQL & ELT Concepts|Subqueries (correlated and non-correlated)|I|SQL-ELT-Concepts--subqueries-correlated-and-non-correlated--2024-10-30.md
+SQL & ELT Concepts|Common Table Expressions (CTEs)|I|SQL-ELT-Concepts--common-table-expressions-ctes--2024-10-30.md
+SQL & ELT Concepts|Derived tables and inline views|I|SQL-ELT-Concepts--derived-tables-and-inline-views--2024-10-30.md
+SQL & ELT Concepts|EXISTS and NOT EXISTS|I|SQL-ELT-Concepts--exists-and-not-exists--2024-10-30.md
+SQL & ELT Concepts|ANY and ALL operators|I|SQL-ELT-Concepts--any-and-all-operators--2024-10-30.md
+SQL & ELT Concepts|ROW_NUMBER, RANK, DENSE_RANK, NTILE|I|SQL-ELT-Concepts--row_number-rank-dense_rank-ntile--2024-10-30.md
+SQL & ELT Concepts|LAG and LEAD functions|I|SQL-ELT-Concepts--lag-and-lead-functions--2024-10-30.md
+SQL & ELT Concepts|FIRST_VALUE and LAST_VALUE|I|SQL-ELT-Concepts--first_value-and-last_value--2024-10-30.md
+SQL & ELT Concepts|PARTITION BY clause|I|SQL-ELT-Concepts--partition-by-clause--2024-10-30.md
+SQL & ELT Concepts|ORDER BY within window functions|I|SQL-ELT-Concepts--order-by-within-window-functions--2024-10-30.md
+SQL & ELT Concepts|Running totals and moving averages|I|SQL-ELT-Concepts--running-totals-and-moving-averages--2024-10-30.md
+SQL & ELT Concepts|Cumulative aggregations|I|SQL-ELT-Concepts--cumulative-aggregations--2024-10-30.md
+SQL & ELT Concepts|MEDIAN function|I|SQL-ELT-Concepts--median-function--2024-10-30.md
+SQL & ELT Concepts|Date/time functions (DATEADD, DATEDIFF, DATE_TRUNC, EXTRACT)|I|SQL-ELT-Concepts--datetime-functions-dateadd-datediff-date_trunc-extract--2024-10-30.md

@@ -8,19 +8,20 @@ import { join } from 'path'
  */
 export async function GET(
   request: Request,
-  { params }: { params: { moduleId: string } }
+  { params }: { params: Promise<{ moduleId: string }> }
 ) {
   try {
-    const moduleId = decodeURIComponent(params.moduleId)
+    const { moduleId } = await params
+    const decodedModuleId = decodeURIComponent(moduleId)
     
     // Lessons directory is at root level: ../../lessons from src/app/api
     const lessonsDir = join(process.cwd(), '..', '..', 'lessons')
     
-    const lessons = await getLessonsByModule(moduleId, lessonsDir)
+    const lessons = await getLessonsByModule(decodedModuleId, lessonsDir)
     
     return NextResponse.json({
       success: true,
-      moduleId,
+      moduleId: decodedModuleId,
       count: lessons.length,
       lessons,
     })

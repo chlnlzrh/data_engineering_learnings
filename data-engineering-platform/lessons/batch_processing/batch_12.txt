@@ -1,0 +1,27 @@
+Soft Skills & Professional Practices|Agile/Scrum ceremonies (standups, retrospectives)|I|Soft-Skills-Professional-Practices--agilescrum-ceremonies-standups-retrospectives--2024-10-30.md
+Soft Skills & Professional Practices|Breaking down complex problems|I|Soft-Skills-Professional-Practices--breaking-down-complex-problems--2024-10-30.md
+Soft Skills & Professional Practices|Root cause analysis (5 Whys technique)|I|Soft-Skills-Professional-Practices--root-cause-analysis-5-whys-technique--2024-10-30.md
+Soft Skills & Professional Practices|Debugging methodology|I|Soft-Skills-Professional-Practices--debugging-methodology--2024-10-30.md
+Soft Skills & Professional Practices|Asking for help effectively|I|Soft-Skills-Professional-Practices--asking-for-help-effectively--2024-10-30.md
+Soft Skills & Professional Practices|Learning from mistakes|I|Soft-Skills-Professional-Practices--learning-from-mistakes--2024-10-30.md
+Soft Skills & Professional Practices|Managing multiple tasks and priorities|I|Soft-Skills-Professional-Practices--managing-multiple-tasks-and-priorities--2024-10-30.md
+Soft Skills & Professional Practices|Meeting deadlines|I|Soft-Skills-Professional-Practices--meeting-deadlines--2024-10-30.md
+Soft Skills & Professional Practices|Staying current with industry trends|I|Soft-Skills-Professional-Practices--staying-current-with-industry-trends--2024-10-30.md
+Soft Skills & Professional Practices|Learning new technologies independently|I|Soft-Skills-Professional-Practices--learning-new-technologies-independently--2024-10-30.md
+Soft Skills & Professional Practices|Building a professional network|I|Soft-Skills-Professional-Practices--building-a-professional-network--2024-10-30.md
+Soft Skills & Professional Practices|Seeking and incorporating feedback|I|Soft-Skills-Professional-Practices--seeking-and-incorporating-feedback--2024-10-30.md
+Soft Skills & Professional Practices|Career goal setting|I|Soft-Skills-Professional-Practices--career-goal-setting--2024-10-30.md
+Business & Domain Knowledge|Customer metrics (CAC, LTV, churn, retention)|I|Business-Domain-Knowledge--customer-metrics-cac-ltv-churn-retention--2024-10-30.md
+Business & Domain Knowledge|Growth metrics (MoM, YoY, CAGR)|I|Business-Domain-Knowledge--growth-metrics-mom-yoy-cagr--2024-10-30.md
+Business & Domain Knowledge|Operational metrics (efficiency, productivity)|I|Business-Domain-Knowledge--operational-metrics-efficiency-productivity--2024-10-30.md
+Business & Domain Knowledge|Business requirements gathering|I|Business-Domain-Knowledge--business-requirements-gathering--2024-10-30.md
+Business & Domain Knowledge|Translating business questions to SQL|I|Business-Domain-Knowledge--translating-business-questions-to-sql--2024-10-30.md
+Business & Domain Knowledge|Understanding data consumers and use cases|I|Business-Domain-Knowledge--understanding-data-consumers-and-use-cases--2024-10-30.md
+Business & Domain Knowledge|Identifying key stakeholders|I|Business-Domain-Knowledge--identifying-key-stakeholders--2024-10-30.md
+Business & Domain Knowledge|Business process understanding|I|Business-Domain-Knowledge--business-process-understanding--2024-10-30.md
+Business & Domain Knowledge|Domain-specific terminology|I|Business-Domain-Knowledge--domain-specific-terminology--2024-10-30.md
+Business & Domain Knowledge|Industry-standard KPIs|I|Business-Domain-Knowledge--industry-standard-kpis--2024-10-30.md
+Business & Domain Knowledge|Reporting calendars (fiscal vs calendar year)|I|Business-Domain-Knowledge--reporting-calendars-fiscal-vs-calendar-year--2024-10-30.md
+Additional Technical Skills|Parsing JSON in SQL|I|Additional-Technical-Skills--parsing-json-in-sql--2024-10-30.md
+Additional Technical Skills|JSON and JSONL (newline-delimited JSON)|I|Additional-Technical-Skills--json-and-jsonl-newline-delimited-json--2024-10-30.md
+Additional Technical Skills|Parquet columnar format|I|Additional-Technical-Skills--parquet-columnar-format--2024-10-30.md

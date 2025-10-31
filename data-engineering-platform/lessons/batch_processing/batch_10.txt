@@ -1,0 +1,27 @@
+Performance Optimization & Troubleshooting|Testing with sample data|I|Performance-Optimization-Troubleshooting--testing-with-sample-data--2024-10-30.md
+Performance Optimization & Troubleshooting|Data reconciliation methods|I|Performance-Optimization-Troubleshooting--data-reconciliation-methods--2024-10-30.md
+Performance Optimization & Troubleshooting|Credit consumption tracking|I|Performance-Optimization-Troubleshooting--credit-consumption-tracking--2024-10-30.md
+Performance Optimization & Troubleshooting|Resource monitors and alerts|I|Performance-Optimization-Troubleshooting--resource-monitors-and-alerts--2024-10-30.md
+Performance Optimization & Troubleshooting|Table type selection (permanent vs transient)|I|Performance-Optimization-Troubleshooting--table-type-selection-permanent-vs-transient--2024-10-30.md
+CI/CD & Deployment Practices|Development, staging, and production environments|I|CICD-Deployment-Practices--development-staging-and-production-environments--2024-10-30.md
+CI/CD & Deployment Practices|Environment-specific configurations|I|CICD-Deployment-Practices--environment-specific-configurations--2024-10-30.md
+CI/CD & Deployment Practices|Promoting code across environments|I|CICD-Deployment-Practices--promoting-code-across-environments--2024-10-30.md
+CI/CD & Deployment Practices|SQL script versioning|I|CICD-Deployment-Practices--sql-script-versioning--2024-10-30.md
+CI/CD & Deployment Practices|Pre-commit hooks|I|CICD-Deployment-Practices--pre-commit-hooks--2024-10-30.md
+CI/CD & Deployment Practices|SQL linting and formatting|I|CICD-Deployment-Practices--sql-linting-and-formatting--2024-10-30.md
+Monitoring & Observability|Data freshness monitoring|I|Monitoring-Observability--data-freshness-monitoring--2024-10-30.md
+Monitoring & Observability|Pipeline execution status tracking|I|Monitoring-Observability--pipeline-execution-status-tracking--2024-10-30.md
+Monitoring & Observability|Failure detection and alerting|I|Monitoring-Observability--failure-detection-and-alerting--2024-10-30.md
+Monitoring & Observability|Execution duration tracking|I|Monitoring-Observability--execution-duration-tracking--2024-10-30.md
+Monitoring & Observability|Automated quality checks|I|Monitoring-Observability--automated-quality-checks--2024-10-30.md
+Monitoring & Observability|Quality metric dashboards|I|Monitoring-Observability--quality-metric-dashboards--2024-10-30.md
+Monitoring & Observability|Alert configuration for quality issues|I|Monitoring-Observability--alert-configuration-for-quality-issues--2024-10-30.md
+Monitoring & Observability|Test result tracking over time|I|Monitoring-Observability--test-result-tracking-over-time--2024-10-30.md
+Monitoring & Observability|Account usage views|I|Monitoring-Observability--account-usage-views--2024-10-30.md
+Monitoring & Observability|Query history analysis|I|Monitoring-Observability--query-history-analysis--2024-10-30.md
+Monitoring & Observability|Warehouse performance monitoring|I|Monitoring-Observability--warehouse-performance-monitoring--2024-10-30.md
+Monitoring & Observability|Storage usage monitoring|I|Monitoring-Observability--storage-usage-monitoring--2024-10-30.md
+Monitoring & Observability|Credit consumption tracking|I|Monitoring-Observability--credit-consumption-tracking--2024-10-30.md
+Monitoring & Observability|Login history and security monitoring|I|Monitoring-Observability--login-history-and-security-monitoring--2024-10-30.md
+Orchestration & Scheduling Tools|Task dependencies and precedence|I|Orchestration-Scheduling-Tools--task-dependencies-and-precedence--2024-10-30.md
+Orchestration & Scheduling Tools|Parallel vs sequential execution|I|Orchestration-Scheduling-Tools--parallel-vs-sequential-execution--2024-10-30.md

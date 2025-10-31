@@ -1,0 +1,27 @@
+Reporting & BI Concepts|Column properties and formatting|I|Reporting-BI-Concepts--column-properties-and-formatting--2024-10-30.md
+Reporting & BI Concepts|Chart types and when to use them (bar, line, pie, scatter, heatmap, etc.)|I|Reporting-BI-Concepts--chart-types-and-when-to-use-them-bar-line-pie-scatter-heatmap-etc--2024-10-30.md
+Reporting & BI Concepts|Key Performance Indicators (KPIs) and scorecards|I|Reporting-BI-Concepts--key-performance-indicators-kpis-and-scorecards--2024-10-30.md
+Reporting & BI Concepts|Dashboard layout and design principles|I|Reporting-BI-Concepts--dashboard-layout-and-design-principles--2024-10-30.md
+Reporting & BI Concepts|Filters and parameters|I|Reporting-BI-Concepts--filters-and-parameters--2024-10-30.md
+Reporting & BI Concepts|Interactive dashboards (drill-down, cross-filtering)|I|Reporting-BI-Concepts--interactive-dashboards-drill-down-cross-filtering--2024-10-30.md
+Reporting & BI Concepts|Accessibility considerations (color-blind friendly palettes)|I|Reporting-BI-Concepts--accessibility-considerations-color-blind-friendly-palettes--2024-10-30.md
+Reporting & BI Concepts|Power BI architecture and data model|I|Reporting-BI-Concepts--power-bi-architecture-and-data-model--2024-10-30.md
+Reporting & BI Concepts|Tableau workbooks and data sources|I|Reporting-BI-Concepts--tableau-workbooks-and-data-sources--2024-10-30.md
+Reporting & BI Concepts|Qlik Sense associative model|I|Reporting-BI-Concepts--qlik-sense-associative-model--2024-10-30.md
+Reporting & BI Concepts|Mode Analytics SQL-based reporting|I|Reporting-BI-Concepts--mode-analytics-sql-based-reporting--2024-10-30.md
+Reporting & BI Concepts|Business-friendly naming conventions|I|Reporting-BI-Concepts--business-friendly-naming-conventions--2024-10-30.md
+Reporting & BI Concepts|Metric definitions and calculations|I|Reporting-BI-Concepts--metric-definitions-and-calculations--2024-10-30.md
+Reporting & BI Concepts|Calculated fields and measures|I|Reporting-BI-Concepts--calculated-fields-and-measures--2024-10-30.md
+Reporting & BI Concepts|Dimension hierarchies|I|Reporting-BI-Concepts--dimension-hierarchies--2024-10-30.md
+Reporting & BI Concepts|Caching mechanisms|I|Reporting-BI-Concepts--caching-mechanisms--2024-10-30.md
+Unix/Linux & File Handling|Environment variables and PATH|I|UnixLinux-File-Handling--environment-variables-and-path--2024-10-30.md
+Unix/Linux & File Handling|Bash scripting basics|I|UnixLinux-File-Handling--bash-scripting-basics--2024-10-30.md
+Unix/Linux & File Handling|Variables and parameter passing|I|UnixLinux-File-Handling--variables-and-parameter-passing--2024-10-30.md
+Unix/Linux & File Handling|Conditionals (if-else)|I|UnixLinux-File-Handling--conditionals-if-else--2024-10-30.md
+Unix/Linux & File Handling|Loops (for, while)|I|UnixLinux-File-Handling--loops-for-while--2024-10-30.md
+Unix/Linux & File Handling|Functions in shell scripts|I|UnixLinux-File-Handling--functions-in-shell-scripts--2024-10-30.md
+Unix/Linux & File Handling|Exit codes and error handling|I|UnixLinux-File-Handling--exit-codes-and-error-handling--2024-10-30.md
+Unix/Linux & File Handling|File compression (gzip, tar)|I|UnixLinux-File-Handling--file-compression-gzip-tar--2024-10-30.md
+Unix/Linux & File Handling|CSV file handling|I|UnixLinux-File-Handling--csv-file-handling--2024-10-30.md
+Unix/Linux & File Handling|File transfer (scp, sftp)|I|UnixLinux-File-Handling--file-transfer-scp-sftp--2024-10-30.md
+Unix/Linux & File Handling|Reading and analyzing log files|I|UnixLinux-File-Handling--reading-and-analyzing-log-files--2024-10-30.md

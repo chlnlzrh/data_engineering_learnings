@@ -9,14 +9,15 @@ import { join } from 'path'
  */
 export async function GET(
   request: Request,
-  { params }: { params: { moduleId: string } }
+  { params }: { params: Promise<{ moduleId: string }> }
 ) {
   try {
-    const moduleId = decodeURIComponent(params.moduleId)
+    const { moduleId } = await params
+    const decodedModuleId = decodeURIComponent(moduleId)
     const startTime = Date.now()
     
     // Check if module exists
-    const moduleInfo = Object.values(MODULE_MAPPING).find(m => m.id === moduleId)
+    const moduleInfo = Object.values(MODULE_MAPPING).find(m => m.id === decodedModuleId)
     if (!moduleInfo) {
       return NextResponse.json(
         {
@@ -55,10 +56,10 @@ export async function GET(
     const allLessons = await parseAllLessons(lessonsDir)
     
     // Filter lessons for this module (fast operation after parallel parsing)
-    const lessons = allLessons.filter(lesson => lesson.moduleId === moduleId)
+    const lessons = allLessons.filter(lesson => lesson.moduleId === decodedModuleId)
     
     // Get module description from markdown files
-    const moduleDescription = getModuleDescription(moduleId)
+    const moduleDescription = getModuleDescription(decodedModuleId)
     
     // Process module metadata in parallel with lesson extraction
     const [moduleData] = await Promise.all([

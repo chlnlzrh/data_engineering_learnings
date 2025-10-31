@@ -1,0 +1,27 @@
+Orchestration & Scheduling Tools|dbt for SQL-based transformations|I|Orchestration-Scheduling-Tools--dbt-for-sql-based-transformations--2024-10-30.md
+Orchestration & Scheduling Tools|Cron expressions|I|Orchestration-Scheduling-Tools--cron-expressions--2024-10-30.md
+Orchestration & Scheduling Tools|Time zone considerations|I|Orchestration-Scheduling-Tools--time-zone-considerations--2024-10-30.md
+Orchestration & Scheduling Tools|Execution windows and maintenance windows|I|Orchestration-Scheduling-Tools--execution-windows-and-maintenance-windows--2024-10-30.md
+Data Transformation with dbt (Optional but Recommended)|Models as SELECT statements|I|Data-Transformation-with-dbt-Optional-but-Recommended--models-as-select-statements--2024-10-30.md
+Data Transformation with dbt (Optional but Recommended)|Project structure (models, macros, tests, seeds)|I|Data-Transformation-with-dbt-Optional-but-Recommended--project-structure-models-macros-tests-seeds--2024-10-30.md
+Data Transformation with dbt (Optional but Recommended)|Materializations (view, table, incremental, ephemeral)|I|Data-Transformation-with-dbt-Optional-but-Recommended--materializations-view-table-incremental-ephemeral--2024-10-30.md
+Data Transformation with dbt (Optional but Recommended)|refs() and sources() for lineage|I|Data-Transformation-with-dbt-Optional-but-Recommended--refs-and-sources-for-lineage--2024-10-30.md
+Data Transformation with dbt (Optional but Recommended)|Schema tests (unique, not_null, relationships, accepted_values)|I|Data-Transformation-with-dbt-Optional-but-Recommended--schema-tests-unique-not_null-relationships-accepted_values--2024-10-30.md
+Data Transformation with dbt (Optional but Recommended)|Custom data tests|I|Data-Transformation-with-dbt-Optional-but-Recommended--custom-data-tests--2024-10-30.md
+Data Transformation with dbt (Optional but Recommended)|schema.yml configuration|I|Data-Transformation-with-dbt-Optional-but-Recommended--schemayml-configuration--2024-10-30.md
+Data Transformation with dbt (Optional but Recommended)|Auto-generated documentation|I|Data-Transformation-with-dbt-Optional-but-Recommended--auto-generated-documentation--2024-10-30.md
+Data Transformation with dbt (Optional but Recommended)|Lineage graphs|I|Data-Transformation-with-dbt-Optional-but-Recommended--lineage-graphs--2024-10-30.md
+Data Transformation with dbt (Optional but Recommended)|Packages (dbt_utils)|I|Data-Transformation-with-dbt-Optional-but-Recommended--packages-dbt_utils--2024-10-30.md
+Soft Skills & Professional Practices|Translating technical concepts for non-technical stakeholders|I|Soft-Skills-Professional-Practices--translating-technical-concepts-for-non-technical-stakeholders--2024-10-30.md
+Soft Skills & Professional Practices|Writing clear documentation|I|Soft-Skills-Professional-Practices--writing-clear-documentation--2024-10-30.md
+Soft Skills & Professional Practices|Effective email and chat communication|I|Soft-Skills-Professional-Practices--effective-email-and-chat-communication--2024-10-30.md
+Soft Skills & Professional Practices|Presenting technical solutions|I|Soft-Skills-Professional-Practices--presenting-technical-solutions--2024-10-30.md
+Soft Skills & Professional Practices|Active listening and asking clarifying questions|I|Soft-Skills-Professional-Practices--active-listening-and-asking-clarifying-questions--2024-10-30.md
+Soft Skills & Professional Practices|Inline SQL code comments|I|Soft-Skills-Professional-Practices--inline-sql-code-comments--2024-10-30.md
+Soft Skills & Professional Practices|README files for repositories|I|Soft-Skills-Professional-Practices--readme-files-for-repositories--2024-10-30.md
+Soft Skills & Professional Practices|Data dictionary creation|I|Soft-Skills-Professional-Practices--data-dictionary-creation--2024-10-30.md
+Soft Skills & Professional Practices|Runbooks for operational procedures|I|Soft-Skills-Professional-Practices--runbooks-for-operational-procedures--2024-10-30.md
+Soft Skills & Professional Practices|Process documentation|I|Soft-Skills-Professional-Practices--process-documentation--2024-10-30.md
+Soft Skills & Professional Practices|Code review participation (giving and receiving feedback)|I|Soft-Skills-Professional-Practices--code-review-participation-giving-and-receiving-feedback--2024-10-30.md
+Soft Skills & Professional Practices|Pair programming|I|Soft-Skills-Professional-Practices--pair-programming--2024-10-30.md
+Soft Skills & Professional Practices|Cross-functional collaboration with business users|I|Soft-Skills-Professional-Practices--cross-functional-collaboration-with-business-users--2024-10-30.md

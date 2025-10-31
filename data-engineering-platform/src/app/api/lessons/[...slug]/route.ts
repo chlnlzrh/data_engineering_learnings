@@ -107,10 +107,10 @@ function extractModuleId(filename: string, content: string): string {
 
 export async function GET(
   request: NextRequest,
-  { params }: { params: { slug: string[] } }
+  { params }: { params: Promise<{ slug: string[] }> }
 ) {
   try {
-    const { slug } = params
+    const { slug } = await params
     
     if (!slug || slug.length === 0) {
       return NextResponse.json(

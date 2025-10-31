@@ -8,10 +8,11 @@ import { join } from 'path'
  */
 export async function GET(
   request: Request,
-  { params }: { params: { slug: string } }
+  { params }: { params: Promise<{ slug: string }> }
 ) {
   try {
-    const slug = decodeURIComponent(params.slug)
+    const { slug } = await params
+    const decodedSlug = decodeURIComponent(slug)
     
     // Try multiple possible paths for lessons directory
     const { existsSync } = await import('fs')
@@ -39,7 +40,7 @@ export async function GET(
       )
     }
     
-    const lesson = await getLessonBySlug(slug, lessonsDir)
+    const lesson = await getLessonBySlug(decodedSlug, lessonsDir)
     
     if (!lesson) {
       return NextResponse.json(

@@ -1,0 +1,27 @@
+Additional Technical Skills|Avro format|I|Additional-Technical-Skills--avro-format--2024-10-30.md
+Additional Technical Skills|ORC format|I|Additional-Technical-Skills--orc-format--2024-10-30.md
+Additional Technical Skills|XML basics|I|Additional-Technical-Skills--xml-basics--2024-10-30.md
+Additional Technical Skills|API concepts (endpoints, methods, authentication)|I|Additional-Technical-Skills--api-concepts-endpoints-methods-authentication--2024-10-30.md
+Additional Technical Skills|API authentication (API keys, OAuth)|I|Additional-Technical-Skills--api-authentication-api-keys-oauth--2024-10-30.md
+Additional Technical Skills|Reading API documentation|I|Additional-Technical-Skills--reading-api-documentation--2024-10-30.md
+Additional Technical Skills|Pandas for data manipulation|I|Additional-Technical-Skills--pandas-for-data-manipulation--2024-10-30.md
+Additional Technical Skills|Requests library for API calls|I|Additional-Technical-Skills--requests-library-for-api-calls--2024-10-30.md
+Additional Technical Skills|File I/O operations|I|Additional-Technical-Skills--file-io-operations--2024-10-30.md
+Additional Technical Skills|Error handling in Python|I|Additional-Technical-Skills--error-handling-in-python--2024-10-30.md
+Emerging Topics & Advanced Concepts|Batch vs streaming concepts|I|Emerging-Topics-Advanced-Concepts--batch-vs-streaming-concepts--2024-10-30.md
+Emerging Topics & Advanced Concepts|AWS, Azure, or GCP fundamentals|I|Emerging-Topics-Advanced-Concepts--aws-azure-or-gcp-fundamentals--2024-10-30.md
+Emerging Topics & Advanced Concepts|Cloud storage services (S3, Azure Blob, GCS)|I|Emerging-Topics-Advanced-Concepts--cloud-storage-services-s3-azure-blob-gcs--2024-10-30.md
+Emerging Topics & Advanced Concepts|IAM and access management|I|Emerging-Topics-Advanced-Concepts--iam-and-access-management--2024-10-30.md
+Data & Database Fundamentals|When to create indexes|I-A|Data-Database-Fundamentals--when-to-create-indexes--2024-10-30.md
+SQL & ELT Concepts|Join conditions and performance implications|I-A|SQL-ELT-Concepts--join-conditions-and-performance-implications--2024-10-30.md
+SQL & ELT Concepts|Window frames (ROWS BETWEEN, RANGE BETWEEN)|I-A|SQL-ELT-Concepts--window-frames-rows-between-range-between--2024-10-30.md
+SQL & ELT Concepts|PERCENTILE_CONT and PERCENTILE_DISC|I-A|SQL-ELT-Concepts--percentile_cont-and-percentile_disc--2024-10-30.md
+SQL & ELT Concepts|Statistical functions (STDDEV, VARIANCE, CORR)|I-A|SQL-ELT-Concepts--statistical-functions-stddev-variance-corr--2024-10-30.md
+SQL & ELT Concepts|Array functions (ARRAY_AGG, FLATTEN)|I-A|SQL-ELT-Concepts--array-functions-array_agg-flatten--2024-10-30.md
+SQL & ELT Concepts|JSON parsing and extraction (PARSE_JSON, JSON_EXTRACT_PATH_TEXT)|I-A|SQL-ELT-Concepts--json-parsing-and-extraction-parse_json-json_extract_path_text--2024-10-30.md
+SQL & ELT Concepts|Regular expressions in SQL|I-A|SQL-ELT-Concepts--regular-expressions-in-sql--2024-10-30.md
+SQL & ELT Concepts|Reading execution plans|I-A|SQL-ELT-Concepts--reading-execution-plans--2024-10-30.md
+SQL & ELT Concepts|Filter selectivity and predicate pushdown|I-A|SQL-ELT-Concepts--filter-selectivity-and-predicate-pushdown--2024-10-30.md
+SQL & ELT Concepts|Query optimization fundamentals|I-A|SQL-ELT-Concepts--query-optimization-fundamentals--2024-10-30.md
+SQL & ELT Concepts|Transformation layer design|I-A|SQL-ELT-Concepts--transformation-layer-design--2024-10-30.md
+SQL & ELT Concepts|Idempotency in data pipelines|I-A|SQL-ELT-Concepts--idempotency-in-data-pipelines--2024-10-30.md

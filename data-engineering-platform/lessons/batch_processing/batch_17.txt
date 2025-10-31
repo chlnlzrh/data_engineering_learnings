@@ -1,0 +1,27 @@
+Reporting & BI Concepts|Query optimization for BI tools|I-A|Reporting-BI-Concepts--query-optimization-for-bi-tools--2024-10-30.md
+Reporting & BI Concepts|Materialized views for reporting|I-A|Reporting-BI-Concepts--materialized-views-for-reporting--2024-10-30.md
+Reporting & BI Concepts|Dashboard performance best practices|I-A|Reporting-BI-Concepts--dashboard-performance-best-practices--2024-10-30.md
+Unix/Linux & File Handling|Script scheduling and automation|I-A|UnixLinux-File-Handling--script-scheduling-and-automation--2024-10-30.md
+Unix/Linux & File Handling|Text processing (awk, sed)|I-A|UnixLinux-File-Handling--text-processing-awk-sed--2024-10-30.md
+Unix/Linux & File Handling|Large file processing techniques|I-A|UnixLinux-File-Handling--large-file-processing-techniques--2024-10-30.md
+Unix/Linux & File Handling|File watching and monitoring|I-A|UnixLinux-File-Handling--file-watching-and-monitoring--2024-10-30.md
+Unix/Linux & File Handling|Debugging shell scripts|I-A|UnixLinux-File-Handling--debugging-shell-scripts--2024-10-30.md
+Version Control & Team Collaboration|Rebasing (git rebase)|I-A|Version-Control-Team-Collaboration--rebasing-git-rebase--2024-10-30.md
+Performance Optimization & Troubleshooting|Understanding query execution plans|I-A|Performance-Optimization-Troubleshooting--understanding-query-execution-plans--2024-10-30.md
+Performance Optimization & Troubleshooting|Identifying performance bottlenecks|I-A|Performance-Optimization-Troubleshooting--identifying-performance-bottlenecks--2024-10-30.md
+Performance Optimization & Troubleshooting|Query profiling in Snowflake|I-A|Performance-Optimization-Troubleshooting--query-profiling-in-snowflake--2024-10-30.md
+Performance Optimization & Troubleshooting|Analyzing bytes scanned and pruning efficiency|I-A|Performance-Optimization-Troubleshooting--analyzing-bytes-scanned-and-pruning-efficiency--2024-10-30.md
+Performance Optimization & Troubleshooting|Warehouse utilization metrics|I-A|Performance-Optimization-Troubleshooting--warehouse-utilization-metrics--2024-10-30.md
+Performance Optimization & Troubleshooting|Partition pruning strategies|I-A|Performance-Optimization-Troubleshooting--partition-pruning-strategies--2024-10-30.md
+Performance Optimization & Troubleshooting|Reducing data scanning through filters|I-A|Performance-Optimization-Troubleshooting--reducing-data-scanning-through-filters--2024-10-30.md
+Performance Optimization & Troubleshooting|Materialized view usage|I-A|Performance-Optimization-Troubleshooting--materialized-view-usage--2024-10-30.md
+Performance Optimization & Troubleshooting|Result set caching strategies|I-A|Performance-Optimization-Troubleshooting--result-set-caching-strategies--2024-10-30.md
+Performance Optimization & Troubleshooting|Join order optimization|I-A|Performance-Optimization-Troubleshooting--join-order-optimization--2024-10-30.md
+Performance Optimization & Troubleshooting|Minimizing subquery usage|I-A|Performance-Optimization-Troubleshooting--minimizing-subquery-usage--2024-10-30.md
+Performance Optimization & Troubleshooting|CTE vs subquery performance|I-A|Performance-Optimization-Troubleshooting--cte-vs-subquery-performance--2024-10-30.md
+Performance Optimization & Troubleshooting|DISTINCT optimization|I-A|Performance-Optimization-Troubleshooting--distinct-optimization--2024-10-30.md
+Performance Optimization & Troubleshooting|Aggregate function optimization|I-A|Performance-Optimization-Troubleshooting--aggregate-function-optimization--2024-10-30.md
+Performance Optimization & Troubleshooting|Parallel processing and concurrency|I-A|Performance-Optimization-Troubleshooting--parallel-processing-and-concurrency--2024-10-30.md
+Performance Optimization & Troubleshooting|Batch sizing optimization|I-A|Performance-Optimization-Troubleshooting--batch-sizing-optimization--2024-10-30.md
+Performance Optimization & Troubleshooting|Staging vs direct transformations|I-A|Performance-Optimization-Troubleshooting--staging-vs-direct-transformations--2024-10-30.md
+Performance Optimization & Troubleshooting|Incremental vs full refresh decisions|I-A|Performance-Optimization-Troubleshooting--incremental-vs-full-refresh-decisions--2024-10-30.md
