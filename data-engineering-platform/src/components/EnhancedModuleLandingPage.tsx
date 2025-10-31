@@ -1,6 +1,7 @@
 "use client"
 
 import { useState, useEffect } from "react"
+import { useRouter } from "next/navigation"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { Badge } from "@/components/ui/badge"
@@ -69,9 +70,29 @@ export default function EnhancedModuleLandingPage({
   labs, 
   progress 
 }: ModuleLandingPageProps) {
+  const router = useRouter()
   const [filter, setFilter] = useState<'all' | 'F' | 'I' | 'A'>('all')
   const [sortBy, setSortBy] = useState<'default' | 'time' | 'complexity'>('default')
   const [searchTerm, setSearchTerm] = useState('')
+
+  // Function to generate lesson slug for navigation
+  const generateLessonSlug = (lesson: Lesson): string => {
+    // Create a URL-friendly slug from the lesson title
+    const slug = lesson.title
+      .toLowerCase()
+      .replace(/[^a-z0-9\s-]/g, '') // Remove special characters except spaces and hyphens
+      .replace(/\s+/g, '-') // Replace spaces with hyphens
+      .replace(/-+/g, '-') // Replace multiple hyphens with single
+      .trim()
+    
+    return slug
+  }
+
+  // Function to navigate to lesson
+  const navigateToLesson = (lesson: Lesson) => {
+    const slug = generateLessonSlug(lesson)
+    router.push(`/lessons/${slug}`)
+  }
   
   // Mock learning objectives with progress
   const [learningObjectives, setLearningObjectives] = useState<LearningObjective[]>([
@@ -313,7 +334,10 @@ export default function EnhancedModuleLandingPage({
                         <Bookmark className={`w-4 h-4 ${lesson.bookmarked ? 'fill-current' : ''}`} />
                       </Button>
                       
-                      <Button size="sm">
+                      <Button 
+                        size="sm"
+                        onClick={() => navigateToLesson(lesson)}
+                      >
                         {lesson.completed ? (
                           <>
                             <CheckCircle2 className="w-4 h-4 mr-2" />
